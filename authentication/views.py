@@ -39,6 +39,27 @@ def login(request):
 
 def registration(request):
     """render registration page"""
-    registration_form = UserRegistrationForm()
+
+    if request.user.is_authenticated:
+       return redirect(reverse('index'))
+
+    if request.method == "POST":
+        registration_form = UserRegistrationForm(request.POST)
+
+        if registration_form.is_valid():
+          registration_form.save()
+
+          user = auth.authenticate(username=request.POST['username'],
+                                   password=request.POST['password1'])
+
+          if user:
+              auth.login(user=user, request=request)
+              messages.success(request, "You have been successful")
+              return redirect(reverse('index'))
+          else:
+              messages.error(request, "Sorry there has been a problem with registration")
+    else:   
+        registration_form = UserRegistrationForm()
+
     return render(request, 'registration.html', 
         {"registration_form": registration_form})
