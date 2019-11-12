@@ -1,7 +1,8 @@
-# Code Institute
+create virtualenv
+mkdir dev
+cd dev
+virtualenv -p python3 .
+source bin/activate
+easy_install 
+migrate
 
-Welcome USER_NAME,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
