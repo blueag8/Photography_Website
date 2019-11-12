@@ -4,5 +4,5 @@
    "python.linting.pep8Enabled": false,
    "python.linting.flake8Enabled": true,
    "python.terminal.activateEnvironment": false,
-   "python.pythonPath": "dev/bin/python3.7"
+   "python.pythonPath": "/usr/bin/python3"
 }

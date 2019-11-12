@@ -16,6 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from authentication.views  import index, logout, login
+from authentication.forms import UserLoginForm
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),

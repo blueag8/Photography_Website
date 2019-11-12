@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
+<title>User Login</title>
 <body>
 <nav>
         <ul>
@@ -24,6 +25,10 @@
         {% for message in messages %} {{ message }} {% endfor %}
     </div>
     {% endif %} {% block content %}{% endblock %}
+
+    <form method ="POST">
+    {{ login_form }}
+    </form>
     
 </body>
 </html>
