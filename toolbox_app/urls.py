@@ -17,9 +17,15 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from authentication.views import index
 from authentication import urls as authentication_urls
+from services import urls as services_urls
+from services.views import all_services
+from django.views import static
+from .settings import MEDIA_ROOT
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', index, name="index"),
-    url(r'^authentication/', include(authentication_urls))
+    url(r'^services/', include(services_urls)),
+    url(r'^authentication/', include(authentication_urls)),
+    url(r'^media/(?P<path>.*)$', static.serve, {'document_root': MEDIA_ROOT}),
 ]
