@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect, reverse
 
 # Create your views here.
 def view_cart(request):
@@ -20,7 +20,7 @@ def adjust_cart(request, id):
 
     if quantity >0:
         cart[id] = quantity
-        else:
+    else:
             cart.pop(id)
 
     request.session['cart'] = cart

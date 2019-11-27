@@ -1,9 +1,9 @@
 from django.test import TestCase
-from .models import Services
+from .models import Product
 # Create your tests here.
-class ServicesTest(TestCase):
+class ProductTest(TestCase):
    """"""
 
    def test_str(self):
-       test_name = Services(name = 'A service')
-       self.assertEqual(str(test_name), 'A service')
+       test_name = Product(name = 'A product')
+       self.assertEqual(str(test_name), 'A product')
