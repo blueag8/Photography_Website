@@ -1,5 +1,6 @@
 from django.shortcuts import render, get_object_or_404
 from django.contrib.auth.decorators import login_required
+from django.contrib import messages
 from .forms import MakePaymentForm, OrderForm
 from .models import OrderLineItem
 from django.conf import settings
@@ -12,7 +13,7 @@ stripe.api_key = settings.STRIPE_SECRET
 
 @login_required()
 def checkout(request):
-    if request.method = "POST":
+    if request.method == "POST":
         order_form = OrderForm(request.POST)
         payment_form = MakePaymentForm(request.POST)
 
@@ -21,41 +22,41 @@ def checkout(request):
             order.date = timezone.now()
             order.save()
 
-        cart = request.session.get('cart', {})
-        total = 0
-        for id, quantity in cart.items():
-            product = get_object_or_404(Product, pk=id)
-            total += quantity * product.price
-            order_line_item = OrderLineItem(
-                order= order,
-                product= product,
-                quantity= quantity,
+            cart = request.session.get('cart', {})
+            total = 0
+            for id, quantity in cart.items():
+               product = get_object_or_404(Product, pk=id)
+               total += quantity * product.price
+               order_line_item = OrderLineItem(
+                  order= order,
+                  product= product,
+                  quantity= quantity,
             )
 
-           order_line_item.save()
+            order_line_item.save()
 
-        try:
-           customer = stripe.Charge.create(
+            try:
+               customer = stripe.Charge.create(
                amount = int(total * 100),
                currency = "GBP",
                description = request.user.email,
                card = payment_form.cleaned_data['stripe_id'],
            )
-        except stripe.error.CardError:
-            messages.error(request, "Declined. Sorry, There is an issue with your card!")
+            except stripe.error.CardError:
+                messages.error(request, "Declined. Sorry, There is an issue with your card!")
         
-        if customer.paid:
-            messages.error(request, "Thank you, Your payment has been successful!")
-            request.session['cart'] = {}
-            return redirect(reverse('products'))
+            if customer.paid:
+                messages.error(request, "Thank you, Your payment has been successful!")
+                request.session['cart'] = {}
+                return redirect(reverse('products'))
+            else:
+                messages.error(request, "Sorry we were unable to take payment with that card")
+
         else:
-            messages.error(request, "Sorry we were unable to take payment with that card")
-
+           print(payment_form.errors)
+           messages.error(request, "We were unable to take payment with that card")
     else:
-        print(payment_form.errors)
-        messages.error(request, "We were unable to take payment with that card")
-else:
-    payment_form = MakePaymentForm()
-    order_form = OrderForm()
+       payment_form = MakePaymentForm()
+       order_form = OrderForm()
 
-return render(request, "checkout.html", {"order_form": order_form, "payment_form": payment_form, "publishable":settings.STRIPE_PUBLISHABLE})
+    return render(request, "checkout.html", {"order_form": order_form, "payment_form": payment_form, "publishable":settings.STRIPE_PUBLISHABLE})

@@ -2,8 +2,8 @@
 {% load static from staticfiles %}
 {% block content %}
 
-<div class="row row flex">
-{% for item in cart_items%}
+<div class="row row-flex">
+{% for item in cart_items %}
 
 <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-sm-6 col-md-4 display panel panel-default">
 
@@ -34,6 +34,7 @@
 <div class="row">
 <p>Total</p>
 <p><span class="glyphicon glyphicon-pound" aria-hidden="true"></span>{{ total }}</p>
- <a href="/" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Checkout</a>
+ <a href="{% url 'checkout' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Checkout</a>
 </div>
+
 {% endblock %}
