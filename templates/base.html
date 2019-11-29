@@ -1,6 +1,6 @@
 {% load staticfiles %}
 
-<html>
+<!DOCTYPE html>
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -8,18 +8,18 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link href="https://fonts.googleapis.com/css?family=Hind+Siliguri|Orbitron&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Hind+Siliguri|Orbitron&display=swap" rel="stylesheet">    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{% static 'fontawesome/css/fontawesome.min.css' %}">
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
     {% block head_js %}
     {% endblock head_js %}
-     <title>{% block page_title %}{% endblock %}</title>
+     <title>{% block page_title %}Henk de Weerd Photography{% endblock %}</title>
   </head>
   <body>
-    <h1>  {% block page_heading %}{% endblock %}</h1>
+    <h1>{% block page_heading %}{% endblock %}</h1>
 <nav class="navbar navbar-dark bg-dark">
   <!-- Navbar content -->
- <a class="navbar-brand" href="#"><img src="/static/img/Henk_Photography.jpg"></i></a>
+ <a class="navbar-brand" href="#"><img class="logo" src="/static/img/Henk_Photography.jpg"></i></a>
  
        {% if user.is_authenticated %}
            <li class="nav-item">
@@ -28,27 +28,28 @@
            <a class="nav-link"href="{% url 'logout' %}">Logout</a></li>
             {% else %}
            <li class="nav-item">
-           <a class="nav-link" href="{% url 'login' %}">Login</a></li>
+           <a class="nav-link" href="{% url 'view_cart' %}">Home</a></li>
            <li class="nav-item">
-           <a class="nav-link" href="{% url 'registration' %}">Sign Up</a></li>
+           <a class="nav-link" href="{% url 'view_cart' %}">About</a></li>
+           <li class="nav-item">
+           <a class="nav-link" href="{% url 'view_cart' %}">Portfolio</a></li>
+           <li class="nav-item">
+           <a class="nav-link" href="{% url 'view_cart' %}">Shop</a></li>
+           <li class="nav-item">
+           <a class="nav-link" href="{% url 'view_cart' %}">Contact</a></li>
+          
             {% endif %}
             
            <li class="nav-item">
-           <i class="fa fa-shopping-cart"></i>Cart
            <a class="nav-link" href="{% url 'view_cart' %}">
-       
+         
+           <i class="fa fa-shopping-bag"></i>
+    
            {% if product_count > 0 %}
            <label class="badge badge-warning">{{product_count}}</label>
            {% endif %}
            </a>
            </li>
-    
-     <div class="container">
-        <form class="inline-form" action="{% url 'search' %}" method="GET">
-          <input type="text" name="q">
-           <button type="submit">Search</button>
-        </form>
-    </div>
   </div>
          
     </nav>
