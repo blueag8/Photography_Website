@@ -5,7 +5,7 @@ easy_install
 migrate
 
 
-#  Milestone 4- Full Stack Web Site| Professional Photography (e-commerce) website
+#  Milestone 4- Full Stack | Professional Photography (e-commerce) website
 
 
 view Heroku app [here]
@@ -18,14 +18,16 @@ https://github.com/blueag8/
 
 ## About The Project
 
-This is the final Project for the Code Instit
+This is the final Project for the Code Institute and the main technologies that will be used include:
+ 
 HTML, CSS, JavaScript, Python+Django.
-
-
+Relational Database
+Stripe Payments
+Additional Libraries
 
 Git and GitHub are used for version control,
 
-Gitpod
+Gitpod IDE
 AWS Cloud9 used for development.
 
 View [here]
@@ -271,5 +273,5 @@ https://www.10bestdesign.com/dirtymarkup/
 eyJoaXN0b3J5IjpbLTE1MDk4MDk5NjddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY2OTc1MTVdfQ==
+eyJoaXN0b3J5IjpbMTExNTI2MjkzMF19
 -->
