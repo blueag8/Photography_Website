@@ -12,7 +12,8 @@ https://github.com/blueag8/Photography_Website
 
 ## About The Project
 
-This is the final Project for the Code Institute Full Stack Web Development
+This is the final Project for the Code Institute Full Stack Web Development Course.
+
 and the main technologies that will be used include:
  
 HTML, CSS, JavaScript, Python+Django.
@@ -127,6 +128,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk1MTAxMjgsMTk1MzYyMjU3LC05NT
-MwODE4MzYsNDg5NjAxMjM1XX0=
+eyJoaXN0b3J5IjpbLTkwNjU1MzAwMywxOTUzNjIyNTcsLTk1Mz
+A4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
