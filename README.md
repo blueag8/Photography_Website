@@ -8,7 +8,7 @@ view Heroku app [here]
 
 GitHub repository [here]
 
-https://github.com/blueag8/
+https://github.com/blueag8/Photography_Website
 
 ## About The Project
 
@@ -69,15 +69,7 @@ Login/registration features will provide the site owner with a customer database
 
 ## Technologies Used
 
- - HTML checked with [https://validator.w3.org/nu/#textarea](https://validator.w3.org/nu/#textarea)
- - CSS for styling and checked using https://jigsaw.w3.org/css-validator/validator<p><a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
-        alt="Valid CSS!" /> </a></p>
 
-
- -   jQuery- to simplify DOM manipulation. 
-
- - Heroku 0.1.4- used as a platform for deployment
  - Git and GitHub- used for version control. 
  
 
@@ -85,12 +77,6 @@ Login/registration features will provide the site owner with a customer database
 
 **Responsive Design and styling**
 
-Because of the time restraints and encountering many issues with the functionality of the application, which caused delays, the responsive design has much yet to be desired. 
-Layout is 'OK' on portrait mobile but not if viewed in landscape. Desktop layout is 'better' but not ideal.
- 
-Images need resizing and adjusting still for a sharper and better image quality. 
-
-The Yellow used for "7 months +" is quite harsh on the users eye. An alternative colour will be more visually pleasing.
 
 ## Testing
 
@@ -147,6 +133,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzYyMjU3LC05NTMwODE4MzYsNDg5Nj
-AxMjM1XX0=
+eyJoaXN0b3J5IjpbNzU2OTEzODk2LDE5NTM2MjI1NywtOTUzMD
+gxODM2LDQ4OTYwMTIzNV19
 -->
