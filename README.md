@@ -49,20 +49,16 @@ Reports could be made to provide feedback on the age-specific recipes being favo
 Login/registration features will provide the site owner with a customer database which in future can be used to build and maintain customer relationships. 
 
 ## Development Process
-create virtualenv
-virtualenv -p python3 .
-source bin/activate
-easy_install 
-migrate
 
-**Wireframes**![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Map.png)
+**Wireframes**
+![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Map.png)
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
 ## Data Schema![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Cart.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)
 
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Payment_Confirmation.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Continue_to_Payment.png)
 **Recipe**![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_Form.png)
 
-![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Mobile_Mockup_home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Mobile_Mockup4.png)[enter link description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_ConfirmationMobile.png)
+![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Mobile_Mockup_home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Mobile_Mockup4.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_ConfirmationMobile.png)
 **Category**
 
 
@@ -116,34 +112,16 @@ The Yellow used for "7 months +" is quite harsh on the users eye. An alternative
 
 
 ## Deployment
+create virtualenv
+virtualenv -p python3 .
+source bin/activate
+easy_install 
+migrate
 
 Requirements to run code locally:
 
-1. Clone the repository at 
-https://github.com/blueag8/babyappytite.git
-2. Install Python 3.6 using the command $pip3 install python
-3. Install Flask-Pymongo using the command $pip3 
-install flask-pymongo
-4. Create a requirements.txt file by using the command $pip3 freeze --local > requirements.txt
-5.  Create a Procfile with the command $echo web: python app.py 
-6. Install Heroku via the CLI with $sudo install Heroku --classic
-7. Heroku config vars need to be set 
 
-Port 0.0.0.0
-IP 8080
-MONGO_URI
 
-For the purpose of assesment the following configs are required:
-Database Name= "Baby_Recipes"
-MONGO URI ="mongodb+srv://blueag8:mongo8@cluster0-iodau.mongodb.net/Baby_Recipes?retryWrites=true&w=majority"
-
-line 167.  in app.py
-
-(for testing  purposes set debug to =True.) 
-if __name__ == '__main__':
-    app.run(host=os.environ.get('IP'),
-            port=int(os.environ.get('PORT')),
-            debug=False)
 
 # Credits
 
@@ -161,6 +139,7 @@ Slack Channel :
 **Images**
 **Referenced** following documentation, tutorials and code checking sites:
 
+
 https://jshint.com/
 https://www.w3schools.com
 
@@ -168,6 +147,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjEwNTY3OCwtOTUzMDgxODM2LDQ4OT
+eyJoaXN0b3J5IjpbMTk1MjU3MTgyNSwtOTUzMDgxODM2LDQ4OT
 YwMTIzNV19
 -->
