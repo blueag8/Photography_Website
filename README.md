@@ -57,7 +57,7 @@ Deployment via "Heroku"*
 
 **Site Owners Potential**
 
-Earn Money and showc
+Earn Money selling products and showcase/a portfolio to the public.
 
 ## Development Process
 
@@ -137,6 +137,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2Mzk0MDQxLDE5NTM2MjI1NywtOTUzMD
-gxODM2LDQ4OTYwMTIzNV19
+eyJoaXN0b3J5IjpbOTA5NTI4NjcsMTk1MzYyMjU3LC05NTMwOD
+E4MzYsNDg5NjAxMjM1XX0=
 -->
