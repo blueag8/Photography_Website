@@ -52,15 +52,12 @@ Deployment via "Heroku"*
 # UX
 **External User Story**
 
+ Discover and purchase photographs from a particular photographer.
 
 
 **Site Owners Potential**
 
-The possibility to provide users with the ability to get an ingredients list to build a shopping list and to add items to a shopping cart. 
-
-Reports could be made to provide feedback on the age-specific recipes being favourited, advertising can also be customized to target 'age' specific audiences.
-
-Login/registration features will provide the site owner with a customer database which in future can be used to build and maintain customer relationships. 
+Earn Money and showc
 
 ## Development Process
 
@@ -140,6 +137,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjE5NTU5MywxOTUzNjIyNTcsLTk1Mz
-A4MTgzNiw0ODk2MDEyMzVdfQ==
+eyJoaXN0b3J5IjpbNjA2Mzk0MDQxLDE5NTM2MjI1NywtOTUzMD
+gxODM2LDQ4OTYwMTIzNV19
 -->
