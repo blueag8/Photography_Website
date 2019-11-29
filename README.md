@@ -65,10 +65,23 @@ Earn Money selling products and showcase/promote work to a public audience.
 
 Wants:
 
-3 Different Photo sizes
+3 Photo sizes
 Unframed 
 No Borders
-Has 
+Signed
+
+Image Galleries
+Filter Options 
+ALL
+landscape
+travel
+	-India
+	-France
+	-Vietnam
+	-Taiwan
+Family
+Minimalist
+South Austra
 
 ## Development Process
 
@@ -148,6 +161,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4MTQ5MDgsMTMzMDYyODc1NywxOTUzNj
-IyNTcsLTk1MzA4MTgzNiw0ODk2MDEyMzVdfQ==
+eyJoaXN0b3J5IjpbLTM2MjE2OTY4MCwxMzMwNjI4NzU3LDE5NT
+M2MjI1NywtOTUzMDgxODM2LDQ4OTYwMTIzNV19
 -->
