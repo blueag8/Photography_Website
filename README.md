@@ -12,7 +12,8 @@ https://github.com/blueag8/Photography_Website
 
 ## About The Project
 
-This is the final Project for the Code Institute and the main technologies that will be used include:
+This is the final Project for the Code Institute Full Stack Web Development
+and the main technologies that will be used include:
  
 HTML, CSS, JavaScript, Python+Django.
 Relational Database
@@ -110,7 +111,7 @@ Code Institue module and tutorials
 
 Slack Code-Institute
 
-
+https://colinprior.co.uk 
 
 
 **Images**
@@ -124,7 +125,8 @@ https://www.w3schools.com
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0Mjc2MjAsMTk1MzYyMjU3LC05NTMwOD
-E4MzYsNDg5NjAxMjM1XX0=
+eyJoaXN0b3J5IjpbLTEzOTk1MTAxMjgsMTk1MzYyMjU3LC05NT
+MwODE4MzYsNDg5NjAxMjM1XX0=
 -->
