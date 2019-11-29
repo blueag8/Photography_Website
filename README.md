@@ -87,17 +87,6 @@ Login/registration features will provide the site owner with a customer database
  
 
 **Process**
-Due to time restraints and a deadline to submit project, there are still yet many implementations and adjustments required before I would call this is a saleable application and one I am proud of to publicize. 
-
-To insert recipes in bulk I used notepad see "recipes.txt" in "documents and wireframes" folder. This was easily copied and pasted into the AWS CLI to allow a quick installation of documents to the database. 
-
-I commenced development of the application using both frameworks "Materialize" and "Bootstrap". A tutor suggested that the frameworks may try to compete with each other. At this stage, I was nearing the deadline and had already written the bulk of my application. I was having issues with my forms no longer submitting data properly. As suggested I removed Bootstrap, which affected any HTML and CSS editing I had previously done. This caused quite a few issues with the styling and also with some of the JavaScript functionality.
-
-The functionality is successful, with users being able to create, edit and delete entries.  However, as there is currently no registration or user login feature available, this means that access is to the 'Public' meaning that anyone can edit or delete recipes which were previously not published by them.
-
-The functionality to share an image has yet to be implemented. 
-At current, there is no option for a user to insert or edit recipe images.  A few images have been stored using the URL for the image link on Cloudinary, and stored in the Database as a string under "image".  To ensure that the image will not disappear on the editing/updating of the recipe the mongo operator $set has been used on all other form fields, meaning that these will be targeted and image will remain the same.
-Allergens and special diets such as vegetarian, vegan etc are now a huge priority to many when planning meals. Also due to time restraints, I am yet to implement the ability to filter recipes for user preferences and needs.  Allergens at present are still listed in the recipes and are stored in the database but recipes are not separated from each other within the category "ages".
 
 **Responsive Design and styling**
 
@@ -123,25 +112,9 @@ The Yellow used for "7 months +" is quite harsh on the users eye. An alternative
  
 **Process/Challenges **
 
-I encountered multiple issues with the browser caching, this meant that I had to manually restart the application regularly and clear any cookies by processing an "Empty cache and/or hard refresh".
-Because I had not realized this was an issue until late in my project this caused me a considerable delay. It is possible, that errors may have been corrected quickly but because the browser was not refreshing, I had assumed the corrections had not been successful so continued to alter the code when it may have been unnecessary, thus adding to the time taken to develop a functioning application.
 
 **Issues encountered** 
 
-*Issue* 1. Form submitted successfully on adding but on editing the category age value was changed from ''string' to 'null' when returned to database. This resulted in the recipe disappearing from the application 'get_recipe' results.
-*Solution:* HTML Jinga templates were incorrect and the placement needed to be adjusted.
-
-*Issue* 2. Modals not firing from triggers also resulted in forms not being submitted.
-*Solution:* This was because I had used  Bootstrap as the framework to provide the template for the Modal. The functionality was affected when I removed the Bootstrap framework. This was solved by using the Materialize Modal template.
-
-*Issue* 3. Checkbox values not saving.
-*Solution:* Also a result of having used two frameworks and removing one without adjusting the HTML.  Correcting the HTML and so that the Javascript would match up to the Materialize template.
-
-*Issue* 4. Routes to category-specific recipes returning all recipes and not filtering the recipes by age/stages as it should have. This was a result of routing issues whilst merging the four previous routes to recipes. I had previously separated the routes for each category-age which did not reflect the "DRY" principle of coding, this was brought to my attention from my tutor Anto.  I found it challenging to achieve the result I had desired of displaying recipes on age-specific pages. I had two collections in the database and wished to ensure that they would relate to each other.  I attempted to try the $lookup functionality which worked in the CLI connection to MongoDB but I could not translate into Python for the application.
-The solution was to create a route using the variable "category-age" and to target the "Recipes"  collection with a field filter/search function, rather than trying to access the categories collection and using the category id.
-
-*Issue* 6. "Add Steps" and "Add Ingredient" fields not saving data.
-*Solution:* This was a result of a jQuery and targeting the buttons, the names were not identical to what the class was on the Html page. The name field on the inputs in the javascript had an '[]' on them which also caused issue.
 
 ## Deployment
 
@@ -179,49 +152,22 @@ if __name__ == '__main__':
 
 Mentor Antonio Rodriguez
 
-Code Institue module and tutorial for Data-Centric Development
-[https://github.com/Code-Institute-Solutions/TaskManager](https://github.com/Code-Institute-Solutions/TaskManager)
-Code Institute Tutors:
-Michael Park
-Niel McEwan
-Slack Channel #Data-Centric-Dev:
-Fellow student's questions on Slack and referred to projects including:
-Dave O'dea's "FlaskBook" Recipe App 
-https://github.com/davedodea/FlaskBook
-Deirdre Welden's "DumpDinners" Recipe App
-https://github.com/Deirdre18/dumpdinners-recipe-app
+Code Institue module and tutorials
 
-jQuery- function to add or delete fields
-Utilized some Materialise selection functions and modal trigger.
+Slack Channel :
 
-(Borrowed and adjusted code to add a functioning button to add and delete recipe ingredients and steps so that
-the could be submitted as array items, and returned as list items).
-Please see:
 
-https://www.sanwebe.com/2013/03/addremove-input-fields-dynamically-with-jquery
-https://stackoverflow.com/questions/14853779/adding-input-elements-dynamically-to-form
 
-**Images** used from 
-https://www.seekclipart.com/clipart/
-Category-age and image links edited and or produced by myself using paint.
-Recipe images from the Ebook from https://www.annabelkarmel.com/
 
-**Recipes** borrowed for development **from** 
-
-https://www.annabelkarmel.com/
-
+**Images**
 **Referenced** following documentation, tutorials and code checking sites:
-https://flask-pymongo.readthedocs.io/en/latest/
-https://docs.mongodb.com/manual/crud/
+
 https://jshint.com/
 https://www.w3schools.com
-https://www.10bestdesign.com/dirtymarkup/
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk4MDk5NjddfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDk3OTI2M119
+eyJoaXN0b3J5IjpbMTE3MzA2ODE4M119
 -->
