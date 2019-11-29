@@ -1,9 +1,3 @@
-create virtualenv
-virtualenv -p python3 .
-source bin/activate
-easy_install 
-migrate
-
 
 #  Milestone 4- Django Full Stack Project| Professional Photography (e-commerce) website
 
@@ -55,7 +49,14 @@ Reports could be made to provide feedback on the age-specific recipes being favo
 Login/registration features will provide the site owner with a customer database which in future can be used to build and maintain customer relationships. 
 
 ## Development Process
+create virtualenv
+virtualenv -p python3 .
+source bin/activate
+easy_install 
+migrate
+
 **Wireframes**
+
 
 ## Data Schema
 **The Schema used for storing this data in MongoDB is as follows:**
@@ -169,5 +170,5 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzA2ODE4M119
+eyJoaXN0b3J5IjpbNDg5NjAxMjM1XX0=
 -->
