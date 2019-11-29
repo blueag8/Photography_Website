@@ -4,11 +4,15 @@
 
 view Heroku app [here]
 
-
+https://herokuapp.com
 
 GitHub repository [here]
 
 https://github.com/blueag8/Photography_Website
+
+Gitpod
+
+
 
 ## About The Project
 
@@ -52,7 +56,7 @@ Deployment via "Heroku"*
 # UX
 **External User Story**
 
- Discover and purchase photographs from a particular photographer.
+ Discover and purchase photographs from a professional photographer.
 
 
 **Site Owners Potential**
@@ -137,6 +141,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI0NzgyMDUsMTk1MzYyMjU3LC05NT
-MwODE4MzYsNDg5NjAxMjM1XX0=
+eyJoaXN0b3J5IjpbMTMzMDYyODc1NywxOTUzNjIyNTcsLTk1Mz
+A4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
