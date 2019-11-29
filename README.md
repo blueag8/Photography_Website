@@ -5,7 +5,7 @@ easy_install
 migrate
 
 
-#  Milestone 4 Full Stack Web Development| Photography e-commerce website
+#  Milestone 4- Full Stack Web Site| Professional Photography (e-commerce) website
 
 
 view Heroku app [here]
@@ -19,7 +19,7 @@ https://github.com/blueag8/
 ## About The Project
 
 This is the final Project for the Code Instit
-HTML, CSS, JavaScript, Python+Flask.
+HTML, CSS, JavaScript, Python+Django.
 
 
 
@@ -271,5 +271,5 @@ https://www.10bestdesign.com/dirtymarkup/
 eyJoaXN0b3J5IjpbLTE1MDk4MDk5NjddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzk2OTE2Nl19
+eyJoaXN0b3J5IjpbLTE0NDY2OTc1MTVdfQ==
 -->
