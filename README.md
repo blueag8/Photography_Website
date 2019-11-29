@@ -81,7 +81,21 @@ travel
 	-Taiwan
 Family
 Minimalist
-South Austra
+South Australia
+Australia
+Portraits
+Window to the world
+Books 
+
+Bio/About
+
+Contact details
+
+Order Form
+
+Contact Form
+
+Link to Facebook Page and Flic
 
 ## Development Process
 
@@ -161,6 +175,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjE2OTY4MCwxMzMwNjI4NzU3LDE5NT
+eyJoaXN0b3J5IjpbLTExNTc3NDU4NSwxMzMwNjI4NzU3LDE5NT
 M2MjI1NywtOTUzMDgxODM2LDQ4OTYwMTIzNV19
 -->
