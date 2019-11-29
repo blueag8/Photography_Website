@@ -14,24 +14,22 @@ view Heroku app [here]
 
 GitHub repository [here]
 
-https://github.com/blueag8/photography_websi
+https://github.com/blueag8/
 
 ## About The Project
 
-This is a data-centric project which utilizes MongoDB, a NoSQL (non-relational) database used to store data, and a Flask driven app to provide a user-driven application which allows users to 'Create', 'Read','Update' and 'Delete' information provided on the site.
-
-The main technologies used for this project include:
+This is the final Project for the Code Instit
 HTML, CSS, JavaScript, Python+Flask.
 
-Along with the framework provided by https://materializecss.com/,
+
 
 Git and GitHub are used for version control,
 
+Gitpod
 AWS Cloud9 used for development.
 
 View [here]
 
-https://us-east-1.console.aws.amazon.com/cloud9/ide/1a05c8f8cda04b528eac19bc618c2909
 
 Deployment via "Heroku"* 
 
@@ -273,5 +271,5 @@ https://www.10bestdesign.com/dirtymarkup/
 eyJoaXN0b3J5IjpbLTE1MDk4MDk5NjddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgwNzMzNThdfQ==
+eyJoaXN0b3J5IjpbLTkxMzk2OTE2Nl19
 -->
