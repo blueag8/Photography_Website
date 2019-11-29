@@ -29,7 +29,6 @@ Use of Stripe/e-commerce
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
-
 Frameworks
 
 Bootstrap
@@ -45,7 +44,7 @@ AWS Cloud9 used for development.
 View [here]
 
 
-Deployment via "Heroku"* for the purpose of 
+Deployment via "Heroku"* for the purpose of assessment.
 
 
 # UX
@@ -176,7 +175,7 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU5OTI4ODEsLTIwOTg0NDcxNywxMz
+eyJoaXN0b3J5IjpbLTE4ODQ4NTQ5MDUsLTIwOTg0NDcxNywxMz
 MwNjI4NzU3LDE5NTM2MjI1NywtOTUzMDgxODM2LDQ4OTYwMTIz
 NV19
 -->
