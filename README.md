@@ -81,16 +81,7 @@ Login/registration features will provide the site owner with a customer database
 ## Testing
 
  - The application was tested on mobile (Honor PCT-L29 by Huawei) and desktop
- - Checked add form successfully submits data to the MongoDB Storage
- - Checked edit form returns previously saved data and allows new input to successfully update data in the database
- - Checked button functionality cancel returns user to previous page, "Go back to Recipes" returns users to the list of recipes previously viewed. "Share", "Update" and "Delete" Buttons successfully trigger modals and the confirmation buttons within the modals, successfully alter data in the database
- - Checked delete function removes data from the database
- - Checked recipes are saved and loaded within specialized categories in which they should be assigned
- - Checked app is intuitive for the user (added modals to help the user know that entries/edits have been successful)
- -Ensured that these were clear and obvious. 
- -Checked images maintain ratio on different view sizes
- -Used the print function in app.py to test code functionality using Werkzeug debugger
- 
+
 **Process/Challenges **
 
 
@@ -125,7 +116,8 @@ Slack Code-Institute
 **Images**
 **Referenced** following documentation, tutorials and code checking sites:
 
-
+https://stripe.com
+https://www.gitpod.io
 https://jshint.com/
 https://www.w3schools.com
 
@@ -133,6 +125,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2OTEzODk2LDE5NTM2MjI1NywtOTUzMD
-gxODM2LDQ4OTYwMTIzNV19
+eyJoaXN0b3J5IjpbOTc0Mjc2MjAsMTk1MzYyMjU3LC05NTMwOD
+E4MzYsNDg5NjAxMjM1XX0=
 -->
