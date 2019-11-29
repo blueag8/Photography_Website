@@ -16,9 +16,14 @@ This is the final Project for the Code Institute Full Stack Web Development Cour
 
 The aim is to design and build a full-stack website around business logic. We are required to show an authentication mechanism, payment facilities and a locally managed dataset which stores products or services.
 
-Django Models
+UI
+Data Modeling
+Multiple Apps
+Django-Backend
 
-This is a Website built using Python+Django, HTML, CSS, JavaScript and a relational Database.
+Use of Stripe/e-commerce
+
+This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
 
 
@@ -135,6 +140,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjkzNjE3MywxOTUzNjIyNTcsLTk1Mz
+eyJoaXN0b3J5IjpbLTk3Nzg5MDI0NywxOTUzNjIyNTcsLTk1Mz
 A4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
