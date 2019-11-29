@@ -45,12 +45,7 @@ AWS Cloud9 used for development.
 View [here]
 
 
-Deployment via "Heroku"* 
-
-*See further below for more on deployment.
-
-## The Idea
-
+Deployment via "Heroku"* for the purpose of 
 
 
 # UX
@@ -61,7 +56,7 @@ Deployment via "Heroku"*
 
 **Site Owners Potential/Story**
 
-Earn Money selling products and showcase/promote work to a public audience.
+Earn Money selling products and showcase/promote work and events/exhibits to a public audience.
 
 Customer requirements:
 
@@ -181,6 +176,7 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg0NDcxNywxMzMwNjI4NzU3LDE5NT
-M2MjI1NywtOTUzMDgxODM2LDQ4OTYwMTIzNV19
+eyJoaXN0b3J5IjpbLTE0ODU5OTI4ODEsLTIwOTg0NDcxNywxMz
+MwNjI4NzU3LDE5NTM2MjI1NywtOTUzMDgxODM2LDQ4OTYwMTIz
+NV19
 -->
