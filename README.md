@@ -63,7 +63,7 @@ Deployment via "Heroku"*
 
 Earn Money selling products and showcase/promote work to a public audience.
 
-Wants:
+Customer requirements:
 
 Shop
  -3 Photo sizes
@@ -75,7 +75,7 @@ Image Galleries
  Filter Options :
  ALL (would like to view All as an option)
  Landscape
- Travel (further filter options)
+ Travel (could have further filter options within this category)
 	-India
 	-France
 	-Vietnam
@@ -97,6 +97,11 @@ Order Form
 Contact Form
 
 Links to Facebook Page and Flickr profiles
+
+Possible Future implementations
+links to exhibitions
+list past exhibits
+Live Chat box
 
 ## Development Process
 
@@ -176,6 +181,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNzQ0NTcwLDEzMzA2Mjg3NTcsMTk1Mz
-YyMjU3LC05NTMwODE4MzYsNDg5NjAxMjM1XX0=
+eyJoaXN0b3J5IjpbLTIwOTg0NDcxNywxMzMwNjI4NzU3LDE5NT
+M2MjI1NywtOTUzMDgxODM2LDQ4OTYwMTIzNV19
 -->
