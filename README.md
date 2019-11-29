@@ -59,9 +59,16 @@ Deployment via "Heroku"*
  Discover and purchase photographs from a professional photographer.
 
 
-**Site Owners Potential**
+**Site Owners Potential/Story**
 
 Earn Money selling products and showcase/promote work to a public audience.
+
+Wants:
+
+3 Different Photo sizes
+Unframed 
+No Borders
+Has 
 
 ## Development Process
 
@@ -141,6 +148,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDYyODc1NywxOTUzNjIyNTcsLTk1Mz
-A4MTgzNiw0ODk2MDEyMzVdfQ==
+eyJoaXN0b3J5IjpbODU4MTQ5MDgsMTMzMDYyODc1NywxOTUzNj
+IyNTcsLTk1MzA4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
