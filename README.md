@@ -14,6 +14,7 @@ https://github.com/blueag8/Photography_Website
 
 This is the final Project for the Code Institute Full Stack Web Development Course.
 
+The aim is to design and build a full-stack website around business logic. We are required to show an authentication mechanism, payment facilities and a locally managed dataset 
 and the main technologies that will be used include:
  
 HTML, CSS, JavaScript, Python+Django.
@@ -128,6 +129,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjU1MzAwMywxOTUzNjIyNTcsLTk1Mz
+eyJoaXN0b3J5IjpbLTg3NjIzMTAwNSwxOTUzNjIyNTcsLTk1Mz
 A4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
