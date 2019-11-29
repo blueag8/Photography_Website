@@ -39,33 +39,12 @@ Deployment via "Heroku"*
 
 ## The Idea
 
-The initial idea was to create an application for 'parents and caregivers' of children aged from six to twelve months plus. This application would allow users to share and access recipes for children to help them through the weaning* process. 
-
-*Weaning is the process of gradually introducing an infant to an adult diet while gradually withdrawing the supply of 'Infant' milk.
-
-Because a child must be weaned in stages, usually by months at a time, the recipes are grouped by stages.
 
 
 # UX
 **External User Story**
 
-As a user, I want to explore different ideas for recipes to feed my baby. I want to know if they are tried or liked by others, as I prefer to try first, recipes that seem to be enjoyed. 
 
-I wish to be able to share/exchange recipes with others. 
-As my child needs to be introduced to foods in stages I want to refer to recipes that are relative to the developmental stage my child is at. 
-
-As a user I want:
-
- -  a site that is visually appealing and easy to use.
- - a main page that is easy to navigate.
- - the ability to preview recipes before I view the entire one.
- - I want to know how many servings the recipe makes.
- - I want to know the time it will take to make each recipe.
- - I want to know the ingredients and if there are any allergens.
- - I want a clear step by step instructions on how to prepare the recipe.
- - I want to easily Share, Edit or Delete recipes.
- - If a recipe is successful I would like the ability to like it so that I can provide feedback to others. 
- 
 
 **Site Owners Potential**
 
@@ -78,17 +57,9 @@ Login/registration features will provide the site owner with a customer database
 ## Development Process
 **Wireframes**
 
-![wireframe for babyappytite](https://res.cloudinary.com/blueag8/image/upload/v1567947477/Babyappytite/wireframe_for_babyappytite_xvntx4.jpg)
-[https://www.justinmind.com](https://www.justinmind.com/) used trial to help produce mock up templates
-![plans for recipe page](https://res.cloudinary.com/blueag8/image/upload/v1567947507/Babyappytite/HTML_Recipes_list_by_age_akjzhw.jpg)
-> Written with [StackEdit](https://stackedit.io/).
-
 ## Data Schema
 **The Schema used for storing this data in MongoDB is as follows:**
 
-The database "Baby_Recipes", contains two collections: "Categories" and "Recipes".
-Both of these collections contain a Key "category_age" with corresponding values
-ie. "category_age": "6 months +"
 
 **Recipe**
 ![Schema for Recipe](https://res.cloudinary.com/blueag8/image/upload/v1567948039/Babyappytite/schema_recipe_v5ju6b.png)
@@ -97,25 +68,10 @@ ie. "category_age": "6 months +"
 ![Schema for categories](https://res.cloudinary.com/blueag8/image/upload/v1567948041/Babyappytite/schema_categories_ujf8do.png)
 
 ##  Features
-*Current*
- - Add recipe
- - Read recipes 
- - Edit recipe
- - Delete recipe
- 
-*Still requiring implementation*
-
- - User  authentification: login and registration
- - Upload images, storage to be in Cloudinary. Cloudinary have a pre-existing API widget uploader feature which can be integrated into the application.
- - Search Bar
- - Filters for allergens and ingredients
 
 *Future possible implementations/opportunities*
 
- - Commenting functionality to provide users the opportunity to give further feedback about a recipe and any suggestions on adjustments
- - Ability for users to generate a shopping list
- - As the site owner, I may wish to collaborate with external companies or my own and build a shopping cart functionality from the shopping list. 
- 
+
 ## Technologies Used
 
  - HTML checked with [https://validator.w3.org/nu/#textarea](https://validator.w3.org/nu/#textarea)
@@ -123,17 +79,11 @@ ie. "category_age": "6 months +"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="Valid CSS!" /> </a></p>
 
- - Flask 1.1.1- web framework
- - Flask-Pymongo 2.3.0- to bridge Flask and MongoDB 
- - Python 0.15.5
- - Jinga 2.10.1- templating language for Python similar to Django
+
  -   jQuery- to simplify DOM manipulation. 
- - Materialize 0.100.2 - used to aid styling and functionality
- - Werkzeug 0.15.5-for development and debugging
- - MongoDB Atlas to store data
- - Cloudinary 1.17.0- used to store images as an external source
+
  - Heroku 0.1.4- used as a platform for deployment
- - Git and GitHub- used for version control. I realised at the end of the project that all commits are under the default Ubuntu name. I attempted to correct this in my final commits but unsure on how to correct the past commits.
+ - Git and GitHub- used for version control. 
  
 
 **Process**
@@ -273,5 +223,5 @@ https://www.10bestdesign.com/dirtymarkup/
 eyJoaXN0b3J5IjpbLTE1MDk4MDk5NjddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDkzMjczMF19
+eyJoaXN0b3J5IjpbLTI1NDk3OTI2M119
 -->
