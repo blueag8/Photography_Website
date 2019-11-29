@@ -16,14 +16,14 @@ This is the final Project for the Code Institute Full Stack Web Development Cour
 
 The aim is to design and build a full-stack website around business logic. We are required to show an authentication mechanism, payment facilities and a locally managed dataset such as products or services.
 
-This is a Website built using Django, HTML, CSS, JavaScript
+This is a Website built using Python+Django, HTML, CSS, JavaScript and a relational Database.
 
-and the main technologies that will be used include:
- 
-HTML, CSS, JavaScript, Python+Django.
-Relational Database
-Stripe Payments
-Additional Libraries
+
+
+Bootstrap
+Font-Awesome Icons
+Google-Fonts
+
 
 Git and GitHub are used for version control,
 
@@ -132,6 +132,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY5MTE0OTcsMTk1MzYyMjU3LC05NT
-MwODE4MzYsNDg5NjAxMjM1XX0=
+eyJoaXN0b3J5IjpbLTkwMjU0NDQyNCwxOTUzNjIyNTcsLTk1Mz
+A4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
