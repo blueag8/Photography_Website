@@ -14,9 +14,12 @@ https://github.com/blueag8/Photography_Website
 
 This is the final Project for the Code Institute Full Stack Web Development Course.
 
-The aim is to design and build a full-stack website around business logic. We are required to show an authentication mechanism, payment facilities and a locally managed dataset such as products or services.
+The aim is to design and build a full-stack website around business logic. We are required to show an authentication mechanism, payment facilities and a locally managed dataset which stores products or services.
+
+Django Models
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript and a relational Database.
+
 
 
 
@@ -132,6 +135,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjU0NDQyNCwxOTUzNjIyNTcsLTk1Mz
+eyJoaXN0b3J5IjpbLTM1MjkzNjE3MywxOTUzNjIyNTcsLTk1Mz
 A4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
