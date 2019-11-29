@@ -65,16 +65,17 @@ Earn Money selling products and showcase/promote work to a public audience.
 
 Wants:
 
-3 Photo sizes
-Unframed 
-No Borders
-Signed
+Shop
+ -3 Photo sizes
+ -Unframed 
+ -No Borders
+-Signed
 
 Image Galleries
-Filter Options 
-ALL
-landscape
-travel
+ Filter Options :
+ ALL (would like to view All as an option)
+ Landscape
+ Travel (further filter options)
 	-India
 	-France
 	-Vietnam
@@ -95,7 +96,7 @@ Order Form
 
 Contact Form
 
-Link to Facebook Page and Flic
+Links to Facebook Page and Flickr profiles
 
 ## Development Process
 
@@ -175,6 +176,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc3NDU4NSwxMzMwNjI4NzU3LDE5NT
-M2MjI1NywtOTUzMDgxODM2LDQ4OTYwMTIzNV19
+eyJoaXN0b3J5IjpbMzAzNzQ0NTcwLDEzMzA2Mjg3NTcsMTk1Mz
+YyMjU3LC05NTMwODE4MzYsNDg5NjAxMjM1XX0=
 -->
