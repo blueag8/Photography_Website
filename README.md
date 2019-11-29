@@ -63,10 +63,10 @@ migrate
 
 
 **Recipe**
-![Schema for Recipe](https://res.cloudinary.com/blueag8/image/upload/v1567948039/Babyappytite/schema_recipe_v5ju6b.png)
+
 
 **Category**
-![Schema for categories](https://res.cloudinary.com/blueag8/image/upload/v1567948041/Babyappytite/schema_categories_ujf8do.png)
+
 
 ##  Features
 
@@ -170,5 +170,5 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NjAxMjM1XX0=
+eyJoaXN0b3J5IjpbLTk1MzA4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
