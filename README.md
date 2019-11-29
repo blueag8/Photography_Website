@@ -56,8 +56,7 @@ easy_install
 migrate
 
 **Wireframes**
-[https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png)
-
+![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Map.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
 ## Data Schema
 **The Schema used for storing this data in MongoDB is as follows:**
 
@@ -170,6 +169,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY5NjIxMDcsLTk1MzA4MTgzNiw0OD
-k2MDEyMzVdfQ==
+eyJoaXN0b3J5IjpbNzA1NjQwMDksLTk1MzA4MTgzNiw0ODk2MD
+EyMzVdfQ==
 -->
