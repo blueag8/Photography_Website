@@ -5,7 +5,7 @@ easy_install
 migrate
 
 
-#  Milestone 4- Full Stack | Professional Photography (e-commerce) website
+#  Milestone 4- Django Full Stack Project| Professional Photography (e-commerce) website
 
 
 view Heroku app [here]
@@ -273,5 +273,5 @@ https://www.10bestdesign.com/dirtymarkup/
 eyJoaXN0b3J5IjpbLTE1MDk4MDk5NjddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTI2MjkzMF19
+eyJoaXN0b3J5IjpbLTY0NDkzMjczMF19
 -->
