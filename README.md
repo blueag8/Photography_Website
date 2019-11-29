@@ -20,13 +20,13 @@ UI
 Data Modeling
 Multiple Apps
 Django-Backend
-
+Relational database Schema
 Use of Stripe/e-commerce
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
 
-
+Frameworks
 
 Bootstrap
 Font-Awesome Icons
@@ -140,6 +140,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Nzg5MDI0NywxOTUzNjIyNTcsLTk1Mz
+eyJoaXN0b3J5IjpbLTMwNjE5NTU5MywxOTUzNjIyNTcsLTk1Mz
 A4MTgzNiw0ODk2MDEyMzVdfQ==
 -->
