@@ -131,7 +131,7 @@ Mentor Antonio Rodriguez
 
 Code Institue module and tutorials
 
-Slack Channel :
+Slack Code-Institute
 
 
 
@@ -147,6 +147,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjU3MTgyNSwtOTUzMDgxODM2LDQ4OT
-YwMTIzNV19
+eyJoaXN0b3J5IjpbMTk1MzYyMjU3LC05NTMwODE4MzYsNDg5Nj
+AxMjM1XX0=
 -->
