@@ -57,7 +57,7 @@ migrate
 
 **Wireframes**
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Map.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
-## Data Schema
+## Data Schema![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Cart.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)[https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Payment_Conf.png)
 **The Schema used for storing this data in MongoDB is as follows:**
 
 
@@ -169,6 +169,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NjQwMDksLTk1MzA4MTgzNiw0ODk2MD
-EyMzVdfQ==
+eyJoaXN0b3J5IjpbMjkyOTMxNjgzLC05NTMwODE4MzYsNDg5Nj
+AxMjM1XX0=
 -->
