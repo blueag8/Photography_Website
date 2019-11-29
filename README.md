@@ -57,10 +57,9 @@ migrate
 
 **Wireframes**
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Map.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
-## Data Schema![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Cart.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)[https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Payment_Conf.png)
-**The Schema used for storing this data in MongoDB is as follows:**
+## Data Schema![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Cart.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)
 
-
+![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Payment_Confirmation.png)
 **Recipe**
 
 
@@ -169,6 +168,6 @@ https://www.w3schools.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyOTMxNjgzLC05NTMwODE4MzYsNDg5Nj
+eyJoaXN0b3J5IjpbODcwNjQ2NzUzLC05NTMwODE4MzYsNDg5Nj
 AxMjM1XX0=
 -->
