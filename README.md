@@ -29,7 +29,6 @@ Use of Stripe/e-commerce
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
-
 Frameworks
 
 Bootstrap
@@ -45,12 +44,7 @@ AWS Cloud9 used for development.
 View [here]
 
 
-Deployment via "Heroku"* 
-
-*See further below for more on deployment.
-
-## The Idea
-
+Deployment via "Heroku"* for the purpose of assessment.
 
 
 # UX
@@ -59,9 +53,49 @@ Deployment via "Heroku"*
  Discover and purchase photographs from a professional photographer.
 
 
-**Site Owners Potential**
+**Site Owners Potential/Story**
 
-Earn Money selling products and showcase/promote work to a public audience.
+Earn Money selling products and showcase/promote work and events/exhibits to a public audience.
+
+Customer requirements:
+
+Shop
+ -3 Photo sizes
+ -Unframed 
+ -No Borders
+-Signed
+
+Image Galleries
+ Filter Options :
+ ALL (would like to view All as an option)
+ Landscape
+ Travel (could have further filter options within this category)
+	-India
+	-France
+	-Vietnam
+	-Taiwan
+Family
+Minimalist
+South Australia
+Australia
+Portraits
+Window to the world
+Books 
+
+Bio/About
+
+Contact details
+
+Order Form
+
+Contact Form
+
+Links to Facebook Page and Flickr profiles
+
+Possible Future implementations
+links to exhibitions
+list past exhibits
+Live Chat box
 
 ## Development Process
 
@@ -135,12 +169,15 @@ https://stripe.com
 https://www.gitpod.io
 https://jshint.com/
 https://www.w3schools.com
-
+https://fonts.google.com
+https://stackedit.io/
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDYyODc1NywxOTUzNjIyNTcsLTk1Mz
-A4MTgzNiw0ODk2MDEyMzVdfQ==
+eyJoaXN0b3J5IjpbMjY5OTYzMTI2LC0yMDk4NDQ3MTcsMTMzMD
+YyODc1NywxOTUzNjIyNTcsLTk1MzA4MTgzNiw0ODk2MDEyMzVd
+fQ==
 -->
+https://pypi.org/project/django-bootstrap-modal-forms/

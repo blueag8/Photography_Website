@@ -41,9 +41,11 @@
  <a href="{% url 'checkout' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Checkout</a>
 </div>
 {% else %}
-<div class="row">
- <a href="{% url 'registration' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Checkout</a>
 
+Please Login or Sign Up to continue to Payment Method 
+<div class="row">
+ <a href="{% url 'registration' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Sign Up</a>
+ <a href="{% url 'login' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Login</a>
 </div>
 {% endif %}
 {% endblock %}
