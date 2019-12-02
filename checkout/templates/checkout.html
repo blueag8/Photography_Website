@@ -15,6 +15,12 @@
 {% endblock %}
 
 {% block content %}
+{% block additional_styles %}
+<style>
+   body {
+    background-color: Green;
+   }
+</style>
 <div class="row row-flex">
 {% for item in cart_items %}
 
@@ -58,4 +64,5 @@
     <input class="btn btn-primary" id="submit_payment_btn" name="commit" type="submit" value="Submit Payment">
  </div>
 </form>
+{% endblock %}
 {% endblock %}

@@ -1,9 +1,13 @@
 {% extends 'base.html' %}
+{% load static from staticfiles %}
+{% block content %}
 
-{% block page_title %}Home Page{% endblock %}
- <li class="nav-item">
-           <a class="nav-link" href="{% url 'login' %}">Login</a></li>
-           <li class="nav-item">
-           <a class="nav-link" href="{% url 'registration' %}">Sign Up</a></li>
+{% block additional_styles %}
+<style>
+   body {
+   background-image: url("{% static "img/Italy_Chairs.jpg" %}");
+   }
+</style>
 
-{% block page_heading %}Home{% endblock %}
+{% endblock %}
+{% endblock %}

@@ -1,7 +1,18 @@
 li {
 list-style: none;
 }
+.navbar.navbar-default {
+background-color: transparent;
+border: none;
+height: 8em;
+font-weight: 400;
+font-size: 20px;
+}
+.navbar-default .navbar-nav>li>a {
+color: #fff;
 
+
+}
 img.logo {
 height: 6em;
 }
@@ -10,4 +21,17 @@ a {
 color: #ffffff;
 text-decoration: none;
 background-color: transparent;
+}
+
+body {
+ 
+    margin: 4em;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+    background-size: cover;
+     -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+       
 }
