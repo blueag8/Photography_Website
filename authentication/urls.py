@@ -2,7 +2,6 @@ from django.conf.urls import url, include
 from authentication.views import index, logout, login, registration, user_profile
 from authentication import url_reset
 
-
 urlpatterns = [
     url(r'^logout/', logout, name="logout"),
     url(r'^login/', login, name="login"),

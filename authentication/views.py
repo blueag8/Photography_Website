@@ -69,4 +69,18 @@ def registration(request):
 def user_profile(request):
 
     user = User.objects.get(email=request.user.email)
-    return render(request, "base.html", {"profile": user})
+
+def contactUs(request):
+    if request.method =="POST":
+        contact_form = ContactForm(request.POST)
+        if contact_form.is_valid():
+           sender_name = contact_form.cleaned_data['name']
+           sender_email = contact_form.cleaned_data['email']
+
+           message = "{0} has sent you a new message:\n\n{1}".format(sender_name, contact_form.cleaned_data['message'])
+           send_mail('New Enquiry', message, sender_email, ['ns.wickham08@outlook.com'])
+           messages.success(request, "Message Sent")
+           return redirect(reverse('index'))
+    else:
+        contact_form = ContactForm()
+    return render(request, "contact.html", {'contact_form':contact_form})

@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django_forms_bootstrap',
     'bootstrap_modal_forms',
     'authentication',
+    'contact',
     'home',
     'products',
     'cart',
@@ -141,6 +142,7 @@ STRIPE_SECRET = os.getenv('STRIPE_SECRET')
 MESSAGE_STORAGE = "django.contrib.messages.storage.session.SessionStorage"
 
 EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
+
 
 #EMAIL_USE_TLS = True
 #EMAIL_HOST = 'smtp.gmail.com'
