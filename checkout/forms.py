@@ -15,9 +15,23 @@ class MakePaymentForm(forms.Form):
 
 class OrderForm(forms.Form):
 
-    class Meta:
-        model = Order
-        fields = (
-            'full_name', 'email_address', 'phone_number', 'country', 'postcode', 
-            'town_or_city', 'street_address1', 'street_address2','county', 
+ 
+        CANVAS_SIZES=[ 
+          ( 'A4', 'A4 = 21 x 29.7cm'),
+          ( 'A3','A3 = 29 x 42cm'),
+          ( 'A3+','A3 = 32.9 x 48.3cm'),
+       ]
+        Bool_choices=[
+            (False, 'No'), 
+            (True, 'Yes'),
+        ]
+        size = forms.ChoiceField(label="Canvas Size", widget=forms.Select, choices=CANVAS_SIZES)
+        signed = forms.ChoiceField(label="signed", widget=forms.RadioSelect, choices=Bool_choices)
+        class Meta:
+                model = Order
+                   
+                fields = (
+                   'full_name', 'email_address', 'phone_number', 'country', 'postcode', 
+                   'town_or_city', 'street_address1', 'street_address2','county', 
         )
+
