@@ -33,6 +33,11 @@ background-attachment: fixed;
     text-align: center;
  
 }
+.about{
+    padding: 50px;
+    text-align: center;
+ 
+}
 .login{
     padding: 50px;
     text-align: center;

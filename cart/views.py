@@ -10,6 +10,9 @@ def add_to_cart(request,id):
     cart = request.session.get('cart', {})
     cart[id] = cart.get(id,quantity)
 
+    if quantity >0:
+        cart[id] = quantity 
+
     request.session['cart'] = cart
     return redirect(reverse('index'))
 
