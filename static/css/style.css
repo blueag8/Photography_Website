@@ -9,9 +9,7 @@ font-weight: 400;
 font-size: 20px;
 }
 .navbar-default .navbar-nav>li>a {
-color: #fff;
-
-
+color: #fff; 
 }
 img.logo {
 height: 6em;
@@ -24,14 +22,48 @@ background-color: transparent;
 }
 
 body {
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+
+}
+.contact{
+    padding: 50px;
+    text-align: center;
  
-    margin: 4em;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
-    background-size: cover;
-     -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-       
+}
+.btn-default {
+color:black;
+background-color: #ba7013;
+
+}
+.contactForm {
+margin: 15px;
+}
+.panel-body{
+    padding: 20px;
+    height: 100%;
+
+
+}
+.products{
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+caption p {
+    word-wrap: break-word;
+}
+.row .row-flex{
+    display:flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.panel-default{
+    border-color: transparent;
+    padding: 20px;
 }

@@ -1,19 +1,39 @@
 {% extends 'base.html' %}
 {% load bootstrap_tags %}
+{% load static from staticfiles %}
 
 {% block content %}
 {% block additional_styles %}
 <style>
    body {
-    background-color: blue;
+   background-image: url("{% static "img/Italy_Plants.jpg" %}");
    }
 </style>
- 
-    <form method= "POST">
+
+<div class="contactForm">   
+ <div class="panel panel-default">
+  <div class="panel-body">
+
+  <div class="contact">
+  <h3 class = "name">Henk de Weerd</h3>
+  <div class = "Address">P.O. Box 250 </div>
+  Nairne </br>
+  South Australia </br>
+  5252</br>
+  <div class="phone">0418 852 173</div>
+  <div class ="email">deweerd.henk@gmail.com</div>
+  </div>
+<form method= "POST">
     {% csrf_token %}
-    {{contact_form}}
+ <div class="form-group col-md-6"> 
+
+    {{contact_form | as_bootstrap}}
+ </div>
+  
+</div>
     <button class= "btn btn-default" type="submit">Send</button>
     </form>
-
+</div>
+</div>
  {% endblock %}
   {% endblock %}
