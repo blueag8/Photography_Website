@@ -4,7 +4,7 @@
 {% block additional_styles %}
 <style>
    body {
-    background-image: url("{% static "img/Italy_Chairs.jpg" %}");
+    background-image: url("{% static "img/Italy-Flowers-with-Dog.jpg" %}");
    }
 </style>
 
@@ -23,7 +23,7 @@
 
    <form method="post" action="{% url 'add_to_cart' product.id %}">
    {% csrf_token %}
-   <div class="input-group">
+  <div class="input-group">
   <label for="canvas_size">Select Size:</label>
 
   <select class="form-control" id="size">

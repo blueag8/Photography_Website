@@ -20,7 +20,7 @@ from cart import urls as urls_cart
 from search import urls as urls_search
 from checkout import urls as urls_checkout
 from products import urls as urls_products
-from products.views import all_products
+from products.views import all_products, portfolio
 from django.views import static
 from .settings import MEDIA_ROOT
 from home.views import index, about
@@ -31,7 +31,6 @@ urlpatterns = [
     url(r'^$', index, name="index"),
     url(r'^about/', about, name="about"),
     url(r'^contactUs/', contactUs, name="contact"),
-    url(r'^$/', all_products),
     url(r'^authentication/', include(urls_authentication)),
     url(r'^products/', include(urls_products)),
     url(r'^cart/', include(urls_cart)),

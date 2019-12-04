@@ -17,6 +17,7 @@ def logout(request):
    return redirect(reverse("index"))
 
 def login(request):
+    
     """return user login"""
     if request.user.is_authenticated:
         return redirect(reverse('index'))
@@ -41,7 +42,7 @@ def login(request):
 
 def registration(request):
     """render registration page"""
-
+    
     if request.user.is_authenticated:
        return redirect(reverse('index'))
 
@@ -60,6 +61,7 @@ def registration(request):
               return redirect(reverse('index'))
           else:
               messages.error(request, "Sorry there has been a problem with registration")
+              
     else:   
         registration_form = UserRegistrationForm()
 

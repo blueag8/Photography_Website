@@ -31,13 +31,15 @@ background-attachment: fixed;
 .contact{
     padding: 50px;
     text-align: center;
- 
+  
 }
 .about{
     padding: 50px;
     text-align: center;
- 
+    width: 40%;
 }
+ 
+
 .login{
     padding: 50px;
     text-align: center;
@@ -46,6 +48,7 @@ background-attachment: fixed;
 .register{
     padding: 50px;
     text-align: center;
+    width: 40%;
  
 }
 .btn-default {
@@ -55,6 +58,11 @@ background-color: #ba7013;
 }
 .contactForm {
 margin: 15px;
+width: 40%;
+}
+
+.form-group {
+width: 100%;
 }
 .panel-body{
     padding: 20px;
@@ -80,7 +88,7 @@ caption p {
 }
 .panel-default{
     border-color: transparent;
-    padding: 20px;
+
 }
 
 .alert {
