@@ -1,18 +1,11 @@
 li {
 list-style: none;
 }
-.navbar.navbar-default {
-background-color: transparent;
-border: none;
-height: 8em;
-font-weight: 400;
-font-size: 20px;
-}
-.navbar-default .navbar-nav>li>a {
-color: #fff; 
-}
-img.logo {
-height: 6em;
+
+.navbar-default {
+    text-align: center;
+    background-color: transparent;
+    border-color:transparent;
 }
 
 a {
@@ -97,6 +90,11 @@ caption p {
   background-color:white;
 
 }
+#logo {
+
+    width: 20em;
+}
+
 
 .closebtn {
   margin-left: 15px;
@@ -109,6 +107,28 @@ caption p {
   transition: 0.3s;
 }
 
+.navbar-default .navbar-nav>li>a {
+    color: #f5f5f5;
+    font-size: 18px;
+}
 .closebtn:hover {
   color: black;
+}
+
+@media (max-width: 768px){
+
+.navbar-default {
+    text-align: center;
+    background-color: white;
+    border-color: transparent;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    font-size: 18px;
+}
+
+.panel-default {
+    width: 20em;
+    border-color: transparent;
+}
 }
