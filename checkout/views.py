@@ -1,4 +1,4 @@
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, reverse, redirect
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 from .forms import MakePaymentForm, OrderForm
@@ -38,7 +38,7 @@ def checkout(request):
             try:
                customer = stripe.Charge.create(
                amount = int(total * 100),
-               currency = "GBP",
+               currency = "AUD",
                description = request.user.email,
                card = payment_form.cleaned_data['stripe_id'],
            )

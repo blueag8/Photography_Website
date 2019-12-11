@@ -2,17 +2,17 @@
 {% load static from staticfiles %}
 {% load bootstrap_tags %}
 
-{% block head_js %}
 
+{% block head_js %}
 <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
-<script type="text/javascript" src="">
-     //<![CDATA[
-      Stripe.publishablekey = "{{ publishable }}";
-      //]]>
+<script type="text/javascript">
+    //<![CDATA[
+        Stripe.publishableKey = '{{ publishable }}';
+    //]]>
 </script>
 <script type="text/javascript" src="{% static 'js/stripe.js' %}"></script>
-
 {% endblock %}
+
 
 {% block content %}
 {% block additional_styles %}
@@ -21,6 +21,8 @@
        background-image: url("{% static "img/Italy_Chairs.jpg" %}");
    }
 </style>
+
+{% endblock %}
 <div class="row row-flex">
 {% for item in cart_items %}
 
@@ -33,8 +35,6 @@
    <h3>{{ item.product.name }}</h3>
    <p class="product-description">{{ item.product.description }}</p>
    <p>{{ item.quantity }}</p>
-   <p>{{ item.product.size }}</p>
-   <p>{{ item.product.signed }}</p>
      </div>
      </div>
     </div>
@@ -42,7 +42,7 @@
  </div>
  <div class="row">
 <p>Total</p>
-<p><span class="glyphicon glyphicon-pound" aria-hidden="true"></span>{{ total }}</p>
+<p><span class="glyphicon glyphicon-aud" aria-hidden="true"></span>{{ total }}</p>
 </div>
 
 <form role="form" method="POST" id="payment-form" action="{% url 'checkout' %}">
@@ -65,5 +65,5 @@
     <input class="btn btn-primary" id="submit_payment_btn" name="commit" type="submit" value="Submit Payment">
  </div>
 </form>
-{% endblock %}
+
 {% endblock %}

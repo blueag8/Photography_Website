@@ -23,17 +23,6 @@
 
    <form method="post" action="{% url 'add_to_cart' product.id %}">
    {% csrf_token %}
-  <div class="input-group">
-  <label for="canvas_size">Select Size:</label>
-
-  <select class="form-control" id="size">
-    <option value = "{{ product.size }} ">{{ product.size }}</option>
-  </select>
-
-   <div class="input-group">
-  <input type="radio" id="signed" value ="checked">Signed
-  </input>
-   </div>
 
    <div class="input-group">
      <input name="quantity" type="number" min="1" max="999" class="form-control" placeholder="Quantity" required>

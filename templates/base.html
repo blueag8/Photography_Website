@@ -47,12 +47,13 @@
            <li><a href="{% url 'login' %}">Login</a></li>
            <li> <a href="{% url 'registration' %}">Sign Up</a></li>
   
+          {% endif %}
+       
            <li><a href="{% url 'index' %}">Home</a></li>
            <li><a href="{% url 'about' %}">About</a></li>
            <li><a href="{% url 'portfolio' %}">Portfolio</a></li>
            <li><a href="{% url 'products' %}">Shop</a></li>
            <li><a href="{% url 'contact' %}">Contact</a></li>
-           {% endif %}
        
            <li>
            <i class="fa fa-shopping-bag"></i>

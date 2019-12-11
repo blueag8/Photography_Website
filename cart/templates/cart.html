@@ -23,17 +23,6 @@
      <input name="quantity" type="number" min="0" max="999" class="form-control" placeholder="Quantity" required>
      <div class="input-group-addon">{{ item.quantity }}</div>
    </div>
-     <div class="input-group">
-  <label for="canvas_size">Select Size:</label>
-
-  <select class="form-control" id="size">
-    <option value = "{{ product.size }} ">{{ item.product.size }}</option>
-  </select>
-
-   <div class="input-group">
-  <input type="radio" id="signed" value ="checked">Signed
-  </input>
-   </div>
  
      <span class="input-group-btn">
         <button class="btn btn-success" type="submit">Update</button>
