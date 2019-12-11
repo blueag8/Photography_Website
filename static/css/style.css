@@ -54,9 +54,6 @@ margin: 15px;
 width: 40%;
 }
 
-.form-group {
-width: 100%;
-}
 .panel-body{
     padding: 20px;
     height: 100%;
@@ -86,9 +83,14 @@ caption p {
 
 .alert {
   padding: 20px;
-  width:150px;
+  width: fit-content;
   background-color:white;
 
+}
+
+.order{
+    background-color: white;
+    text-align: center;
 }
 #logo {
 
@@ -128,7 +130,15 @@ caption p {
 }
 
 .panel-default {
-    width: 20em;
+    width: fit-content;
     border-color: transparent;
+}
+.register{
+    width: fit-content
+
+}
+.contactForm{
+    width: fit-content
+ 
 }
 }
