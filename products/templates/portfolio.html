@@ -3,23 +3,23 @@
 {% block content %}
 {% block additional_styles %}
 <style>
-   body {
-    background-image: url("{% static "img/Windows-to-the-World-Morocco.jpg" %}");
-   }
+	body {
+		background-image: url("{% static "img/Windows-to-the-World-Morocco.jpg" %}");
+	}
 </style>
 {% endblock %}
 
 {% for product in products %}
 <div class="row row flex">
-<div class="col-sm-6 col-md-4 display panel panel-default">
-   <div class="panel-body">
-   <div class="products" style="background-image: url('{{ MEDIA_URL }}{{ product.image }}')"></div>
+	<div class="col-sm-6 col-md-4 display panel panel-default">
+		<div class="panel-body">
+			<div class="products" style="background-image: url('{{ MEDIA_URL }}{{ product.image }}')"></div>
 
-   <h3>{{ product.name }}</h3>
-   <p class="product-description">{{ product.description }}</p>
+			<h3>{{ product.name }}</h3>
+			<p class="product-description">{{ product.description }}</p>
 
-   </div>
-  </div>
+		</div>
+	</div>
 </div>
 {% endfor %}
 </div>

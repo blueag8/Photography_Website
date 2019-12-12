@@ -3,59 +3,62 @@
 {% block content %}
 
 <div class="container">
-<div class="row row-flex">
+	<div class="row row-flex">
 
-{% for item in cart_items %}
+		{% for item in cart_items %}
 
-<div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-sm-6 col-md-4 display panel panel-default">
+		<div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-sm-6 col-md-4 display panel panel-default">
 
-   <div class="panel-body">
-   <div class="products" style="background-image: url('{{ MEDIA_URL }}{{ item.product.image }}')"></div>
+			<div class="panel-body">
+				<div class="products" style="background-image: url('{{ MEDIA_URL }}{{ item.product.image }}')"></div>
 
 
-   <h3>{{ item.product.name }}</h3>
-   <p class="product-description">{{ item.product.description }}</p>
+				<h3>{{ item.product.name }}</h3>
+				<p class="product-description">{{ item.product.description }}</p>
 
-  
 
-   <form method="post" action="{% url 'adjust_cart' item.id %}">
-   {% csrf_token %}
-   <div class="input-group">
-     <input name="quantity" type="number" min="0" max="999" class="form-control" placeholder="Quantity" required>
-     <div class="input-group-addon">{{ item.quantity }}</div>
-   </div>
- 
-     <span class="input-group-btn">
+
+				<form method="post" action="{% url 'adjust_cart' item.id %}">
+					{% csrf_token %}
+					<div class="input-group">
+						<input name="quantity" type="number" min="0" max="999" class="form-control" placeholder="Quantity" required>
+						<div class="input-group-addon">{{ item.quantity }}</div>
+					</div>
+
+					<span class="input-group-btn">
         <button class="btn btn-success" type="submit">Update</button>
       </span>
-     </div>
-   </form>
-   </div>
+			</div>
+			</form>
+		</div>
 
-{% endfor %}
-</div>
+		{% endfor %}
+	</div>
 
-<div class="container">
-<p>Total</p>
-<span><i class="fa fa-dollar-sign" aria-hidden="true">{{ total }}</i></span>
-</div>
+	<div class="container">
+		<p>Total</p>
+		<span><i class="fa fa-dollar-sign" aria-hidden="true">{{ total }}</i></span>
+	</div>
 
 </div>
 {% if user.is_authenticated %}
 <div class="btn">
- <a href="{% url 'checkout' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Checkout</a>
+	<a href="{% url 'checkout' %}" class="btn btn-success"
+		role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Checkout</a>
 </div>
 {% else %}
 
 
 <div class="alert alert-warning">
-  <strong>Oops!</strong>Please Login or Sign Up to continue to Payment Method
+	<strong>Oops!</strong>Please Login or Sign Up to continue to Payment Method
 </div>
 
 <div class="btn">
-     <a href="{% url 'registration' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Sign Up</a>
-     <a href="{% url 'login' %}" class="btn btn-success" role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Login</a>
- 
+	<a href="{% url 'registration' %}" class="btn btn-success"
+		role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Sign Up</a>
+	<a href="{% url 'login' %}" class="btn btn-success"
+		role="button"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>Login</a>
+
 </div>
 
 {% endif %}

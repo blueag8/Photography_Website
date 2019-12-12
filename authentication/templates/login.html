@@ -6,25 +6,25 @@
 {% block additional_styles %}
 
 <style>
-   body {
-    background-image: url("{% static "img/Italy_Chairs.jpg" %}");
-   }
+	body {
+		background-image: url("{% static "img/Italy_Chairs.jpg" %}");
+	}
 </style>
 
 <div class="login">
-<div class="panel panel-default">
-  <div class="panel-body">
+	<div class="panel panel-default">
+		<div class="panel-body">
 
-<form method= "POST">
-    {% csrf_token %}
-    {{login_form | as_bootstrap}}
-<button class= "btn btn-default" type="submit">Submit</button>
-</form>
+			<form method="POST">
+				{% csrf_token %}
+				{{login_form | as_bootstrap}}
+				<button class= "btn btn-default" type="submit">Submit</button>
+			</form>
 
-<p><a href="{% url 'password_reset'%}">Forgot Password?</a></p>
-  </div>
-  </div>
-    </div>
+			<p><a href="{% url 'password_reset'%}">Forgot Password?</a></p>
+		</div>
+	</div>
+</div>
 
 {% endblock %}
 {% endblock %}

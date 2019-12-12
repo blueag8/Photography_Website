@@ -5,23 +5,23 @@
 {% block content %}
 {% block additional_styles %}
 <style>
-   body {
-    background-image: url("{% static "img/Windows to the World Cambodja.jpg" %}");
-   }
+	body {
+		background-image: url("{% static "img/Windows to the World Cambodja.jpg" %}");
+	}
 </style>
 
 <div class="register">
-<div class="panel panel-default">
-  <div class="panel-body">
-  
-<p>Already have an account? <a href="{% url 'login' %}"> Sign in here</a></p>
-    <form method= "POST">
-    {% csrf_token %}
-    {{registration_form|as_bootstrap}}
-    <button class= "btn btn-default" type="submit">Sign Up</button>
-    </form>
-  </div>
-  </div>
-    </div>
- {% endblock %}
-  {% endblock %}
+	<div class="panel panel-default">
+		<div class="panel-body">
+
+			<p>Already have an account? <a href="{% url 'login' %}"> Sign in here</a></p>
+			<form method="POST">
+				{% csrf_token %}
+				{{registration_form|as_bootstrap}}
+				<button class= "btn btn-default" type="submit">Sign Up</button>
+			</form>
+		</div>
+	</div>
+</div>
+{% endblock %}
+{% endblock %}

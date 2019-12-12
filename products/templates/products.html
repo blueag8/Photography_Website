@@ -3,34 +3,34 @@
 {% block content %}
 {% block additional_styles %}
 <style>
-   body {
-    background-image: url("{% static "img/Italy-Flowers-with-Dog.jpg" %}");
-   }
+	body {
+		background-image: url("{% static "img/Italy-Flowers-with-Dog.jpg" %}");
+	}
 </style>
 
 {% endblock %}
 
 {% for product in products %}
-  <div class="col-md-4 display panel panel-default">
-   <div class="panel-body">
-   <div class="products" style="background-image: url('{{ MEDIA_URL }}{{ product.image }}')"></div>
+<div class="col-md-4 display panel panel-default">
+	<div class="panel-body">
+		<div class="products" style="background-image: url('{{ MEDIA_URL }}{{ product.image }}')"></div>
 
-   <h3>{{ product.name }}</h3>
-   <p class="product-description">{{ product.description }}</p>
-   <p>Price ${{ product.price }}</p>
+		<h3>{{ product.name }}</h3>
+		<p class="product-description">{{ product.description }}</p>
+		<p>Price ${{ product.price }}</p>
 
-   <form method="post" action="{% url 'add_to_cart' product.id %}">
-   {% csrf_token %}
+		<form method="post" action="{% url 'add_to_cart' product.id %}">
+			{% csrf_token %}
 
-   <div class="input-group">
-     <input name="quantity" type="number" min="1" max="999" class="form-control" placeholder="Quantity" required>
+			<div class="input-group">
+				<input name="quantity" type="number" min="1" max="999" class="form-control" placeholder="Quantity" required>
    </div>
-     <span class="input-group-btn">
+				<span class="input-group-btn">
         <button class="btn btn-success" type="submit">Add</button>
       </span>
-    </div>
-   </form>
-  </div>
- {% endfor %}
-{% endblock %}
- </div>
+			</div>
+		</form>
+	</div>
+	{% endfor %}
+	{% endblock %}
+</div>
