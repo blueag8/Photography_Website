@@ -148,8 +148,8 @@ This project was developed using the
 4. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory).
 5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
 
-pip3 install django-bootstrap-forms
-pip3 install django-forms-bootstrap-modal
+pip3 install django-bootstrap-modal-forms
+pip3 install django-forms-bootstrap
 pip3 install pillow
 pip3 install stripe
 
@@ -211,6 +211,6 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTMwNzE1MywxNzg1OTY0MzM1LDIwOD
-EzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
+M4NDgwMiwtNDEyODA2MjA0XX0=
 -->
