@@ -138,7 +138,8 @@ Live Chat box
 
 
 ## Deployment
-create virtualenv
+
+clone or downlcreate virtualenv
 virtualenv -p python3 .
 source bin/activate
 easy_install 
@@ -188,3 +189,6 @@ YyODc1NywxOTUzNjIyNTcsLTk1MzA4MTgzNiw0ODk2MDEyMzVd
 fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgzNTgyNzMyMl19
+-->
