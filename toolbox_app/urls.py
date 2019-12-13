@@ -25,13 +25,12 @@ from products.views import all_products, portfolio
 from django.views import static
 from .settings import MEDIA_ROOT
 from home.views import index, about
-from contact.views import contactUs
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$', index, name="index"),
+    url(r'^$', index, name="home"),
+    url(r'^all_products/', all_products, name="index"),
     url(r'^about/', about, name="about"),
-    url(r'^contactUs/', contactUs, name="contact"),
     url(r'^authentication/', include(urls_authentication)),
     url(r'^products/', include(urls_products)),
     url(r'^cart/', include(urls_cart)),

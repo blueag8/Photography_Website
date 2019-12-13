@@ -2,18 +2,20 @@ from django.contrib.auth.models import User
 
 
 class EmailAuth:
-    """Authenticate a user by email """
+    """
+    Authenticate a user by email 
+    """
 
     def authenticate(self, username_or_email=None, password=None):
 
         try:
            user = User.objects.get(email=username)
 
-           if user.check_password(password):
+            if user.check_password(password):
                return user
-           return None
+            return None
         except User.DoesNotExist:
-           return None
+            return None
 
     def get_user(self, user_id):
 

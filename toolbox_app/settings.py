@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'bootstrap_modal_forms',
     'django_template_check',
     'authentication',
-    'contact',
     'home',
     'products',
     'cart',

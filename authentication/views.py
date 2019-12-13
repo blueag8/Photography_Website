@@ -1,24 +1,31 @@
 from django.shortcuts import render, redirect, reverse
 from django.contrib import auth, messages
+from django.core.mail import send_mail
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
-from authentication.forms import UserLoginForm, UserRegistrationForm
+from authentication.forms import UserLoginForm, UserRegistrationForm, ContactForm
 
 
 # Create your views here.
 def index(request):
-    """return home page"""
+    """
+    return home page
+    """
     return render(request, "index.html")
 
 def logout(request):
-   """logout"""
+   """
+   logout
+   """
    auth.logout(request)
    messages.success(request, "You have been successfully logged out")
    return redirect(reverse("index"))
 
 def login(request):
     
-    """return user login"""
+    """
+    return user login
+    """
     if request.user.is_authenticated:
         return redirect(reverse('index'))
     if request.method == "POST":
@@ -41,7 +48,9 @@ def login(request):
     return render(request, "login.html", {"login_form": login_form})
 
 def registration(request):
-    """render registration page"""
+    """
+    render registration page
+    """
     
     if request.user.is_authenticated:
        return redirect(reverse('index'))
@@ -68,11 +77,10 @@ def registration(request):
     return render(request, 'registration.html', 
         {"registration_form": registration_form})
 
-def user_profile(request):
-
-    user = User.objects.get(email=request.user.email)
-
-def contactUs(request):
+def ContactUs(request):
+    """
+    contact form
+    """
     if request.method =="POST":
         contact_form = ContactForm(request.POST)
         if contact_form.is_valid():
