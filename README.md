@@ -149,7 +149,7 @@ This project was developed using the
 5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
 
 pip3 install django-bootstrap-forms
-pip3 install django-bootstrap-modal-forms
+pip3 install django-forms-bootstrap-modal
 pip3 install pillow
 pip3 install stripe
 
@@ -211,6 +211,6 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MT
-I4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTkxMTMwNzE1MywxNzg1OTY0MzM1LDIwOD
+EzODQ4MDIsLTQxMjgwNjIwNF19
 -->
