@@ -2,6 +2,13 @@
 {% load static from staticfiles %}
 {% load bootstrap_tags %}
 
+{% block additional_styles %}
+<style>
+	body {
+		background-image: url("{% static "img/Windows-to-the-World-Morocco.jpg" %}");
+	}
+</style>
+{% endblock %}
 
 {% block head_js %}
 <script type="text/javascript" src="https://js.stripe.com/v2/"></script>

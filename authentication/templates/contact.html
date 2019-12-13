@@ -22,7 +22,16 @@
 				5252</br>
 				<div class="phone">0418 852 173</div>
 				<div class="email">deweerd.henk@gmail.com</div>
+				<div class="mysocial">
+					<ul class="list-inline social-links">
+						<li><a target="_blank" href="https://www.facebook.com/henk.deweerd.5"
+								class="facebook"><i class="fa fa-facebook"></i></a></li>
+						<li><a target="_blank"
+								href="https://www.flickr.com/photos/77203101@N05/"><i class="fa fa-flickr"></i></a></li>
+					</ul>
+				</div>
 			</div>
+
 			<form method="POST">
 				{% csrf_token %}
 				<div class="form-group col-md-6">
@@ -30,10 +39,10 @@
 					{{contact_form | as_bootstrap}}
 
 				</div>
-		</div>
-		<button class= "btn btn-default" type="submit">Send</button>
 
-		</form>
+				<button class= "btn btn-default" type="submit">Send</button>
 
-		{% endblock %}
-		{% endblock %}
+			</form>
+
+			{% endblock %}
+			{% endblock %}
