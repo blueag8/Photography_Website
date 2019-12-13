@@ -139,7 +139,9 @@ Live Chat box
 
 ## Deployment
 
-clone or downlcreate virtualenv
+clone or download repository from https://github.com/blueag8/Photography_Website.git
+
+1. create virtualenv via cli by typing
 virtualenv -p python3 .
 source bin/activate
 easy_install 
@@ -190,5 +192,5 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTgyNzMyMl19
+eyJoaXN0b3J5IjpbLTE2NTc0MzI5OV19
 -->
