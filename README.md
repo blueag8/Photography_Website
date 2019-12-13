@@ -139,9 +139,8 @@ Live Chat box
 
 ## Deployment
 
-This project was developed using 
-
-clone or download repository from https://github.com/blueag8/Photography_Website.git
+This project was developed using the
+[gitpod.io](https://gitpod.io/workspaces/)
 
 1. create a virtual environment. I acheived this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" 
 2. activate the virtual env. You may need to use the command cd . to ensure you are in the workspace folder. source bin/activate 
@@ -165,6 +164,9 @@ This command was "env.py > .gitignore"
 
 
 Requirements to run code locally:
+clone or download repository from https://github.com/blueag8/Photography_Website.git
+
+
 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -209,5 +211,5 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIwOTE3NzMsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbOTg3ODczNzk2LC00MTI4MDYyMDRdfQ==
 -->
