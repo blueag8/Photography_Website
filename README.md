@@ -144,8 +144,8 @@ clone or download repository from https://github.com/blueag8/Photography_Website
 1. create a virtual environmet. I acheived this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" 
 2. activate the virtual env. You may need to use the command cd . to ensure you are in the workspace folder. source bin/activate 
 3. Once inside the activated virtualenv install django using the command "pip3 install django" if using gitpod I found that if pip [command] didn't work using easy_install [command] worked.
-4. Create new project by running command "
-easy_install 
+4. Create new project by running command "django-admin startproject [project_name] . " 
+5. Next ru
 migrate
 
 Requirements to run code locally:
@@ -193,5 +193,5 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM2OTgwOTcsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbLTEyODM1MDg3ODksLTQxMjgwNjIwNF19
 -->
