@@ -147,6 +147,11 @@ clone or download repository from https://github.com/blueag8/Photography_Website
 4. Create new project by running command "django-admin startproject [project_name] . " 
 5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
 
+pip3 install django-bootstrap-forms
+pip3 install django-bootstrap-modal-forms
+pip3 install pillow
+pip4
+
 
 Requirements to run code locally:
 
@@ -163,7 +168,7 @@ Requirements to run code locally:
 # Credits
 
 **Acknowledgements:**
-
+Thank you to the student care team at the Code Institute. 
 Mentor Antonio Rodriguez
 
 Code Institue module and tutorials
@@ -193,5 +198,5 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzE2NTE5MywtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbMTA1NTM0MzU3OCwtNDEyODA2MjA0XX0=
 -->
