@@ -144,7 +144,7 @@ This project was developed using the
 
 1. create a virtual environment. I acheived this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" 
 2. activate the virtual env use "source bin/activate"
-3. Once inside the activated virtualenv install django. You may need to use the command "cd .. " to ensure you are in the root directory then usin the command "pip3 install django ==1.11.24" if using gitpod I found that if the pip3 install [command] didn't work, using easy_install [command] worked.
+3. Once inside the activated virtualenv install django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install django ==1.11.24". If using gitpod I found that if in the virtualenv the pip3 install [command] didn't work, and using the "easy_install"[command] worked.
 4. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory)
 5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
 
@@ -211,6 +211,6 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc0MjQ0MjUsMjA4MTM4NDgwMiwtND
+eyJoaXN0b3J5IjpbLTIwMTIyMTQ5MTEsMjA4MTM4NDgwMiwtND
 EyODA2MjA0XX0=
 -->
