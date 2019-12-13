@@ -29,7 +29,7 @@ from contact.views import contactUs
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$', index, name="index"),
+    url(r'^$', all_products, name='index'),
     url(r'^about/', about, name="about"),
     url(r'^contactUs/', contactUs, name="contact"),
     url(r'^authentication/', include(urls_authentication)),
