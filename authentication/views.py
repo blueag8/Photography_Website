@@ -19,7 +19,7 @@ def logout(request):
    """
    auth.logout(request)
    messages.success(request, "You have been successfully logged out")
-   return redirect(reverse("index"))
+   return redirect(reverse("home"))
 
 def login(request):
     
@@ -27,7 +27,7 @@ def login(request):
     return user login
     """
     if request.user.is_authenticated:
-        return redirect(reverse('index'))
+        return redirect(reverse('home'))
     if request.method == "POST":
        login_form = UserLoginForm(request.POST)
 
@@ -38,7 +38,7 @@ def login(request):
        if user:
             auth.login(user=user, request=request)
             messages.success(request, "Successfully logged in")
-            return redirect(reverse('index'))
+            return redirect(reverse('home'))
 
        else:
             login_form.add_error(None, "Username and/or Password are incorrect")
@@ -53,7 +53,7 @@ def registration(request):
     """
     
     if request.user.is_authenticated:
-       return redirect(reverse('index'))
+       return redirect(reverse('home'))
 
     if request.method == "POST":
         registration_form = UserRegistrationForm(request.POST)
@@ -67,7 +67,7 @@ def registration(request):
           if user:
               auth.login(user=user, request=request)
               messages.success(request, "You have been successful")
-              return redirect(reverse('index'))
+              return redirect(reverse('home'))
           else:
               messages.error(request, "Sorry there has been a problem with registration")
               
@@ -90,7 +90,7 @@ def ContactUs(request):
            message = "{0} has sent you a new message:\n\n{1}".format(sender_name, contact_form.cleaned_data['message'])
            send_mail('New Enquiry', message, sender_email, ['ns.wickham08@outlook.com'])
            messages.success(request, "Message Sent")
-           return redirect(reverse('index'))
+           return redirect(reverse('contact'))
     else:
         contact_form = ContactForm()
     return render(request, "contact.html", {'contact_form':contact_form})
