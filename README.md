@@ -154,7 +154,9 @@ pip3 install stripe
 
 pip3 freeze > requirements.txt
 
-for stripe you will need to obtain a STRIPE_PUBLI
+for stripe you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
+
+I chose to create an env.py file and ensured that is was not published 
 
 Requirements to run code locally:
 
@@ -201,5 +203,5 @@ fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODUwNTU5MSwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbLTIzNTc2MTExNSwtNDEyODA2MjA0XX0=
 -->
