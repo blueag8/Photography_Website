@@ -138,13 +138,35 @@ Live Chat box
 
 
 ## Deployment
-create virtualenv
-virtualenv -p python3 .
-source bin/activate
-easy_install 
-migrate
+
+This project was developed using the
+[gitpod.io](https://gitpod.io/workspaces/)
+
+1. create a virtual environment. I acheived this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" 
+2. activate the virtual env use "source bin/activate"
+3. Once inside the activated virtualenv install django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install django ==1.11.24". If using gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
+4. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory).
+5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
+
+pip3 install django-bootstrap-modal-forms
+pip3 install django-forms-bootstrap
+pip3 install pillow
+pip3 install stripe
+
+pip3 freeze > requirements.txt
+
+for stripe you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
+
+I chose to create an env.py file and ensured that is was not published to the public repository by using gitignore.
+
+This command was "env.py > .gitignore"
+
+
 
 Requirements to run code locally:
+clone or download repository from https://github.com/blueag8/Photography_Website.git
+
+
 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -159,7 +181,7 @@ Requirements to run code locally:
 # Credits
 
 **Acknowledgements:**
-
+Thank you to the student care team at the Code Institute. 
 Mentor Antonio Rodriguez
 
 Code Institue module and tutorials
@@ -188,3 +210,7 @@ YyODc1NywxOTUzNjIyNTcsLTk1MzA4MTgzNiw0ODk2MDEyMzVd
 fQ==
 -->
 https://pypi.org/project/django-bootstrap-modal-forms/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
+M4NDgwMiwtNDEyODA2MjA0XX0=
+-->
