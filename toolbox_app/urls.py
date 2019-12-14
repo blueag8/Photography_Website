@@ -24,11 +24,11 @@ from products import urls as urls_products
 from products.views import all_products, portfolio
 from django.views import static
 from .settings import MEDIA_ROOT
-from home.views import index, about
+from home.views import home, about
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$', index, name="home"),
+    url(r'^$', home, name="home"),
     url(r'^all_products/', all_products, name="index"),
     url(r'^about/', about, name="about"),
     url(r'^authentication/', include(urls_authentication)),
