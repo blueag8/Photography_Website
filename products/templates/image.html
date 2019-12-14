@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load static from staticfiles %}
+{% block content %}
+{% block additional_styles %}
+<style>
+	body {
+		background-image: url("{% static "img/Italy-Flowers-with-Dog.jpg" %}");
+	}
+</style>
+
+{% endblock %}
+
+
+<div class="col-md-4 display panel panel-default">
+	<div class="panel-body">
+		<div class="products" style="background-image: url('{{ MEDIA_URL }}{{ product.image }}')"></div>
+
+		<h3>{{ product.name }}</h3>
+		<p class="product-description">{{ product.description }}</p>
+        <li><a href="{% url 'portfolio' %}">Return to Portfolio</a></li>
+	</div>
+
+	{% endblock %}
+</div>
