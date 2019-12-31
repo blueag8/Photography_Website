@@ -2,9 +2,10 @@
 {% load static from staticfiles %}
 {% block content %}
 {% block additional_styles %}
-<style>
+<style alt="background-img">
 	body {
-		background-image: url("{% static "img/Italy-Flowers-with-Dog.jpg" %}");
+		background-image: url("https://res.cloudinary.com/blueag8/image/upload/v1576281452/photography_website/Italy-Flowers-with-Dog.jpg");
+		background: cover;
 	}
 </style>
 
@@ -87,5 +88,5 @@
 			</div>
 			</form>
 		</div>
-			{% endfor %}
-			{% endblock %}
+		{% endfor %}
+		{% endblock %}

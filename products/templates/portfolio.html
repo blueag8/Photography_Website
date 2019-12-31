@@ -2,9 +2,12 @@
 {% load static from staticfiles %}
 {% block content %}
 {% block additional_styles %}
-<style>
+(<style alt="background-img">
 	body {
-		background-image: url("{% static "img/Windows-to-the-World-Morocco.jpg" %}");
+		background-image: url("https://res.cloudinary.com/blueag8/image/upload/v1576281452/photography_website/Windows-to-the-World-Morocco.jpg");
+	    background:cover;
+    }
+</style>
 	}
 </style>
 {% endblock %}
