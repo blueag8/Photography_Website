@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 import os
 import django_heroku
 import env 
+import cloudinary
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -38,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_forms_bootstrap',
     'bootstrap_modal_forms',
+    'cloudinary',
     'django_filters',
     'django_template_check',
     'authentication',
@@ -133,7 +135,16 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static")
 ]
-MEDIA_URL = '/media/'
+#add config 
+cloudinary.config(
+  cloud_name = os.environ.get('CLOUD_NAME'),
+  api_key = os.environ.get('API_KEY'),
+  api_secret = os.environ.get('API_SECRET'),
+  secure = True
+)
+
+
+MEDIA_URL = 'https://res.cloudinary.com/blueag8/image/upload/photography_website/'
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 
 STRIPE_PUBLISHABLE = os.getenv('STRIPE_PUBLISHABLE')

@@ -20,7 +20,7 @@ from authentication import urls as urls_authentication
 from cart import urls as urls_cart
 from checkout import urls as urls_checkout
 from products import urls as urls_products
-from products.views import all_products, portfolio, product, image
+from products.views import all_products
 from django.views import static
 from .settings import MEDIA_ROOT
 from home.views import home, about

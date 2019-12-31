@@ -34,7 +34,7 @@
 		<div class="col-md-4 display panel panel-default">
 			<div class="panel-body">
 
-				<div class="products" style="background-image: url('{{ MEDIA_URL }}{{ product.image }}')"></div>
+				<div class="products" style="background-image: url('{{ CLOUDINARY_URL }}{{ product.image }}')"></div>
 				<h3>
 					<li><a href="{% url 'product' product.id %}">{{ product.name }}</a></li>
 				</h3>

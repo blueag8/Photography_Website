@@ -4,7 +4,7 @@ from django_filters.views import FilterView
 from products.models import Product
 
 urlpatterns = [
-    url(r'^all_products/', all_products, name='products'),
+    url(r'^$', all_products, name='products'),
     url(r'^portfolio/', portfolio, name='portfolio'),
     url(r'^product/(?P<id>\d+)', product, name='product'),
     url(r'^image/(?P<id>\d+)', image, name='image'),
