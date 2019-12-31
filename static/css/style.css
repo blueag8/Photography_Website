@@ -34,17 +34,17 @@ background-attachment: fixed;
     text-align: center;
   
 }
+.container{
+    width:auto;
+}
 .about{
     padding: 50px;
     text-align: center;
     width: 40%;
 }
-#min {
-    margin-left: 2em;
-}
+
 #list {
   -webkit-appearance: none;
-  width: 100%;
   margin: 20px 0px;
 }
 #list:focus {
@@ -130,18 +130,29 @@ background-attachment: fixed;
 
  #filter{
      display: inline-flex;
-  
+ 
+ }
+ .range-field{
+     display: inline-flex;
+ }
+ .value-field{
+     display:inline-flex;
+     width:auto;
  }
 
  .filter-range {
      background-color: white;
      padding: 10px;
-     width: fit-content;
- }
+     width: 100%;
+}
+
+.col-md-4.display.panel.panel-default {
+    margin: 15px;
+}
 
 #min_value, #max_value{
     border: none;
-    margin: 2em;
+    width: 26%;
     background-color: transparent;
 
 }
@@ -235,9 +246,12 @@ caption p {
     color: black;
     font-size: 18px;
 }
-
+.filter-range {
+    background-color: white;
+    padding: 10px;
+    width: 100%;
+}
 .panel-default {
-    width: fit-content;
     border-color: transparent;
 }
 .register{

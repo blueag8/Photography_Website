@@ -15,15 +15,21 @@
 		<label for="list">Price range:</label>
 		<form method="get" action="{% url 'list' %}">
 			<div class="input-group" id="filter">
-				<input type="range" id="list" name="price_min" min="0" value="" onchange="minValue(this.value);">
-				<input type="range" id="list" name="price_max" max="500" value="" onchange="maxValue(this.value);">
-				<label for="min_value" id="min">min $  </label>
-				<input type="text" id="min_value" value="" disabled>
-				<br><label for="max_value"> max $ </label>
-				<input type="text" id="max_value" value="" disabled>
+				<div class="range-field">
+					<input type="range" id="list" name="price_min" min="0" value="" onchange="minValue(this.value);">
+					<input type="range" id="list" name="price_max" max="500" value="" onchange="maxValue(this.value);">
+			</div>
+				</div>
+				<div class="value-field">
+					<label for="min_value" id="min">min $ </label>
+					<input type="text" id="min_value" value="" disabled>
+					<label for="max_value"> max $ </label>
+					<input type="text" id="max_value" value="" disabled>
             </div>
-				<div class="input-group-btn">
-					<button class="btn btn-success" type="submit">Filter</button>
+
+					<div class="input-group-btn">
+						<button class="btn btn-success" type="submit">Filter</button>
+					</div>
 				</div>
 			</div>
 		</form>
