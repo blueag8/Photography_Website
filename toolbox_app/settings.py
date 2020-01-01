@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 import os
 import django_heroku
 import cloudinary
+import env
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -23,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY= os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://henkdeweerdphotography.herokuapp.com/','localhost']
 
@@ -143,7 +144,7 @@ cloudinary.config(
 )
 
 
-MEDIA_URL = 'https://res.cloudinary.com/blueag8/image/upload/photography_website/'
+MEDIA_URL = 'https://res.cloudinary.com/blueag8/image/upload/'
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 
 STRIPE_PUBLISHABLE = os.getenv('STRIPE_PUBLISHABLE')
