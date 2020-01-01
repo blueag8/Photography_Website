@@ -48,7 +48,7 @@ def checkout(request):
             if customer.paid:
                 messages.error(request, "Thank you, Your payment has been successful!")
                 request.session['cart'] = {}
-                return redirect(reverse('index'))
+                return redirect(reverse('home'))
             else:
                 messages.error(request, "Sorry we were unable to take payment with that card")
 
