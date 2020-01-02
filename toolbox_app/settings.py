@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 """
 import os
 import django_heroku
+impotr dj_database_url
 import cloudinary
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -25,7 +26,7 @@ SECRET_KEY= os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://henkdeweerdphotography.herokuapp.com/','localhost']
+ALLOWED_HOSTS = ['https://henkdeweerdphotography.herokuapp.com/']
 
 # Application definition
 
