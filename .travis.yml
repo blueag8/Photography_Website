@@ -1,5 +1,5 @@
 language: python
-
-install: travis_wait pip3 install requirements.txt
-
+source: -/workspace/Photography_Website/bin/activate
+install: pip3 install requirements.txt
 script: python3 manage.py
+
