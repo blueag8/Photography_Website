@@ -24,8 +24,6 @@
 </head>
 
 <body>
-	<h1>{% block page_heading %}{% endblock %}</h1>
-
 	<div class="container">
 		<nav class="navbar navbar-default">
 			<div class="navbar-header">
@@ -37,7 +35,7 @@
                 </button>
 
 				<a
-					href="{% url 'home' %}"><img class="img-responsive" alt="navbrand" id="logo" src="/static/img/Henk_Photography.jpg"></img></a>
+					href="{% url 'home' %}"><img class="img-responsive" alt="navbrand" id="logo" src="/static/img/Henk_Photography.jpg"></a>
 			</div>
 
 			<div id="navbar" class="navbar-collapse collapse">
@@ -82,7 +80,7 @@
 	{% endblock %}
 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	<script src="{% static 'js/slider.js' %}" type="text/javascript"></script>
+	<script src="{% static 'js/slider.js' %}"></script>
 
 </body>
 
