@@ -1,5 +1,5 @@
 language: python
-source: -/workspace/Photography_Website/bin/activate
-install: pip3 install requirements.txt
+app: toolbox_app
+install: travis_wait 
 script: python3 manage.py
 
