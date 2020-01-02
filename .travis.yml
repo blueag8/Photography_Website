@@ -1,5 +1,5 @@
 language: python
 
-install: travis_wait pip3 install requirements
+install: travis_wait pip3 install requirements.txt
 
 script: python3 manage.py
