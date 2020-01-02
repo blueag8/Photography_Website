@@ -1,4 +1,3 @@
 language: python
 
-script: pip3 python
 install: travis_wait 
