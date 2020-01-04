@@ -1,3 +1,4 @@
 language: python
-app: toolbox_app
-
+deploy:
+  provider: heroku
+  app: henkdeweerdphotography
