@@ -4,14 +4,11 @@
 
 view Heroku app [here]
 
-https://herokuapp.com
+https://henkdeweerdphotography.herokuapp.com/
 
 GitHub repository [here]
 
 https://github.com/blueag8/Photography_Website
-
-Gitpod
-
 
 
 ## About The Project
@@ -200,8 +197,8 @@ https://jshint.com/
 https://www.w3schools.com
 https://fonts.google.com
 https://stackedit.io/
-
-
+https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h
+https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html
 
 
 <!--stackedit_data:
