@@ -200,14 +200,14 @@ https://stackedit.io/
 https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h
 https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html
 
-
+https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjY5OTYzMTI2LC0yMDk4NDQ3MTcsMTMzMD
 YyODc1NywxOTUzNjIyNTcsLTk1MzA4MTgzNiw0ODk2MDEyMzVd
 fQ==
 -->
-https://pypi.org/project/django-bootstrap-modal-forms/
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
-M4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
+k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
