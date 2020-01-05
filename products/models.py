@@ -19,7 +19,7 @@ class Product(models.Model):
     (A3_Plus,'A3 + (32.9 x 48.3cm)'),
     ]
    
-    size= models.CharField(choices=size, default='A4')
+    size= models.CharField(max_length=6,choices=size, default='A4')
     price = models.IntegerField()
     category= models.CharField(max_length=100, default='')
     name = models.CharField(max_length=200, default = '')
