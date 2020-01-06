@@ -110,10 +110,11 @@ Planning
 
  - Register, sign in, logout of an account
  -  Add, edit, delete products.
- - Authorised permissions
+ (Authorised permissions)
  - Filter products by prices
  - Create an order
  - Make a payment
+ - Contact Form
 
 ## Technologies Used
 
@@ -221,9 +222,9 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzgwOTI5NCwyMDc4ODAyMDg5LC05NT
-g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
-NSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xOD
-g0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgw
-MiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
+k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
+LC03Mzc0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4OD
+Q2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAy
+LC00MTI4MDYyMDRdfQ==
 -->
