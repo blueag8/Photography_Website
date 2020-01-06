@@ -213,12 +213,16 @@ Login to heroku if using the CLI "heroku login"
 # Testing
 ### Manual
 Desktop
-browser (Chrome 
+*Chrome* 
 Mobile
-Iphone 6/7/8
+*Iphone 6/7/8*
 
+**Scenarios**
 
 ## Bugs
+
+***Validation***
+
 https://jshint.com/ (Check Javascript)
 https://w3c.github.io/developers/tools/ 
 <p>
@@ -262,10 +266,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNjUwNjAzLDE0ODQ0OTUzOTksMTc2Mz
-U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
-MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
-Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
-MTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OT
-Y0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbLTE4ODc5NjIwNDksMTQ4NDQ5NTM5OSwxNz
+YzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3
+OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMT
+M4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0
+NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3OD
+U5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
 -->
