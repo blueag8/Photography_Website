@@ -237,6 +237,8 @@ Mobile
  
 
 ## Bugs
+solutions included resetting migrations.
+clear cache/cookies
 
 ***Validation***
 [https://travis-ci.com/] current status![build:started](https://travis-ci.com/blueag8/Photography_Website.svg?branch=master)
@@ -284,7 +286,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MzA3NDUyLC0xNjE1MDY5NzAsMTQ4ND
+eyJoaXN0b3J5IjpbNDE4ODU2MjQzLC0xNjE1MDY5NzAsMTQ4ND
 Q5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1
 LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MT
 MyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0
