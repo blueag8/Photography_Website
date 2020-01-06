@@ -169,7 +169,9 @@ This command was "env.py > .gitignore"
 9.  Create a Procfile
 web: gunicorn <app_name>
 (Gunicorn for Heroku deployment)
-11. For stripe access you will need to register an account and obtain a both a publishable key and a Secret Key which will be stored in and environment variable.  This can be done [[https://dashboard.stripe.com/login](https://dashboard.stripe.com/login)]
+
+10. If you don't have a 
+11. For stripe access you will need to register an account and obtain a both a publishable key and a Secret Key which will be stored in and environment variable.  This can be done [[here](https://dashboard.stripe.com/login)]
 
 
 ## Requirements to run code locally:
@@ -251,10 +253,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MzkwNjMxLDE0ODQ0OTUzOTksMTc2Mz
-U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
-MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
-Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
-MTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OT
-Y0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbMTM2MDgyODUyNCwxNDg0NDk1Mzk5LDE3Nj
+M1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5
+LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMz
+g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
+LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
+k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
