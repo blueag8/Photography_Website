@@ -118,13 +118,15 @@ Planning
 
 ## Technologies Used
 
+ - DJANGO
  - PYTHON
  - JAVASCRIPT
  - CSS
  - HTML
- -
- - Git and GitHub- used for version control. 
- 
+    
+    Gitpod for development
+      Git and GitHub- used for version control
+      Heroku for deploy
 
 **Process**
 
@@ -226,7 +228,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTIzNzEwMSwxOTY3NzMzNzksMjA3OD
+eyJoaXN0b3J5IjpbMTg1OTEzMTY3MiwxOTY3NzMzNzksMjA3OD
 gwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5
 Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MT
 UyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1
