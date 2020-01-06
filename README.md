@@ -118,7 +118,11 @@ Planning
 
 ## Technologies Used
 
-
+ - PYTHON
+ - JAVASCRIPT
+ - CSS
+ - HTML
+ -
  - Git and GitHub- used for version control. 
  
 
@@ -199,7 +203,7 @@ Code Institue module and tutorials
 
 Slack Code-Institute
 
-https://colinprior.co.uk 
+
 
 
 **Images**
@@ -222,9 +226,9 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
-k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
-LC03Mzc0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4OD
-Q2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAy
-LC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMTgwMTIzNzEwMSwxOTY3NzMzNzksMjA3OD
+gwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5
+Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MT
+UyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1
+LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
 -->
