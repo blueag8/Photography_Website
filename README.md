@@ -203,12 +203,11 @@ Login to heroku if using the CLI "heroku login"
  4. Images need improving.
  5. Email copy or order form to customer.(Perhaps use a modal to show order back to the customer rather than the alert).
  6. Reset password page HTML and CSS also to redirect to home after submission.
- 7. Set up external email account (
-Admin access pages made more "user friendly" as Henk will be maintaing it himself.
-Filters need to be added for categories as per Henks wishes.
-
-Background images for individual pages need adjusting in the templates which extend from the base.html. 
-HTML validation still has one outstanding error:
+ 7. Set up external email account (emails currently only go to Backend testing).
+ 8. Admin access pages made more "user friendly" as Henk will be maintaing it himself.
+ 9. Filters need to be added for categories as per Henks wishes.
+ 10. Background images for individual pages need adjusting in the templates which extend from the base.html. 
+ 11. HTML validation still has one outstanding error:
  "*Element “style” not allowed as child of element “body” in this context"*
 
 # Testing
@@ -231,7 +230,11 @@ HTML validation still has one outstanding error:
 **Acknowledgements:**
 Thank you to the student care team at the Code Institute for your own going support and patience.
 
-to my mentor Antonio Rodriguez, a pleasure to speak to. Thank you for helping me fix the bugs and encouraging me to keep going. Incredibly patient and and extremly helpful. 
+To my mentor Antonio Rodriguez, a pleasure to speak to. Thank you for helping me fix the bugs and encouraging me to keep going. Incredibly patient and and extremly helpful. 
+
+Code Institute Tutorials
+
+The 
 
 **Images**
 By Henk DeWeerd
@@ -254,10 +257,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjcxMjcxMCwxNDg0NDk1Mzk5LDE3Nj
-M1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5
-LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMz
-g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
-LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
-k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjE3MzM3OTksMTQ4NDQ5NTM5OSwxNz
+YzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3
+OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMT
+M4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0
+NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3OD
+U5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
 -->
