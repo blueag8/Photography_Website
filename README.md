@@ -196,7 +196,8 @@ Reset password page HTML and CSS also to redirect to home after submission.
 Need to set up external email account. 
 Admin access pages made more "user friendly" as Henk will be maintaing it himself.
 Filters need to be added for categories as per Henks wishes.
-Background images are currently within the HTML templates within a style element, however, "Style should not be used as a Child element in this context"
+
+Background images for individual pages need adjusting in the templates which extend from the . HTML validation still has an outstanding error "*Element “style” not allowed as child of element “body” in this context"*
 
 # Testing
 
@@ -240,10 +241,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NT
-AxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5
-LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
-Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
-LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
-M4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbMjkwNzYyNTQsMTQ4NDQ5NTM5OSwxNzYzNT
+cwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwy
+MDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4ND
+Q3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwx
+MjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5Nj
+QzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
 -->
