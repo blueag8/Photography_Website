@@ -225,7 +225,11 @@ Mobile
  - click links
  - send email
  - shop as authorised user
- - 
+ - shop as unauthoriser user
+ - checkout login required
+ - payment form
+ - checrequired fields are requested
+ - Card error messages -incorrect card details, payment declined, expiry date.
 
 ## Bugs
 
@@ -275,11 +279,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgyNTM5OTIsLTE2MTUwNjk3MCwxND
-g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
-NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
-cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
-ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
-MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
-MDRdfQ==
+eyJoaXN0b3J5IjpbMzA3NzI2NDQ0LC0xNjE1MDY5NzAsMTQ4ND
+Q5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1
+LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MT
+MyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0
+LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMD
+EzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0
+XX0=
 -->
