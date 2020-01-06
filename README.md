@@ -212,9 +212,11 @@ Login to heroku if using the CLI "heroku login"
 
 # Testing
 ### Manual
+Chrome, 
 
 ## Bugs
-
+https://jshint.com/ (Check Javascript)
+https://w3c.github.io/developers/tools/ 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
@@ -234,17 +236,16 @@ To my mentor Antonio Rodriguez, a pleasure to speak to. Thank you for helping me
 
 Code Institute Tutorials
 
-The 
+The Code Institute Slack Community
 
 **Images**
 By Henk DeWeerd
 **Logo**
 Designed by Naomi Wickham using Google-fonts.
+
 **Referenced** following documentation, tutorials and code checking sites from:
 
 https://stripe.com (Payment API)
-https://jshint.com/ (Check Javascript)
-https://w3c.github.io/developers/tools/ (Passed CSS 
 https://www.w3schools.com
 https://fonts.google.com(Fonts)
 https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h (Migrating a database from sqlite to postgresql for Heroku deployment)
@@ -257,10 +258,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE3MzM3OTksMTQ4NDQ5NTM5OSwxNz
-YzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3
-OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMT
-M4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0
-NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3OD
-U5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbOTQ3MTE1MTY3LDE0ODQ0OTUzOTksMTc2Mz
+U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
+MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
+Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
+MTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OT
+Y0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
 -->
