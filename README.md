@@ -229,13 +229,17 @@ Mobile
  - Shop as authorised user
    - add to cart
    - adjust quantity
+   - go to checkout
    - checkout update cart
    -  payment form
    - check required fields are requested
    - card error messages -incorrect card details, payment declined, expiry date
  - Shop as unauthoriser user
+   - add to cart
+   - adjust quantity
+   - go to checkout
    - checkout login required
-   - 
+   -
  Reset password
   
 CRUD 
@@ -302,11 +306,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzE1MTI0MiwtMTYxNTA2OTcwLDE0OD
-Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
-NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
-EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
-NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
-AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
-NF19
+eyJoaXN0b3J5IjpbLTE4MzQ0OTU5MTIsLTE2MTUwNjk3MCwxND
+g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
+NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
+cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
+ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
+MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
+MDRdfQ==
 -->
