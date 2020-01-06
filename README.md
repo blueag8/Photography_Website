@@ -140,10 +140,10 @@ pip3 freeze > requirements.txt
 *If deploying via Heroku and using Gitpod*:
 
 I found that pip3 install was not working as I had hoped for the installation and access of Heroku via the command line.
-I userd "npm install -g heroku --classic "
+I used the command 
+"npm install -g heroku --classic "
 
-Next you will need to heroku login
-
+Login to heroku if using the CLI "heroku login"
 
 
 <p>
@@ -162,14 +162,13 @@ Next you will need to heroku login
 Thank you to the student care team at the Code Institute. 
 Mentor Antonio Rodriguez
 
-Code Institue module and tutorials
 
-Slack Code-Institute
 
 
 
 
 **Images**
+By 
 **Referenced** following documentation, tutorials and code checking sites:
 
 https://stripe.com
@@ -189,10 +188,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTI3NTUxNCwtNTUwMTcyMzMzLDMzOT
-Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
-LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
-Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
-LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
-gwNjIwNF19
+eyJoaXN0b3J5IjpbNjk5MTUyNTUxLC01NTAxNzIzMzMsMzM5ND
+QxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEs
+MTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3ND
+gwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAs
+MzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyOD
+A2MjA0XX0=
 -->
