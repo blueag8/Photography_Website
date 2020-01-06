@@ -164,7 +164,8 @@ clone or download repository from https://github.com/blueag8/Photography_Website
 activate the virtual environment
 source bin/activate
 pip3 install -r requirements.txt
-npm install -g heroku --classic
+python3 manage.py runserver
+
 
 
 
@@ -212,7 +213,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE1MTMwNDgsMTI2MTUyOTk5NiwtMT
-g4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4
-MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbMTM3ODU0ODk2MSwxMjYxNTI5OTk2LC0xOD
+g0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgw
+MiwtNDEyODA2MjA0XX0=
 -->
