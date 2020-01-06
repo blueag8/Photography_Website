@@ -167,6 +167,8 @@ pip3 install -r requirements.txt
 python3 manage.py runserver
 python3 manage.py makemigrations
 python3 manage.py migrate
+python3 manage.py createsuperuser
+
 
 
 
@@ -215,7 +217,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4OD
-Q2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAy
-LC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MT
+UyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1
+LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
 -->
