@@ -19,7 +19,9 @@ The aim is to design and build a full-stack website around business logic. We ar
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
+Initally I began the project whilst following the Code Institutes Tutorial on developing an E-commerce site ("Putting it all together".
 # UX
+
 **External User Story**
 
 Discover and purchase photographs from a professional photographer.
@@ -185,7 +187,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDk4NjAxMiwtNTUwMTcyMzMzLDMzOT
+eyJoaXN0b3J5IjpbLTM1NDM5NjkwMCwtNTUwMTcyMzMzLDMzOT
 Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
 LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
 Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
