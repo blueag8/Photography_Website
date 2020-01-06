@@ -188,9 +188,10 @@ Login to heroku if using the CLI "heroku login"
 
 ## Future Implementations
 Automated message bot facilities.
-Provide anxternal link to photos enlarged
-Better presentation of singular product/image page. 
-Email copy or order form to customer
+Provide an external link to photos enlarged. Ie the cloudinary link could open in a new tab. Or use a model to enlarge the photo for viewing.
+Better presentation of singular product/image page.
+Images need improving.
+Email copy or order form to customer. Perhaps use a modal to show 
 Need to set up external email account
 Admin access 
 Filters for categories
@@ -239,10 +240,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzE0MzkyOSwxNzYzNTcwMzE0LC01NT
-AxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5
-LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
-Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
-LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
-M4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbLTE4NzQ2NjIyMzYsMTc2MzU3MDMxNCwtNT
+UwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4
+OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2Mz
+A2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5
+NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwOD
+EzODQ4MDIsLTQxMjgwNjIwNF19
 -->
