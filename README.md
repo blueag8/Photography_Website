@@ -227,14 +227,16 @@ Mobile
  - Check all links are valid
  - Send email using Backend
  - Shop as authorised user
- - Shop as unauthoriser user
- - checkout login required
- - payment form
- - check required fields are requested
+   -  payment form
+ - Check required fields are requested
  - Card error messages -incorrect card details, payment declined, expiry date
- - add a product
- - edit a product
- - delete a product
+ - Shop as unauthoriser user
+  -checkout login required
+
+ - Creat a product
+ - View a product
+ - 
+ - Delete a product
  
 
 ## Bugs
@@ -287,11 +289,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMjUyMzQ2LC0xNjE1MDY5NzAsMTQ4ND
-Q5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1
-LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MT
-MyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0
-LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMD
-EzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0
-XX0=
+eyJoaXN0b3J5IjpbMjA2Mzg2ODE4NCwtMTYxNTA2OTcwLDE0OD
+Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
+NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
+EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
+NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
+AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
+NF19
 -->
