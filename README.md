@@ -142,7 +142,7 @@ This project was developed using the
 3. Once inside the activated virtualenv install django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install django ==1.11.24". If using gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
 4. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory).
 5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
-
+6. Installation commands
 pip3 install django-bootstrap-modal-forms
 pip3 install django-forms-bootstrap
 pip3 install pillow
@@ -217,7 +217,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MT
-UyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1
-LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbNzY5MDQ0NDEwLC03Mzc0ODA2ODQsNjEyND
+gxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMs
+MTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
