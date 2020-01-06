@@ -165,6 +165,10 @@ pip3 freeze > requirements.txt
 7. python3 manage.py migrate
 8. python3 manage.py createsuperuser
 
+If deploying via Heroku
+
+I found that pip3 install was not working as I had hoped for the installation and access of H 
+
 
 
 
@@ -213,8 +217,8 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNDM3NjQxLDE4NzEzMjExNTksMTEzOD
-Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
-MTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OT
-Y0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbMTQxNjM5NDIwOSwxODcxMzIxMTU5LDExMz
+g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
+LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
+k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
