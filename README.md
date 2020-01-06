@@ -187,6 +187,11 @@ Login to heroku if using the CLI "heroku login"
 # Deployment
 
 ## Future Implementations
+Automated message bot facilities.
+External link to photos enlarged
+Better presentation of singular product/image page. 
+Email copy or order form to customer
+Need to set u
 
 # Testing
 
@@ -230,7 +235,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk3NzYxMDQsMTc2MzU3MDMxNCwtNT
+eyJoaXN0b3J5IjpbLTEzNDc1Njg0MTEsMTc2MzU3MDMxNCwtNT
 UwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4
 OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2Mz
 A2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5
