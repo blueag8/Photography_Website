@@ -82,6 +82,8 @@ Henk would like to take inspiration from this website:
 ## Front-end
 
 ## Back-end
+For development Sqlite and for deployment to Heroku Postgresql  was used. 
+
 Data Schema:
 
 *Product Model*
@@ -107,9 +109,11 @@ Customer details
  Payment details
  
  - Card Number
- - 
-
+ - Name on Card
+ - Expiry date
+ - Cvc 
  
+
 
 ##  Features
 
@@ -223,7 +227,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzUyMjY3MCwxNzYzNTcwMzE0LC01NT
+eyJoaXN0b3J5IjpbMTcxNjM3NjIwNSwxNzYzNTcwMzE0LC01NT
 AxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5
 LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
 Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
