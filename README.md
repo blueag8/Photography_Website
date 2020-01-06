@@ -23,13 +23,12 @@ Initally, when I began the project, whilst following the Code Institute's Tutori
  
 # UX
 
-The goal is to  be the voice and advocate for the users needs while balancing the business goals. Providing a meaningful and relevent experience to the user through a website that is easy to navigate,  use intuitive design and visually appealing 
-**External User Story**
+The goal is to  be the voice and advocate for the users needs while balancing the business goals. Providing a meaningful and relevent experience to the user through a website that is easy to navigate,  use of intuitive design and is visually appealing.
 
+**External User Story**
 Discover and purchase photographs from a professional photographer.
 
 **Site Owners Potential/Story**
-
 Earn Money selling products and showcase/promote work and events/exhibits to a public audience.
 
 Customer requirements:
@@ -68,6 +67,7 @@ Order Form
 External links to Facebook Page and Flickr profiles
 
 ## UI
+ww
 ## Development Process
 Planning
 **Wireframes**
@@ -189,10 +189,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTI5MDEyMCwtNTUwMTcyMzMzLDMzOT
-Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
-LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
-Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
-LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
-gwNjIwNF19
+eyJoaXN0b3J5IjpbODAwOTU5MTY3LC01NTAxNzIzMzMsMzM5ND
+QxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEs
+MTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3ND
+gwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAs
+MzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyOD
+A2MjA0XX0=
 -->
