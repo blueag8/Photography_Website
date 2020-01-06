@@ -207,8 +207,7 @@ Login to heroku if using the CLI "heroku login"
  8. Admin access pages made more "user friendly" as Henk will be maintaing it himself.
  9. Filters need to be added for categories as per Henks wishes.
  10. Background images for individual pages need adjusting in the templates which extend from the base.html. 
- 11. HTML validation still has one outstanding error:
- "*Element “style” not allowed as child of element “body” in this context"*
+
 
 # Testing
 ### Manual
@@ -222,7 +221,7 @@ Mobile
 ## Bugs
 
 ***Validation***
-[https://travis-ci.com/](https://travis-ci.com/)
+[https://travis-ci.com/] ![build:started](https://travis-ci.com/blueag8/Photography_Website.svg?branch=master)
 https://jshint.com/ (Check Javascript)
 https://w3c.github.io/developers/tools/ (CSS, HTML)
 <p>
@@ -232,8 +231,9 @@ https://w3c.github.io/developers/tools/ (CSS, HTML)
         alt="Valid CSS!" />
     </a>
 </p>
-  Still currently one outstanding error in HTML. See abave
 
+ HTML validation still has one outstanding error:
+ "*Element “style” not allowed as child of element “body” in this context"*
 
 # Credits
 
@@ -266,10 +266,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODc3MTAwMywxNDg0NDk1Mzk5LDE3Nj
-M1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5
-LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMz
-g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
-LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
-k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNDQ2NzExNjksMTQ4NDQ5NTM5OSwxNz
+YzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3
+OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMT
+M4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0
+NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3OD
+U5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
 -->
