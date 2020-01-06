@@ -191,10 +191,11 @@ Automated message bot facilities.
 Provide an external link to photos enlarged. Ie the cloudinary link could open in a new tab. Or use a model to enlarge the photo for viewing.
 Better presentation of singular product/image page.
 Images need improving.
-Email copy or order form to customer. Perhaps use a modal to show 
-Need to set up external email account
-Admin access 
-Filters for categories
+Email copy or order form to customer. Perhaps use a modal to show order back to the customer rather than the alert.
+Reset password page HTML and CSS also to redirect to home after submission.
+Need to set up external email account. 
+Admin access pages made more "user friendly" as Henk will be maintaing it himself.
+Filters needfor categories
 Huawei not responsive
 Background images
 
@@ -240,10 +241,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ2NjIyMzYsMTc2MzU3MDMxNCwtNT
-UwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4
-OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2Mz
-A2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5
-NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwOD
-EzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbMTk2ODg0MzY3LDE3NjM1NzAzMTQsLTU1MD
+E3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODks
+LTk1ODk3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNj
+k2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYs
+LTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMz
+g0ODAyLC00MTI4MDYyMDRdfQ==
 -->
