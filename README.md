@@ -166,7 +166,7 @@ This command was "env.py > .gitignore"
 5. python3 manage.py runserver
 6. python3 manage.py makemigrations
 7. python3 manage.py migrate
-8.python3 manage.py createsuperuser
+8. python3 manage.py createsuperuser
 
 
 
@@ -216,7 +216,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg5NDQyNTksLTczNzQ4MDY4NCw2MT
-I0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEw
-MywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyND
+gxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMs
+MTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
