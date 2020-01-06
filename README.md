@@ -170,7 +170,7 @@ This command was "env.py > .gitignore"
 web: gunicorn <app_name>
 (Gunicorn for Heroku deployment)
 
-10. If you don't have a 
+10. If you don't already have a Heroku account [Sign-up Here](https://signup.heroku.com/)
 11. For stripe access you will need to register an account and obtain a both a publishable key and a Secret Key which will be stored in and environment variable.  This can be done [[here](https://dashboard.stripe.com/login)]
 
 
@@ -253,7 +253,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDgyODUyNCwxNDg0NDk1Mzk5LDE3Nj
+eyJoaXN0b3J5IjpbMTczNDA1NTYxOCwxNDg0NDk1Mzk5LDE3Nj
 M1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5
 LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMz
 g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
