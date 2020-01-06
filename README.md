@@ -196,7 +196,7 @@ Reset password page HTML and CSS also to redirect to home after submission.
 Need to set up external email account. 
 Admin access pages made more "user friendly" as Henk will be maintaing it himself.
 Filters need to be added for categories as per Henks wishes.
-Background images are currently within the HTML templates but body 
+Background images are currently within the HTML templates within a style element, however, "Style should not be used as a Child element in this context"
 
 # Testing
 
@@ -240,7 +240,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTkyMjMxNywxNzYzNTcwMzE0LC01NT
+eyJoaXN0b3J5IjpbMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NT
 AxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5
 LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
 Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
