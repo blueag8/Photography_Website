@@ -97,10 +97,19 @@ Product
 Quantity
 Price
 
-*Order *
+*Order Form*
+Customer details 
 
+ - Name
+ - Address
+ - Phone Number
+ 
+ Payment details
+ 
+ - Card Number
+ - 
 
-
+ 
 
 ##  Features
 
@@ -214,10 +223,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3Mzc4MDg2LDE3NjM1NzAzMTQsLTU1MD
-E3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODks
-LTk1ODk3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNj
-k2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYs
-LTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMz
-g0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTc2NzUyMjY3MCwxNzYzNTcwMzE0LC01NT
+AxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5
+LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
+Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
+LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
+M4NDgwMiwtNDEyODA2MjA0XX0=
 -->
