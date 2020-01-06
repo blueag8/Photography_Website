@@ -212,7 +212,11 @@ Login to heroku if using the CLI "heroku login"
 
 # Testing
 ### Manual
-Chrome, 
+Desktop
+browser (Chrome 
+Mobile
+Iphone 6/7/8
+
 
 ## Bugs
 https://jshint.com/ (Check Javascript)
@@ -258,7 +262,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTE1MTY3LDE0ODQ0OTUzOTksMTc2Mz
+eyJoaXN0b3J5IjpbMjMyNjUwNjAzLDE0ODQ0OTUzOTksMTc2Mz
 U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
 MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
 Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
