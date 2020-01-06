@@ -61,21 +61,22 @@ He would like to offer
  -Prints will be signed
  -All will be with no border
  
-He would like to displa his work in Image Galleries employing the 
- Filter Options :
- ALL (would like to view All as an option)
+He would like to display his work in Image Galleries employing the following filter options :
+ 
+
+ - ALL (would like to view "ALL" images as an option)
  Landscape
- Travel (could have further filter options within this category)
+- Travel (could have further filter options within this category)
 	-India
 	-France
 	-Vietnam
 	-Taiwan
-Family
-Minimalist
-South Australia
-Australia
-Portraits
-Window to the world
+- Family
+- Minimalist
+- South Australia
+- Australia
+- Portraits
+- Windows to the world
 Books 
 
 Bio/About
@@ -215,7 +216,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTU0MDk2NiwxODcxMzIxMTU5LDExMz
+eyJoaXN0b3J5IjpbLTk0MDM3NzkyNywxODcxMzIxMTU5LDExMz
 g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
 LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
 k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
