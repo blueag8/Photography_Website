@@ -82,7 +82,7 @@ Henk would like to take inspiration from this website:
 ## Front-end
 
 ## Back-end
-For development Sqlite and for deployment to Heroku Postgresql  was used. 
+For testing/development Sqlite was used and for deployment to Heroku, Postgresql  was used. 
 
 Data Schema:
 
@@ -143,7 +143,7 @@ Customer details
    - Google-Fonts
 
 
-## Development/Deployment
+## Development
 
 This project was developed using the
 [gitpod.io](https://gitpod.io/workspaces/)
@@ -183,6 +183,9 @@ I used the command
 "npm install -g heroku --classic "
 
 Login to heroku if using the CLI "heroku login"
+
+# Deployment
+
 ## Future Implementations
 
 # Testing
@@ -227,10 +230,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjM3NjIwNSwxNzYzNTcwMzE0LC01NT
-AxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5
-LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
-Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
-LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
-M4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbLTE3Mzk3NzYxMDQsMTc2MzU3MDMxNCwtNT
+UwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4
+OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2Mz
+A2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5
+NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwOD
+EzODQ4MDIsLTQxMjgwNjIwNF19
 -->
