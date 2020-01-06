@@ -196,13 +196,14 @@ Login to heroku if using the CLI "heroku login"
 # Deployment
 
 ## Future Implementations
-Automated message bot facilities.
-Provide an external link to photos enlarged. Ie the cloudinary link could open in a new tab. Or use a model to enlarge the photo for viewing.
-Better presentation of singular product/image page.
-Images need improving.
-Email copy or order form to customer. Perhaps use a modal to show order back to the customer rather than the alert.
-Reset password page HTML and CSS also to redirect to home after submission.
-Need to set up external email account. 
+
+ 1. Automated message bot facilities.
+ 2. Provide an external link to photos enlarged. Ie the cloudinary link could open in a new tab. Or use a model to enlarge the photo for viewing.
+ 3. Better presentation of singular product/image page.
+ 4. Images need improving.
+ 5. Email copy or order form to customer.(Perhaps use a modal to show order back to the customer rather than the alert).
+ 6. Reset password page HTML and CSS also to redirect to home after submission.
+ 7. Set up external email account (
 Admin access pages made more "user friendly" as Henk will be maintaing it himself.
 Filters need to be added for categories as per Henks wishes.
 
@@ -253,7 +254,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDA1NTYxOCwxNDg0NDk1Mzk5LDE3Nj
+eyJoaXN0b3J5IjpbMTc2NjcxMjcxMCwxNDg0NDk1Mzk5LDE3Nj
 M1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5
 LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMz
 g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
