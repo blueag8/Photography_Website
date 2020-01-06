@@ -161,8 +161,11 @@ This command was "env.py > .gitignore"
 Requirements to run code locally:
 clone or download repository from https://github.com/blueag8/Photography_Website.git
 
-activate  virtual environment
+activate the virtual environment
 source bin/activate
+pip3 install -r requirements.txt
+npm install -g heroku --classic
+
 
 
 
@@ -209,7 +212,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3ODMyOTEsMTI2MTUyOTk5NiwtMT
+eyJoaXN0b3J5IjpbLTE4ODE1MTMwNDgsMTI2MTUyOTk5NiwtMT
 g4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4
 MDIsLTQxMjgwNjIwNF19
 -->
