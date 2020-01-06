@@ -147,11 +147,9 @@ pip3 install django-bootstrap-modal-forms
 pip3 install django-forms-bootstrap
 pip3 install pillow
 pip3 install stripe
-
 7. If deploying to Heroku you will need a requirements.txt file so use the command:
 pip3 freeze > requirements.txt
-
-8. For stripe you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
+8. For stripe access you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
 
 I chose to create an env.py file and ensured that is was not published to the public repository by using gitignore.
 
@@ -159,16 +157,16 @@ This command was "env.py > .gitignore"
 
 
 
-Requirements to run code locally:
-clone or download repository from https://github.com/blueag8/Photography_Website.git
+## Requirements to run code locally:
 
-activate the virtual environment
-source bin/activate
-pip3 install -r requirements.txt
-python3 manage.py runserver
-python3 manage.py makemigrations
-python3 manage.py migrate
-python3 manage.py createsuperuser
+1. Clone or download repository from https://github.com/blueag8/Photography_Website.git
+2. Activate  a virtual environment.
+3. Source bin/activate
+4. pip3 install -r requirements.txt
+5. python3 manage.py runserver
+6. python3 manage.py makemigrations
+7. python3 manage.py migrate
+8.python3 manage.py createsuperuser
 
 
 
@@ -218,7 +216,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTcwNTQxMywtNzM3NDgwNjg0LDYxMj
-Q4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAz
-LDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbLTEzNDg5NDQyNTksLTczNzQ4MDY4NCw2MT
+I0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEw
+MywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
 -->
