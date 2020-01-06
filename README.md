@@ -137,12 +137,12 @@ pip3 freeze > requirements.txt
 7. python3 manage.py migrate
 8. python3 manage.py createsuperuser
 
-*If deploying via Heroku and using Gitpod*
+*If deploying via Heroku and using Gitpod*:
 
 I found that pip3 install was not working as I had hoped for the installation and access of Heroku via the command line.
+I userd "npm install -g heroku --classic "
 
-npm install -g heroku --classic  
-heroku login
+Next you will need to heroku login
 
 
 
@@ -189,9 +189,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2Nz
-czMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5
-LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyND
-gxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMs
-MTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTkzOTI3NTUxNCwtNTUwMTcyMzMzLDMzOT
+Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
+LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
+Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
+LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
+gwNjIwNF19
 -->
