@@ -95,18 +95,14 @@ Planning
  - HTML
     
     
- - Gitpod for development
+ - Gitpod IDE for development
  - Git and GitHub- used for version control
  - Heroku for deployment
- - Frameworks
+ - Frameworks include:
     - Bootstrap
    - Font-Awesome Icons
-- Google-Fonts
+   - Google-Fonts
 
-
-
-
-Gitpod IDE
 
 ## Deployment
 
@@ -128,8 +124,6 @@ pip3 install stripe
 8. If deploying to Heroku you will need a requirements.txt file so use the command:
 pip3 freeze > requirements.txt
 9. For stripe access you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
-
-
 
 
 ## Requirements to run code locally:
@@ -195,7 +189,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ1MDA5OCwzMzk0NDEwNTUsMTk2Nz
+eyJoaXN0b3J5IjpbLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2Nz
 czMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5
 LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyND
 gxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMs
