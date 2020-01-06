@@ -195,9 +195,8 @@ Email copy or order form to customer. Perhaps use a modal to show order back to 
 Reset password page HTML and CSS also to redirect to home after submission.
 Need to set up external email account. 
 Admin access pages made more "user friendly" as Henk will be maintaing it himself.
-Filters needfor categories
-Huawei not responsive
-Background images
+Filters need to be added for categories as per Henks wishes.
+Background images are currently within the HTML templates but body 
 
 # Testing
 
@@ -241,10 +240,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODg0MzY3LDE3NjM1NzAzMTQsLTU1MD
-E3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODks
-LTk1ODk3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNj
-k2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYs
-LTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMz
-g0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMTA3MTkyMjMxNywxNzYzNTcwMzE0LC01NT
+AxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5
+LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
+Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
+LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
+M4NDgwMiwtNDEyODA2MjA0XX0=
 -->
