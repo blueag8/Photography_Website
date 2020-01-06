@@ -167,13 +167,13 @@ Login to heroku if using the CLI "heroku login"
 
 **Acknowledgements:**
 Thank you to the student care team at the Code Institute for your own going support and patience.
-Mentor Antonio Rodriguez, a pleasure to speak to. Thank you for helping me fix the bugs and encouraging me to keep going. Incredibly patient and 
+
+to my mentor Antonio Rodriguez, a pleasure to speak to. Thank you for helping me fix the bugs and encouraging me to keep going. Incredibly patient and and extremly helpful. 
 
 **Images**
 By Henk DeWeerd
 **Logo**
 Designed by Naomi Wickham using Google-fonts.
-
 **Referenced** following documentation, tutorials and code checking sites from:
 
 https://stripe.com
@@ -192,10 +192,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA1OTAzNTEsLTU1MDE3MjMzMywzMz
-k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
-MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
-c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
-MCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MT
-I4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMTQ2NDAyOTU0MywtNTUwMTcyMzMzLDMzOT
+Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
+LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
+Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
+LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
+gwNjIwNF19
 -->
