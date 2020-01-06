@@ -167,8 +167,9 @@ This command was "env.py > .gitignore"
     pip3 freeze > requirements.txt
 
 9.  Create a Procfile
-guni 
-11. For stripe access you will need to register an account and obtain a both a publishable key and a Secret Key which will be stored in and environment variable.  This can be done [here]
+web: gunicorn <app_name>
+(Gunicorn for Heroku deployment)
+11. For stripe access you will need to register an account and obtain a both a publishable key and a Secret Key which will be stored in and environment variable.  This can be done [[https://dashboard.stripe.com/login](https://dashboard.stripe.com/login)]
 
 
 ## Requirements to run code locally:
@@ -250,7 +251,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzNTg0OTE1LDE0ODQ0OTUzOTksMTc2Mz
+eyJoaXN0b3J5IjpbOTM0MzkwNjMxLDE0ODQ0OTUzOTksMTc2Mz
 U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
 MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
 Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
