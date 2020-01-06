@@ -107,7 +107,7 @@ Henk would like to take inspiration from this website:
    - Google-Fonts
 
 
-## Development/Depolyment
+## Development/Deployment
 
 This project was developed using the
 [gitpod.io](https://gitpod.io/workspaces/)
@@ -147,6 +147,10 @@ I used the command
 "npm install -g heroku --classic "
 
 Login to heroku if using the CLI "heroku login"
+## Future Implementations
+
+# Testing
+
 
 
 <p>
@@ -188,10 +192,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1NjE4NjU2LC01NTAxNzIzMzMsMzM5ND
-QxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEs
-MTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3ND
-gwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAs
-MzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyOD
-A2MjA0XX0=
+eyJoaXN0b3J5IjpbLTE2NzA4MTMxNzMsLTU1MDE3MjMzMywzMz
+k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
+MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
+c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
+MCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MT
+I4MDYyMDRdfQ==
 -->
