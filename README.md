@@ -126,8 +126,6 @@ Live Chat box
 
 ## Testing
 
- - The application was tested on mobile (Honor PCT-L29 by Huawei) and desktop
-
 **Process/Challenges **
 
 
@@ -162,6 +160,8 @@ This command was "env.py > .gitignore"
 
 Requirements to run code locally:
 clone or download repository from https://github.com/blueag8/Photography_Website.git
+
+activate your e
 
 
 
@@ -208,7 +208,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
-AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
-NF19
+eyJoaXN0b3J5IjpbMTA0MTUyNTAxOSwxMjYxNTI5OTk2LC0xOD
+g0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgw
+MiwtNDEyODA2MjA0XX0=
 -->
