@@ -174,10 +174,6 @@ heroku login
 
 
 
-
-
-
-
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
@@ -221,8 +217,9 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMz
-g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
-LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
-k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
+EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
+NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
+AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
+NF19
 -->
