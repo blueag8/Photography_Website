@@ -22,7 +22,8 @@ This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Fro
 Initally, when I began the project, whilst following the Code Institute's Tutorial on developing an E-commerce site ("Putting it all together"), I had a different project in mind. "Toolbox" is an app that I still wish to pursue, but after having spoke with Henk, I decided that building this site for Henk will better meet the requirements for  the purpose of assessment. I had not adjusted the project/app name as I have been limited on time to meet a deadline and was preventing the introduction of any bugs that may have been created as a result of this change.
  
 # UX
-The goal is to be the voice and advocate for the users needs while balancing the business goals. Provide a meaningful and 
+
+The goal is to  be the voice and advocate for the users needs while balancing the business goals. Providing a meaningful and relevent experience to the user through a
 **External User Story**
 
 Discover and purchase photographs from a professional photographer.
@@ -188,7 +189,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDYzNjU5MCwtNTUwMTcyMzMzLDMzOT
+eyJoaXN0b3J5IjpbMTQwNjcxMjM5OSwtNTUwMTcyMzMzLDMzOT
 Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
 LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
 Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
