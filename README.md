@@ -166,8 +166,8 @@ Login to heroku if using the CLI "heroku login"
 # Credits
 
 **Acknowledgements:**
-Thank you to the student care team at the Code Institute for y
-Mentor Antonio Rodriguez
+Thank you to the student care team at the Code Institute for your own going support and patience.
+Mentor Antonio Rodriguez, a pleasure to speak to. Thank you for helping me fix the bugs and encouraging me to keep going. Incredibly patient and 
 
 **Images**
 By Henk DeWeerd
@@ -192,7 +192,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM4NjU3NDAsLTU1MDE3MjMzMywzMz
+eyJoaXN0b3J5IjpbLTE3MTA1OTAzNTEsLTU1MDE3MjMzMywzMz
 k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
 MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
 c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
