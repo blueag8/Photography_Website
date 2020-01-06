@@ -219,17 +219,22 @@ Mobile
 **Scenarios**
 
  - Register
- - Login
+ - error messages- user exists,
+ - Login, invalid password
  - Logout
- - click on logo
+ - click on logo url to home
  - click links
  - send email
  - shop as authorised user
  - shop as unauthoriser user
  - checkout login required
  - payment form
- - checrequired fields are requested
- - Card error messages -incorrect card details, payment declined, expiry date.
+ - check required fields are requested
+ - Card error messages -incorrect card details, payment declined, expiry date
+ - add a product
+ - edit a product
+ - delete a product
+ 
 
 ## Bugs
 
@@ -279,7 +284,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NzI2NDQ0LC0xNjE1MDY5NzAsMTQ4ND
+eyJoaXN0b3J5IjpbOTY2MzA3NDUyLC0xNjE1MDY5NzAsMTQ4ND
 Q5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1
 LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MT
 MyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0
