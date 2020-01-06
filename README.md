@@ -23,6 +23,7 @@ Initally, when I began the project, whilst following the Code Institute's Tutori
  
 # UX
 User Experience Design 
+Validate/Test from the prospective of the user whilst selling/presenting the business 
 User Interface Design
 **External User Story**
 
@@ -189,7 +190,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTYxMjc5OSwtNTUwMTcyMzMzLDMzOT
+eyJoaXN0b3J5IjpbLTk5ODQ4NjM1NCwtNTUwMTcyMzMzLDMzOT
 Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
 LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
 Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
