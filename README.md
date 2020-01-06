@@ -49,7 +49,6 @@ Deployment via "Heroku"* for the purpose of assessment.
 
 Discover and purchase photographs from a professional photographer.
 
-
 **Site Owners Potential/Story**
 
 Earn Money selling products and showcase/promote work and events/exhibits to a public audience.
@@ -89,10 +88,6 @@ Order Form
 
 External links to Facebook Page and Flickr profiles
 
-Possible Future implementations
-links to exhibitions
-list past exhibits
-Live Chat box
 
 ## Development Process
 Planning
@@ -124,21 +119,10 @@ Planning
  - CSS
  - HTML
     
-    Gitpod for development
-      Git and GitHub- used for version control
-      Heroku for deploy
-
-**Process**
-
-**Responsive Design and styling**
-
-
-## Testing
-
-**Process/Challenges **
-
-
-**Issues encountered** 
+    
+ - Gitpod for development
+  - Git and GitHub- used for version control
+  - Heroku for deployment
 
 
 ## Deployment
@@ -228,9 +212,9 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTEzMTY3MiwxOTY3NzMzNzksMjA3OD
-gwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5
-Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MT
-UyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1
-LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4OD
+AyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3
+LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNT
+I5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUs
+MjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
 -->
