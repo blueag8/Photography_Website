@@ -197,7 +197,9 @@ Need to set up external email account.
 Admin access pages made more "user friendly" as Henk will be maintaing it himself.
 Filters need to be added for categories as per Henks wishes.
 
-Background images for individual pages need adjusting in the templates which extend from the . HTML validation still has an outstanding error "*Element “style” not allowed as child of element “body” in this context"*
+Background images for individual pages need adjusting in the templates which extend from the base.html. 
+HTML validation still has one outstanding error:
+ "*Element “style” not allowed as child of element “body” in this context"*
 
 # Testing
 
@@ -241,10 +243,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNzYyNTQsMTQ4NDQ5NTM5OSwxNzYzNT
-cwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwy
-MDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4ND
-Q3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwx
-MjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5Nj
-QzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbNTcwMzcyMzc5LDE0ODQ0OTUzOTksMTc2Mz
+U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
+MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
+Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
+MTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OT
+Y0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
 -->
