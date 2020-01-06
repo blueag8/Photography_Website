@@ -178,10 +178,11 @@ Designed by Naomi Wickham using Google-fonts.
 
 https://stripe.com (Payment API)
 https://jshint.com/ (Check Javascript)
+
 https://www.w3schools.com
-https://fonts.google.com
-https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h (Migrating a database from sqlite to 
-https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html
+https://fonts.google.com(Fonts)
+https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h (Migrating a database from sqlite to postgresql for Heroku deployment)
+https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html (Reset Migrations)
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjY5OTYzMTI2LC0yMDk4NDQ3MTcsMTMzMD
@@ -190,7 +191,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMyMDAxMzAsLTU1MDE3MjMzMywzMz
+eyJoaXN0b3J5IjpbLTE2Mjc3NTY4MjEsLTU1MDE3MjMzMywzMz
 k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
 MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
 c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
