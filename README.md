@@ -162,16 +162,12 @@ Login to heroku if using the CLI "heroku login"
 Thank you to the student care team at the Code Institute. 
 Mentor Antonio Rodriguez
 
-
-
-
-
-
 **Images**
 By Henk DeWeerd
 **Logo**
-Designed by Naomi Wickham using Google-fonts and 
-**Referenced** following documentation, tutorials and code checking sites:
+Designed by Naomi Wickham using Google-fonts.
+
+**Referenced** following documentation, tutorials and code checking sites from:
 
 https://stripe.com
 https://www.gitpod.io
@@ -181,7 +177,6 @@ https://fonts.google.com
 https://stackedit.io/
 https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h
 https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html
-
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjY5OTYzMTI2LC0yMDk4NDQ3MTcsMTMzMD
@@ -190,10 +185,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE3MjAxMzEsLTU1MDE3MjMzMywzMz
-k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
-MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
-c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
-MCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MT
-I4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMjU2MjIyMzUyLC01NTAxNzIzMzMsMzM5ND
+QxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEs
+MTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3ND
+gwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAs
+MzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyOD
+A2MjA0XX0=
 -->
