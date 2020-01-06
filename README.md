@@ -176,13 +176,11 @@ By Henk DeWeerd
 Designed by Naomi Wickham using Google-fonts.
 **Referenced** following documentation, tutorials and code checking sites from:
 
-https://stripe.com
-https://www.gitpod.io
-https://jshint.com/
+https://stripe.com (Payment API)
+https://jshint.com/ (Check Javascript)
 https://www.w3schools.com
 https://fonts.google.com
-https://stackedit.io/
-https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h
+https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h (Migrating a database from sqlite to 
 https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html
 https://pypi.org/project/django-bootstrap-modal-forms/
 <!--stackedit_data:
@@ -192,10 +190,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDAyOTU0MywtNTUwMTcyMzMzLDMzOT
-Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
-LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
-Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
-LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
-gwNjIwNF19
+eyJoaXN0b3J5IjpbLTEwNTMyMDAxMzAsLTU1MDE3MjMzMywzMz
+k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
+MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
+c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
+MCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MT
+I4MDYyMDRdfQ==
 -->
