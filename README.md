@@ -22,10 +22,8 @@ This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Fro
 Initally, when I began the project, whilst following the Code Institute's Tutorial on developing an E-commerce site ("Putting it all together"), I had a different project in mind. "Toolbox" is an app that I still wish to pursue, but after having spoke with Henk, I decided that building this site for Henk will better meet the requirements for  the purpose of assessment. I had not adjusted the project/app name as I have been limited on time to meet a deadline and was preventing the introduction of any bugs that may have been created as a result of this change.
  
 # UX
-User Experience Design 
-To validate/test using the perspective of the user whilst selling/presenting the business' products. Meaningful and relevent experience to the user. 
-User Interface Design
 
+To validate/test using the perspective of the user whilst selling/presenting the business' products. Providing a meaningful and relevent experience to the user. Be the voice of the user and advocate for the users needs while balancing the business goals
 **External User Story**
 
 Discover and purchase photographs from a professional photographer.
@@ -191,10 +189,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTg4MjQ4NywtNTUwMTcyMzMzLDMzOT
-Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
-LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
-Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
-LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
-gwNjIwNF19
+eyJoaXN0b3J5IjpbMzUxMzY5NjI4LC01NTAxNzIzMzMsMzM5ND
+QxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEs
+MTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3ND
+gwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAs
+MzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyOD
+A2MjA0XX0=
 -->
