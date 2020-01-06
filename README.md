@@ -142,15 +142,16 @@ This project was developed using the
 3. Once inside the activated virtualenv install django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install django ==1.11.24". If using gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
 4. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory).
 5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
-6. Installation commands
+6. CLI installation commands
 pip3 install django-bootstrap-modal-forms
 pip3 install django-forms-bootstrap
 pip3 install pillow
 pip3 install stripe
 
+7. If deploying to Heroku you will need a requirements.txt file so use the command:
 pip3 freeze > requirements.txt
 
-for stripe you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
+8. For stripe you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
 
 I chose to create an env.py file and ensured that is was not published to the public repository by using gitignore.
 
@@ -217,7 +218,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MDQ0NDEwLC03Mzc0ODA2ODQsNjEyND
-gxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMs
-MTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMTcyNTcwNTQxMywtNzM3NDgwNjg0LDYxMj
+Q4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAz
+LDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
 -->
