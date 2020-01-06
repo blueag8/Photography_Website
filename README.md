@@ -66,10 +66,9 @@ Order Form
 
 External links to Facebook Page and Flickr profiles
 
+Henk would like to take inspiration from 
+[https://colinprior.co.uk/](https://colinprior.co.uk/)
 ## UI
-ww
-## Development Process
-Planning
 **Wireframes**
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Map.png)
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
@@ -189,10 +188,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwOTU5MTY3LC01NTAxNzIzMzMsMzM5ND
-QxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEs
-MTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3ND
-gwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAs
-MzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyOD
-A2MjA0XX0=
+eyJoaXN0b3J5IjpbLTU2OTkxMDgzNywtNTUwMTcyMzMzLDMzOT
+Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
+LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
+Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
+LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
+gwNjIwNF19
 -->
