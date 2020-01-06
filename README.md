@@ -162,6 +162,7 @@ pip3 install pillow
 pip3 install stripe
 8. If deploying to Heroku you will need a requirements.txt file so use the command:
 pip3 freeze > requirements.txt
+9. Procfi
 9. For stripe access you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
 
 
@@ -202,6 +203,7 @@ HTML validation still has one outstanding error:
  "*Element “style” not allowed as child of element “body” in this context"*
 
 # Testing
+### Manual
 
 ## Bugs
 
@@ -243,7 +245,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMzcyMzc5LDE0ODQ0OTUzOTksMTc2Mz
+eyJoaXN0b3J5IjpbMTEwMjkyMDQ0LDE0ODQ0OTUzOTksMTc2Mz
 U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
 MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
 Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
