@@ -178,7 +178,7 @@ Designed by Naomi Wickham using Google-fonts.
 
 https://stripe.com (Payment API)
 https://jshint.com/ (Check Javascript)
-
+[https://w3c.github.io/developers/tools/](https://w3c.github.io/developers/tools/)
 https://www.w3schools.com
 https://fonts.google.com(Fonts)
 https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h (Migrating a database from sqlite to postgresql for Heroku deployment)
@@ -191,10 +191,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc3NTY4MjEsLTU1MDE3MjMzMywzMz
-k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
-MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
-c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
-MCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MT
-I4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTU5Mjg1NDI2OCwtNTUwMTcyMzMzLDMzOT
+Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
+LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
+Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
+LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
+gwNjIwNF19
 -->
