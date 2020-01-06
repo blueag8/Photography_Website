@@ -229,11 +229,13 @@ Mobile
  - Shop as authorised user
    - add to cart
    - adjust quantity
+   - checkout update cart
    -  payment form
- - Check required fields are requested
- - Card error messages -incorrect card details, payment declined, expiry date
+   - check required fields are requested
+   - card error messages -incorrect card details, payment declined, expiry date
  - Shop as unauthoriser user
-  -checkout login required
+   - checkout login required
+   - 
  Reset password
   
 CRUD 
@@ -300,7 +302,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTU5MTk4NywtMTYxNTA2OTcwLDE0OD
+eyJoaXN0b3J5IjpbMTk2MzE1MTI0MiwtMTYxNTA2OTcwLDE0OD
 Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
 NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
 EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
