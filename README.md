@@ -55,8 +55,7 @@ Discover and purchase photographs from a professional photographer.
 Earn Money selling products and showcase/promote work and events/exhibits to a public audience.
 
 Customer requirements:
-
-Shop
+Henk would like 
  -3 Photo sizes
  -Unframed 
  -No Borders
@@ -216,7 +215,8 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyND
-gxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMs
-MTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
+Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
+LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
+gwNjIwNF19
 -->
