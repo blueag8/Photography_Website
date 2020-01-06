@@ -156,14 +156,19 @@ This command was "env.py > .gitignore"
 5. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory).
 6. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
 7. CLI installation commands
-pip3 install django-bootstrap-modal-forms
-pip3 install django-forms-bootstrap
-pip3 install pillow
-pip3 install stripe
+
+    pip3 install django-bootstrap-modal-forms
+    pip3 install django-forms-bootstrap
+    pip3 install pillow
+    pip3 install stripe
+
 8. If deploying to Heroku you will need a requirements.txt file so use the command:
-pip3 freeze > requirements.txt
-9. Procfi
-9. For stripe access you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
+
+    pip3 freeze > requirements.txt
+
+9.  Create a Procfile
+guni 
+11. For stripe access you will need to register an account and obtain a both a publishable key and a Secret Key which will be stored in and environment variable.  This can be done [here]
 
 
 ## Requirements to run code locally:
@@ -245,7 +250,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjkyMDQ0LDE0ODQ0OTUzOTksMTc2Mz
+eyJoaXN0b3J5IjpbNTIzNTg0OTE1LDE0ODQ0OTUzOTksMTc2Mz
 U3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzks
 MjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzOD
 Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
