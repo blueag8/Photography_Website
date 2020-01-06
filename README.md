@@ -19,9 +19,6 @@ The aim is to design and build a full-stack website around business logic. We ar
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
-Deployment via "Heroku"* for the purpose of assessment.
-
-
 # UX
 **External User Story**
 
@@ -99,9 +96,17 @@ Planning
     
     
  - Gitpod for development
-  - Git and GitHub- used for version control
-  - Heroku for deployment
+ - Git and GitHub- used for version control
+ - Heroku for deployment
+ - Frameworks
+    - Bootstrap
+   - Font-Awesome Icons
+- Google-Fonts
 
+
+
+
+Gitpod IDE
 
 ## Deployment
 
@@ -190,9 +195,9 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYzNzgzMzcsMzM5NDQxMDU1LDE5Nj
-c3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1
-OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMj
-Q4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAz
-LDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbLTExNDQ1MDA5OCwzMzk0NDEwNTUsMTk2Nz
+czMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5
+LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyND
+gxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMs
+MTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
