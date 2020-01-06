@@ -47,7 +47,7 @@ Deployment via "Heroku"* for the purpose of assessment.
 # UX
 **External User Story**
 
- Discover and purchase photographs from a professional photographer.
+Discover and purchase photographs from a professional photographer.
 
 
 **Site Owners Potential/Story**
@@ -208,6 +208,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
-k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
+AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
+NF19
 -->
