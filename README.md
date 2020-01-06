@@ -56,7 +56,7 @@ Earn Money selling products and showcase/promote work and events/exhibits to a p
 
 Customer requirements:
 Henk would like 
- -3 Photo sizes
+ -3 
  -Unframed 
  -No Borders
 -Signed
@@ -215,8 +215,8 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
-Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
-LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
-gwNjIwNF19
+eyJoaXN0b3J5IjpbMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
+Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
+LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
+M4NDgwMiwtNDEyODA2MjA0XX0=
 -->
