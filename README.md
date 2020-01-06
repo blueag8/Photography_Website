@@ -227,11 +227,14 @@ Mobile
  - Check all links are valid
  - Send email using Backend
  - Shop as authorised user
+   - add to cart
+   - adjust quantity
    -  payment form
  - Check required fields are requested
  - Card error messages -incorrect card details, payment declined, expiry date
  - Shop as unauthoriser user
   -checkout login required
+ Reset password
   
 CRUD 
  - Create a product
@@ -242,9 +245,9 @@ CRUD
  STRIPE 
  testing code
 4242 4242 4242 4242
-cvc
+cvc (any three numbers)
 111
-expiry must be after current
+expiry (must be after current date)
 01/2021
 
 ## Bugs
@@ -297,11 +300,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQxMDkyNDcsLTE2MTUwNjk3MCwxND
-g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
-NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
-cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
-ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
-MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
-MDRdfQ==
+eyJoaXN0b3J5IjpbMjA4NTU5MTk4NywtMTYxNTA2OTcwLDE0OD
+Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
+NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
+EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
+NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
+AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
+NF19
 -->
