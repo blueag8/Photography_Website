@@ -56,11 +56,12 @@ Earn Money selling products and showcase/promote work and events/exhibits to a p
 
 Customer requirements:
 Henk would like an ecommerce style website. 
-
 He would like to offer
  -Three choices in canvas/print size
-
-He would like to showcase his work in Image Galleries 
+ -Prints will be signed
+ -All will be with no border
+ 
+He would like to displa his work in Image Galleries employing the 
  Filter Options :
  ALL (would like to view All as an option)
  Landscape
@@ -214,8 +215,8 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ2MDMyOTksMTg3MTMyMTE1OSwxMT
-M4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0
-NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3OD
-U5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbMTgwOTU0MDk2NiwxODcxMzIxMTU5LDExMz
+g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
+LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
+k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
