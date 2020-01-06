@@ -108,10 +108,12 @@ Planning
 
 ##  Features
 
- - Register, Sign in, Logout
- - Add, edit, delete products.
+ - Register, sign in, logout of an account
+ -  Add, edit, delete products.
  - Authorised permissions
- - 
+ - Filter products by prices
+ - Create an order
+ - Make a payment
 
 ## Technologies Used
 
@@ -219,9 +221,9 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE1MjMzMTIsMjA3ODgwMjA4OSwtOT
-U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
-MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMT
-g4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4
-MDIsLTQxMjgwNjIwNF19
+eyJoaXN0b3J5IjpbMTA0MzgwOTI5NCwyMDc4ODAyMDg5LC05NT
+g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
+NSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xOD
+g0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgw
+MiwtNDEyODA2MjA0XX0=
 -->
