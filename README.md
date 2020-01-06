@@ -207,7 +207,7 @@ Login to heroku if using the CLI "heroku login"
  8. Admin access pages made more "user friendly" as Henk will be maintaing it himself.
  9. Filters need to be added for categories as per Henks wishes.
  10. Background images for individual pages need adjusting in the templates which extend from the base.html. 
-
+11. If user is not logged in for checkout after login redirect back to the cart rather than to home.
 
 # Testing
 ### Manual
@@ -227,20 +227,23 @@ Mobile
  - Check all links are valid
  - Send email using Backend
  - Shop as authorised user
-   - add to cart
-   - adjust quantity
-   - go to checkout
-   - checkout update cart
-   -  payment form
-   - check required fields are requested
-   - card error messages -incorrect card details, payment declined, expiry date
+ - add to cart
+ - adjust quantity
+ - go to checkout
+ - checkout update cart
+ -  payment form
+ - check required fields are requested
+ - card error messages -incorrect card details, payment declined, expiry date
  - Shop as unauthoriser user
-   - add to cart
-   - adjust quantity
-   - go to checkout
-   - checkout login required
-   -
- Reset password
+ - add to cart
+ - adjust quantity
+ - go to checkout
+ - checkout login required
+   
+ 
+ - List item
+
+Reset password
   
 CRUD 
  - Create a product
@@ -306,11 +309,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ0OTU5MTIsLTE2MTUwNjk3MCwxND
-g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
-NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
-cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
-ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
-MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTMwNTA3NDEwOSwtMTYxNTA2OTcwLDE0OD
+Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
+NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
+EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
+NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
+AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
+NF19
 -->
