@@ -165,6 +165,8 @@ activate the virtual environment
 source bin/activate
 pip3 install -r requirements.txt
 python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
 
 
 
@@ -213,7 +215,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODU0ODk2MSwxMjYxNTI5OTk2LC0xOD
-g0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgw
-MiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4OD
+Q2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAy
+LC00MTI4MDYyMDRdfQ==
 -->
