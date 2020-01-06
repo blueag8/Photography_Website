@@ -23,8 +23,9 @@ Initally, when I began the project, whilst following the Code Institute's Tutori
  
 # UX
 User Experience Design 
-Validate/Test from the prospective of the user whilst selling/presenting the business 
+To validate/test using the perspective of the user whilst selling/presenting the business' products. Meaningful and relevent experience to the user. 
 User Interface Design
+
 **External User Story**
 
 Discover and purchase photographs from a professional photographer.
@@ -190,7 +191,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODQ4NjM1NCwtNTUwMTcyMzMzLDMzOT
+eyJoaXN0b3J5IjpbMjA4NTg4MjQ4NywtNTUwMTcyMzMzLDMzOT
 Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
 LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
 Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
