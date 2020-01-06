@@ -19,7 +19,7 @@ The aim is to design and build a full-stack website around business logic. We ar
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
-Initally I began the project whilst following the Code Institutes Tutorial on developing an E-commerce site ("Putting it all together".
+Initally, when I began the project, whilst following the Code Institute's Tutorial on developing an E-commerce site ("Putting it all together"), I had a different project in mind. "Toolbox" is an app that I still wish to pursue, but after having spoke with Henk
 # UX
 
 **External User Story**
@@ -187,7 +187,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDM5NjkwMCwtNTUwMTcyMzMzLDMzOT
+eyJoaXN0b3J5IjpbLTk0NDkxNzEzNywtNTUwMTcyMzMzLDMzOT
 Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
 LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
 Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
