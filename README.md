@@ -17,29 +17,7 @@ This is the final Project for the Code Institute Full Stack Web Development Cour
 
 The aim is to design and build a full-stack website around business logic. We are required to show an authentication mechanism, payment facilities and a locally managed dataset which stores products or services.
 
-UI
-Data Modeling
-Multiple Apps
-Django-Backend
-Relational database Schema
-Use of Stripe/e-commerce
-
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
-
-Frameworks
-
-Bootstrap
-Font-Awesome Icons
-Google-Fonts
-
-
-Git and GitHub are used for version control,
-
-Gitpod IDE
-AWS Cloud9 used for development.
-
-View [here]
-
 
 Deployment via "Heroku"* for the purpose of assessment.
 
@@ -212,9 +190,9 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4OD
-AyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3
-LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNT
-I5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUs
-MjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbLTEyNzYzNzgzMzcsMzM5NDQxMDU1LDE5Nj
+c3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1
+OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMj
+Q4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAz
+LDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
 -->
