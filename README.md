@@ -76,12 +76,15 @@ He would like to display his work in Image Galleries employing the following fil
 - South Australia
 - Australia
 - Portraits
-- Windows to the world
-Books 
+- Windows to the World exhibition
+- Books 
 
-Bio/About
+In addition to this he would like to include:
 
-Contact details
+Bio/About Page
+
+Contact details/Contact Form
+Message Bot
 
 Order Form
 
@@ -216,7 +219,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDM3NzkyNywxODcxMzIxMTU5LDExMz
+eyJoaXN0b3J5IjpbMjA0NjMwMzI0NywxODcxMzIxMTU5LDExMz
 g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
 LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
 k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
