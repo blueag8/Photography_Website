@@ -56,8 +56,8 @@ Earn Money selling products and showcase/promote work and events/exhibits to a p
 
 Customer requirements:
 Henk would like 
- -3 
- -Unframed 
+ -Three choices in canvas/print size
+ -Products will Unframed 
  -No Borders
 -Signed
 
@@ -215,8 +215,8 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMD
-Y5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNTI5OTk2
-LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzUsMjA4MT
-M4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbMTg5MjM0NzYyOCwxODcxMzIxMTU5LDExMz
+g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
+LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
+k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
 -->
