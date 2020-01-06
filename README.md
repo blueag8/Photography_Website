@@ -218,6 +218,15 @@ Mobile
 
 **Scenarios**
 
+ - Register
+ - Login
+ - Logout
+ - click on logo
+ - click links
+ - send email
+ - shop as authorised user
+ - 
+
 ## Bugs
 
 ***Validation***
@@ -266,10 +275,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3Nj
-M1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5
-LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMz
-g0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1
-LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NT
-k2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTgyNTM5OTIsLTE2MTUwNjk3MCwxND
+g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
+NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
+cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
+ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
+MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
+MDRdfQ==
 -->
