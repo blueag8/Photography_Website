@@ -19,9 +19,11 @@ The aim is to design and build a full-stack website around business logic. We ar
 
 This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational Database.
 
-Initally, when I began the project, whilst following the Code Institute's Tutorial on developing an E-commerce site ("Putting it all together"), I had a different project in mind. "Toolbox" is an app that I still wish to pursue, but after having spoke with Henk, I decided that building this site for Henk will better meet the requirements for  the purpose of assessment. I had not adjusted the project/app name as I have been limited on time to meet a deadline and  
+Initally, when I began the project, whilst following the Code Institute's Tutorial on developing an E-commerce site ("Putting it all together"), I had a different project in mind. "Toolbox" is an app that I still wish to pursue, but after having spoke with Henk, I decided that building this site for Henk will better meet the requirements for  the purpose of assessment. I had not adjusted the project/app name as I have been limited on time to meet a deadline and was preventing the introduction of any bugs that may have been created as a result of this change.
+ 
 # UX
-
+User Experience Design 
+User Interface Design
 **External User Story**
 
 Discover and purchase photographs from a professional photographer.
@@ -187,10 +189,10 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTYzNTg5OTMsLTU1MDE3MjMzMywzMz
-k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
-MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
-c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
-MCwzNTMwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MT
-I4MDYyMDRdfQ==
+eyJoaXN0b3J5IjpbLTQ5MTYxMjc5OSwtNTUwMTcyMzMzLDMzOT
+Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
+LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
+Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
+LDM1MzAxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMj
+gwNjIwNF19
 -->
