@@ -23,7 +23,7 @@ Initally, when I began the project, whilst following the Code Institute's Tutori
  
 # UX
 
-The goal is to  be the voice and advocate for the users needs while balancing the business goals. Providing a meaningful and relevent experience to the user through ease of navigation, intuitive design and a visually pleasing  ezp
+The goal is to  be the voice and advocate for the users needs while balancing the business goals. Providing a meaningful and relevent experience to the user through a website that is easy to navigate,  use intuitive design and visually appealing 
 **External User Story**
 
 Discover and purchase photographs from a professional photographer.
@@ -189,7 +189,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjM0NTE1MywtNTUwMTcyMzMzLDMzOT
+eyJoaXN0b3J5IjpbMTYwNTI5MDEyMCwtNTUwMTcyMzMzLDMzOT
 Q0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTEx
 LDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNz
 Q4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEw
