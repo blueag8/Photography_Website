@@ -105,12 +105,10 @@ Planning
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_Form.png)
 
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Mobile_Mockup_home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Mobile_Mockup4.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_ConfirmationMobile.png)
-**Category**
-
 
 ##  Features
 
-*Future possible implementations/opportunities*
+
 
 
 ## Technologies Used
@@ -138,22 +136,21 @@ This project was developed using the
 [gitpod.io](https://gitpod.io/workspaces/)
 
 1. create a virtual environment. I acheived this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" 
-2. activate the virtual env use "source bin/activate"
-3. Once inside the activated virtualenv install django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install django ==1.11.24". If using gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
-4. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory).
-5. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
-6. CLI installation commands
+2. I chose to create an env.py file and ensured that is was not published to the public repository by using gitignore.
+This command was "env.py > .gitignore"
+3. activate the virtual env use "source bin/activate"
+4. Once inside the activated virtualenv install django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install django ==1.11.24". If using gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
+5. Create new project by running command "django-admin startproject [project_name] . " (the . is used to ensure you are in the root directory).
+6. Next run the command "python3 manage.py migrate" this will initialise the application and create a default database.
+7. CLI installation commands
 pip3 install django-bootstrap-modal-forms
 pip3 install django-forms-bootstrap
 pip3 install pillow
 pip3 install stripe
-7. If deploying to Heroku you will need a requirements.txt file so use the command:
+8. If deploying to Heroku you will need a requirements.txt file so use the command:
 pip3 freeze > requirements.txt
-8. For stripe access you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
+9. For stripe access you will need to obtain a both a publishable key and a Secret Key which will be stored in and environment variable. 
 
-I chose to create an env.py file and ensured that is was not published to the public repository by using gitignore.
-
-This command was "env.py > .gitignore"
 
 
 
@@ -216,8 +213,8 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM2Mjc0MzcsMTg3MTMyMTE1OSwxMT
-M4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0
-NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3OD
-U5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0XX0=
+eyJoaXN0b3J5IjpbMjgwNDM3NjQxLDE4NzEzMjExNTksMTEzOD
+Q0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUs
+MTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OT
+Y0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIwNF19
 -->
