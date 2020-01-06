@@ -151,7 +151,7 @@ Login to heroku if using the CLI "heroku login"
 
 # Testing
 
-
+## Bugs
 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -166,7 +166,7 @@ Login to heroku if using the CLI "heroku login"
 # Credits
 
 **Acknowledgements:**
-Thank you to the student care team at the Code Institute. 
+Thank you to the student care team at the Code Institute for y
 Mentor Antonio Rodriguez
 
 **Images**
@@ -192,7 +192,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA4MTMxNzMsLTU1MDE3MjMzMywzMz
+eyJoaXN0b3J5IjpbLTE4OTM4NjU3NDAsLTU1MDE3MjMzMywzMz
 k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
 MSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mz
 c0ODA2ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkx
