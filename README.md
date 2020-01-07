@@ -233,7 +233,7 @@ Login to Heroku if using the CLI
 12. Add favicon image for branding 
 13. Headings and Site Map for marketing
 14. Additional content added to pages ie About/Bio
-15. Offer choice of sizes and create a function to adjust cost in accordathe selection of a size.
+15. Offer choice of sizes and create a function to adjust price in accordance to the selection of a size.
 
 # Testing
 
@@ -308,7 +308,7 @@ Issues migrating from SQL to PostgreSQL
 Solutions included resetting migrations.
 
 
-Current Bug is in the "Products" model.py in the size field. 
+There is a current Bug in the "Products app" model.py. When making a migration  
 error in model 
 base 10()
 
@@ -367,7 +367,7 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTU0MjcwNywxMjc5NTk4MDA2LDM5Nz
+eyJoaXN0b3J5IjpbMjA3ODczOTA0NSwxMjc5NTk4MDA2LDM5Nz
 k5MDIxMCwtMTQ1NzgwODU4NiwtMjA3ODIxOTc4MSwxNTU2NDQ5
 MzUxLDI0NzUyNzczMSwtNTkwOTk1OTYzLC0xNTE0NzY5NTQsMT
 UwOTc4MjExNSwtNTQzMjU2MTksMTQ5MjIzODcwMCwxNTk5Njky
