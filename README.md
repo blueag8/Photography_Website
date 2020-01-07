@@ -231,10 +231,14 @@ Login to Heroku if using the CLI
  10. Background images for individual pages need adjusting in the templates which extend from the base.html. 
 11. Update url- If the user is not logged in for checkout, then after login, redirect back to the cart rather than to home.
 12. Add favicon image for branding 
-13. Headings and Site Map for marketing# Testing
+13. Headings and Site Map for marketing
+14. Additional content added to pages ie About/Bio
+
+# Testing
 
 ### Manual
 Tested multiple devices using both Chrome Dev Tools on desktop and tested on mobile phone.  Iphone 6/7/8 and Ipad Responsive.
+
 
 **Scenarios**
 
@@ -360,7 +364,7 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzIzNTkyNiwzOTc5OTAyMTAsLTE0NT
+eyJoaXN0b3J5IjpbMTI3OTU5ODAwNiwzOTc5OTAyMTAsLTE0NT
 c4MDg1ODYsLTIwNzgyMTk3ODEsMTU1NjQ0OTM1MSwyNDc1Mjc3
 MzEsLTU5MDk5NTk2MywtMTUxNDc2OTU0LDE1MDk3ODIxMTUsLT
 U0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4
