@@ -219,11 +219,15 @@ You will need to set up your config variables in the settings.
 
 These will include:
 
- - DATABASE_URL if u
+ - DATABASE_URL (if not using sqlite)
  - SECRET_KEY
+  - API_SECRET
  - API_KEY
  - HOST
  - IP
+ - STRIPE_PUBLISHABLE
+
+ - 
  - 
 
 # Deployment
@@ -397,7 +401,7 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI2NDM1NTYsMTczMDYxNDUsMTI3OT
+eyJoaXN0b3J5IjpbLTE0OTI3NzAwODYsMTczMDYxNDUsMTI3OT
 U5ODAwNiwzOTc5OTAyMTAsLTE0NTc4MDg1ODYsLTIwNzgyMTk3
 ODEsMTU1NjQ0OTM1MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMT
 UxNDc2OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3
