@@ -70,7 +70,7 @@ Henk would like to take inspiration from this website:
 [https://colinprior.co.uk/](https://colinprior.co.uk/)
 ## UI
 **Wireframes**
-![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Map.png)
+![enter image description here]([https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png))
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
 ## Data Schema![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Cart.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)
 
@@ -320,11 +320,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OT
-IyMzg3MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0
-OSwtMTYxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNT
-UwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4
-OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2Mz
-A2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MTUyOTk5
-Nl19
+eyJoaXN0b3J5IjpbLTEyODEzNTMwMTEsMTQ5MjIzODcwMCwxNT
+k5NjkyMDA3LDE0OTIyMzg3MDAsMTcwMjA5MTY1OCw0MTM1OTA4
+MDEsMTU2ODU1NTI0OSwtMTYxNTA2OTcwLDE0ODQ0OTUzOTksMT
+c2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMz
+NzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMT
+EzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODEx
+NDVdfQ==
 -->
