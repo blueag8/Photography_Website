@@ -215,7 +215,8 @@ I used the command
 Login to Heroku if using the CLI 
 
     heroku login
-You will need to set up your config variables in the settings.
+    
+You will need to create or sign into any thset up your config variables in the settings.
 
 These will include:
 
@@ -226,9 +227,11 @@ These will include:
  - HOST
  - IP
  - STRIPE_PUBLISHABLE
+ - STRIPE_SECRET
+ - CLOUD_NAME (if using Cloudinary for image storage)
+ - CLOUDINARY_URL
 
- - 
- - 
+ 
 
 # Deployment
 
@@ -401,11 +404,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI3NzAwODYsMTczMDYxNDUsMTI3OT
-U5ODAwNiwzOTc5OTAyMTAsLTE0NTc4MDg1ODYsLTIwNzgyMTk3
-ODEsMTU1NjQ0OTM1MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMT
-UxNDc2OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3
-MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsND
-EzNTkwODAxLDE1Njg1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1
-Mzk5XX0=
+eyJoaXN0b3J5IjpbMTQxNTQ0NTYxLDE3MzA2MTQ1LDEyNzk1OT
+gwMDYsMzk3OTkwMjEwLC0xNDU3ODA4NTg2LC0yMDc4MjE5Nzgx
+LDE1NTY0NDkzNTEsMjQ3NTI3NzMxLC01OTA5OTU5NjMsLTE1MT
+Q3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAw
+LDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMz
+U5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5
+OV19
 -->
