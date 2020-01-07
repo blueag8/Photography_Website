@@ -207,10 +207,12 @@ web: gunicorn <app_name>
 2. Create a virtual environment.
 3. Source bin/activate
 4. pip3 install -r requirements.txt
-5. python3 manage.py runserver
-6. python3 manage.py makemigrations
-7. python3 manage.py migrate
-8. python3 manage.py createsuperuser
+5. set up your environment variables ie. SECRET_KEY
+[create your own ](https://miniwebtool.com/django-secret-key-generator/)
+7. python3 manage.py runserver
+8. python3 manage.py makemigrations
+9. python3 manage.py migrate
+10. python3 manage.py createsuperuser
 
 *If deploying via Heroku and using Gitpod*:
 
@@ -423,11 +425,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ0OTUyNDUsMTkwMTQ5MDg1OSwtND
-Q4NzMwODg4LDE3MzA2MTQ1LDEyNzk1OTgwMDYsMzk3OTkwMjEw
-LC0xNDU3ODA4NTg2LC0yMDc4MjE5NzgxLDE1NTY0NDkzNTEsMj
-Q3NTI3NzMxLC01OTA5OTU5NjMsLTE1MTQ3Njk1NCwxNTA5Nzgy
-MTE1LC01NDMyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMT
-Q5MjIzODcwMCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1
-MjQ5XX0=
+eyJoaXN0b3J5IjpbLTYzNzUwOTc4NiwtMTg3NDQ5NTI0NSwxOT
+AxNDkwODU5LC00NDg3MzA4ODgsMTczMDYxNDUsMTI3OTU5ODAw
+NiwzOTc5OTAyMTAsLTE0NTc4MDg1ODYsLTIwNzgyMTk3ODEsMT
+U1NjQ0OTM1MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2
+OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMT
+U5OTY5MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkw
+ODAxXX0=
 -->
