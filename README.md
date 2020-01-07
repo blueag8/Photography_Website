@@ -81,6 +81,7 @@ Henk would like to take inspiration from this website:
 
 ## Front-end
 Presentation/Layout 
+Ie CSS, HTML, Python, Django, Javascript.
 
 ## Back-end
 For testing/development Sqlite was used and for deployment to Heroku, Postgresql  was used. 
@@ -319,11 +320,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAyNzU0NjAsNDEzNTkwODAxLDE1Nj
-g1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAz
-MTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNz
-g4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0
-OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1LDEyNj
-E1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMz
-NV19
+eyJoaXN0b3J5IjpbMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2OD
+U1NTI0OSwtMTYxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMx
+NCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3OD
+gwMjA4OSwtOTU4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5
+Nyw2MzA2OTY4MjUsLTczNzQ4MDY4NCw2MTI0ODExNDUsMTI2MT
+UyOTk5NiwtMTg4NDYwOTEwLDM1MzAxMzEwMywxNzg1OTY0MzM1
+XX0=
 -->
