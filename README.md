@@ -237,7 +237,7 @@ Login to Heroku if using the CLI
 # Testing
 
 ### Manual
-Tested multiple devices using both Chrome Dev Tools on desktop and tested on mobile phone.  Iphone 6/7/8 and Ipad Responsive.
+Tested on multiple devices using both Chrome Dev Tools on desktop and tested on mobile phone.  Iphone 6/7/8 and Ipad Responsive.
 
 
 **Scenarios**
@@ -301,11 +301,13 @@ I will be forking this project and continuing to work on it for Henk.
 
 ## Bugs
 There were several issues when attempting to deploy to Heroku .
+
 Issues migrating from SQL to PostgreSQL 
+
 Solutions included resetting migrations.
-Clear cache/cookies
 
 
+Currn
 error in model 
 base 10()
 
@@ -364,11 +366,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTU5ODAwNiwzOTc5OTAyMTAsLTE0NT
-c4MDg1ODYsLTIwNzgyMTk3ODEsMTU1NjQ0OTM1MSwyNDc1Mjc3
-MzEsLTU5MDk5NTk2MywtMTUxNDc2OTU0LDE1MDk3ODIxMTUsLT
-U0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4
-NzAwLDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLT
-E2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3
-MjMzM119
+eyJoaXN0b3J5IjpbNDk2NTU3NDc2LDEyNzk1OTgwMDYsMzk3OT
+kwMjEwLC0xNDU3ODA4NTg2LC0yMDc4MjE5NzgxLDE1NTY0NDkz
+NTEsMjQ3NTI3NzMxLC01OTA5OTU5NjMsLTE1MTQ3Njk1NCwxNT
+A5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIw
+MDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNT
+Y4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcw
+MzE0XX0=
 -->
