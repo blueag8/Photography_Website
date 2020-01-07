@@ -260,7 +260,8 @@ expiry (must be after current date)
 01/2021
 
 There is a lot more testing I would like to integrate including more of the automated testing. I have created a Travis.yml file but am currently having issues passing the build. 
-Due to time constraints and passing a deadline I am happy to submit as is 
+Due to time constraints and passing a deadline I am happy to submit as is for the purpose of assessment.  Through the manual testing I am happy that the site is user friendly and works as expected.
+
 ## Bugs
 
 Solutions included resetting migrations.
@@ -314,7 +315,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzM3ODA4NywtMTYxNTA2OTcwLDE0OD
+eyJoaXN0b3J5IjpbMTU2ODU1NTI0OSwtMTYxNTA2OTcwLDE0OD
 Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
 NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
 EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
