@@ -209,9 +209,12 @@ web: gunicorn <app_name>
 
 I found that pip3 install was not working as I had hoped for the installation and access of Heroku via the command line.
 I used the command 
-"npm install -g heroku --classic "
 
-Login to Heroku if using the CLI "heroku login"
+    npm install -g heroku --classic 
+
+Login to Heroku if using the CLI 
+
+    heroku login
 
 # Deployment
 
@@ -349,12 +352,13 @@ fQ==
 
 
 Naomi Wickham 2020
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDk5NTk2MywtMTUxNDc2OTU0LDE1MD
-k3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAw
-NywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Nj
-g1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAz
-MTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNz
-g4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0
-OTddfQ==
+eyJoaXN0b3J5IjpbMTMzNDAyMzczLC01OTA5OTU5NjMsLTE1MT
+Q3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAw
+LDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMz
+U5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5
+OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Nj
+c3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1
+OV19
 -->
