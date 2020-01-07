@@ -234,9 +234,7 @@ Login to Heroku if using the CLI
 # Testing
 
 ### Manual
-Tested multiple devices using both Chrome Dev Tools on desktop and tested on mobile phone. Responsive a
-
-Manually tested on Iphone 6  
+Tested multiple devices using both Chrome Dev Tools on desktop and tested on mobile phone.  Iphone 6/7/8 and Ipad Responsive.
 
 **Scenarios**
 
@@ -285,6 +283,7 @@ EXPIRY (must be after current date)
 01/2021
 
 There is a lot more testing I would like to integrate, including more of the automated testing. 
+
 I have created a Travis.yml file but am currently having issues passing the build. 
 Due to time constraints and passing a deadline I am happy to submit as is for assessment.  
 
@@ -313,7 +312,7 @@ https://w3c.github.io/developers/tools/ (CSS, HTML)
 
 [Image testing via Cloudinary Web Speed Test](https://webspeedtest.cloudinary.com/)
 
- HTML validation still has one outstanding error:
+ **HTML** validation still has one outstanding error:
  "*Element “style” not allowed as child of element “body” in this context"*
 
 # Credits
@@ -354,7 +353,7 @@ fQ==
 Naomi Wickham 2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAyNjE2MDUsLTU5MDk5NTk2MywtMT
+eyJoaXN0b3J5IjpbLTEwMzQ5NzM0NzcsLTU5MDk5NTk2MywtMT
 UxNDc2OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3
 MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsND
 EzNTkwODAxLDE1Njg1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1
