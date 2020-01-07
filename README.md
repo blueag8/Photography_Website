@@ -303,15 +303,24 @@ CRUD
  - Delete a product
  
 
- STRIPE 
- Test card details:
+STRIPE 
+ 
+Test card details:
+ 
 CARD number
+
 4242 4242 4242 4242
+
 NAME
+
 Any 
+
 CVC (any three numbers)
+
 111
+
 EXPIRY (must be after current date)
+
 01/2021
 
 There is a lot more testing I would like to integrate, including more of the automated testing. 
@@ -356,9 +365,13 @@ There is a current bug in the "Products app" model.py. When making a migration a
 " invalid literal for int() with base 10:" 
 
 ***Validation***
+
 [https://travis-ci.com/] current status![build:started](https://travis-ci.com/blueag8/Photography_Website.svg?branch=master)
+
 https://jshint.com/ (Check Javascript)
+
 https://w3c.github.io/developers/tools/ (CSS, HTML)
+
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
