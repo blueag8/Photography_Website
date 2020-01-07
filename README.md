@@ -3,7 +3,7 @@
 Quick Links
 
 [UX](https://github.com/blueag8/Photography_Website/blob/master/README.md#ux)
-[UI](https://github.com/blueag8/Photography_Website/blob/master/README.md#ui)
+[UI](https://github.com/blueag8/Photography_Website/blob/master/README.md#ui) /Wireframes
 [Features](https://github.com/blueag8/Photography_Website/blob/master/README.md#features)
 [Technologies](https://github.com/blueag8/Photography_Website/blob/master/README.md#technologies-used)
 [Local Deployment](https://github.com/blueag8/Photography_Website/blob/master/README.md#requirements-to-run-code-locally)
@@ -15,7 +15,7 @@ Quick Links
 
 https://henkdeweerdphotography.herokuapp.com/
 
-GitHub repository
+**GitHub repository**
 
 https://github.com/blueag8/Photography_Website
 
@@ -326,11 +326,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkxMzM5MzEsMTUwOTc4MjExNSwtNT
-QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
-MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
-YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
-MzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOT
-U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTIzMTEyODg5MSwxNTA5NzgyMTE1LC01ND
+MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
+MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
+E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
+MzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NT
+g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
+NV19
 -->
