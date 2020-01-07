@@ -167,9 +167,7 @@ This project was developed using the
 
 3. Once inside the activated virtualenv install Django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install Django ==1.11.24". If using Gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
 
-4. Create a new project by running command 
-5. `Django-admin startproject [project_name] . `  (the . is used to ensure you are in the root directory).
-6. Next, run the command 
+4. Create a new project by running the command   `Django-admin startproject [project_name] . `  (the . is used to ensure you are in the root directory).5. Next, run the command 
 `python3 manage.py migrate` this will initialise the application and create a default database.
 8. CLI installation commands
 
@@ -216,7 +214,7 @@ Login to Heroku if using the CLI
 
     heroku login
     
-You will need to create or sign into any third-party accounts and access your keys then set up your config variables in the settings.
+You will need to create or sign in to any third-party accounts and access your keys then set up your config variables in the settings.
 
 These will include:
 
@@ -236,24 +234,24 @@ These will include:
 ## Future Implementations
 
  1. Automated message bot.
- 2. Provide an external link to photos enlarged. Ie the Cloudinary link could open in a new tab, or use a modal to display the  enlarged photo for viewing.
- 3. Images need resizing and adjustments for  best optimization.
+ 2. Provide an external link to photos enlarged. Ie the Cloudinary link could open in a new tab, or use a modal to display the enlarged photo for viewing.
+ 3. Images need resizing and adjustments for best optimization.
  5. Email copy or order form to the customer. (Perhaps use a modal to show order back to the customer rather than the alert).
  6. Reset password page HTML and CSS also to redirect to home after submission.
  7. Set up an external email account (emails currently only go to Backend testing).
  8. Admin access pages made more "user-friendly" as Henk will be maintaining it himself.
  9. Filters need to be added for categories as per Henks wishes.
  10. Background images for individual pages need adjusting in the templates which extend from the base.html. 
-11. Update url- If the user is not logged in for checkout, then after login, redirect back to the cart rather than to home.
+11. Update URL- If the user is not logged in for checkout, then after login, redirect back to the cart rather than to home.
 12. Add favicon image for branding 
 13. Headings and Site Map for marketing
 14. Additional content added to pages ie About/Bio
-15. Offer choice of sizes and create a function to adjust price in accordance to the selection of a size.
+15. Offer the choice of sizes and create a function to adjust the price following the selection of size.
 
 # Testing
 
 ### Manual
-Tested on multiple devices using both Chrome Dev Tools on desktop and tested on mobile phone.  Iphone 6/7/8 and Ipad Responsive.
+Tested on multiple devices using both Chrome Dev Tools on desktop and tested on a mobile phone.  iPhone 6/7/8 and Ipad Responsive.
 
 
 **Scenarios**
@@ -316,7 +314,7 @@ Through extensive manual testing, I conclude that the site is user-friendly and 
 I will be forking this project and continuing to work on it for Henk. 
 
 ## Bugs
-There were several issues when attempting to deploy to Heroku .
+There were several issues when attempting to deploy to Heroku.
 
 > django.core.exceptions.ImproperlyConfigured: You're using the
 > staticfiles app without having set the STATIC_ROOT setting to a 
@@ -335,16 +333,16 @@ Forgot to remove env from the settings.py resulted in an error
 >    ModuleNotFoundError: No module named 'env'
 
 Issues migrating from SQL to PostgreSQL 
-I found solved by following the istructions from 
+I found solved by following the instructions from 
 
-[How to migrate data from sqlite to postgresql in django](https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h) By Coderasha
+[How to migrate data from SQLite to PostgreSQL in django](https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h) By Coderasha
 
 Solutions included resetting migrations. I referred to this helpful link.
 
 [How to reset migrations](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html)
 Simple is Better than Complex by By **Vitor Freitas**
 
-There is a current Bug in the "Products app" model.py. When making a migration an error report shows the response:
+There is a current bug in the "Products app" model.py. When making a migration an error report shows the response:
 " invalid literal for int() with base 10:" 
 
 ***Validation***
@@ -375,7 +373,7 @@ Code Institute Tutorials
 
 The Code Institute Slack Community
 
-Inspiration taken from 
+Inspiration was taken from 
 https://colinprior.co.uk/
 
 **Images**
@@ -402,11 +400,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTQ5MDg1OSwtNDQ4NzMwODg4LDE3Mz
-A2MTQ1LDEyNzk1OTgwMDYsMzk3OTkwMjEwLC0xNDU3ODA4NTg2
-LC0yMDc4MjE5NzgxLDE1NTY0NDkzNTEsMjQ3NTI3NzMxLC01OT
-A5OTU5NjMsLTE1MTQ3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYx
-OSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNz
-AyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTE4NzQ0OTUyNDUsMTkwMTQ5MDg1OSwtND
+Q4NzMwODg4LDE3MzA2MTQ1LDEyNzk1OTgwMDYsMzk3OTkwMjEw
+LC0xNDU3ODA4NTg2LC0yMDc4MjE5NzgxLDE1NTY0NDkzNTEsMj
+Q3NTI3NzMxLC01OTA5OTU5NjMsLTE1MTQ3Njk1NCwxNTA5Nzgy
+MTE1LC01NDMyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMT
+Q5MjIzODcwMCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1
+MjQ5XX0=
 -->
