@@ -296,6 +296,7 @@ Through extensive manual testing, I conclude that the site is user-friendly and 
 I will be forking this project and continuing to work on it for Henk. 
 
 ## Bugs
+Issues deploying to Heroku 
 
 Solutions included resetting migrations.
 Clear cache/cookies
@@ -357,11 +358,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjQ0OTM1MSwyNDc1Mjc3MzEsLTU5MD
-k5NTk2MywtMTUxNDc2OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5
-LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAwLDE3MD
-IwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MTUwNjk3
-MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMz
-k0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDEx
-MV19
+eyJoaXN0b3J5IjpbLTIwNzgyMTk3ODEsMTU1NjQ0OTM1MSwyND
+c1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2OTU0LDE1MDk3ODIx
+MTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxND
+kyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUy
+NDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLT
+U1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIw
+ODldfQ==
 -->
