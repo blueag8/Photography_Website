@@ -303,8 +303,10 @@ I will be forking this project and continuing to work on it for Henk.
 ## Bugs
 There were several issues when attempting to deploy to Heroku .
 
-django.core.exceptions.ImproperlyConfigured: You're using the staticfiles app without having set the STATIC_ROOT setting to a 
-> filesystem path.
+> django.core.exceptions.ImproperlyConfigured: You're using the
+> staticfiles app without having set the STATIC_ROOT setting to a 
+> filesystem path. !     Error while running '$ python manage.py
+> collectstatic --noinput'.
 
  Solution was to add :   
 
@@ -312,10 +314,11 @@ django.core.exceptions.ImproperlyConfigured: You're using the staticfiles app wi
 
  to the Heroku config variable settings
 
+Forgot to remove env from the settings.py resulted in an error
+>     import env
+> 
+>    ModuleNotFoundError: No module named 'env'
 
-         import env
-
-       ModuleNotFoundError: No module named 'env'
 Issues migrating from SQL to PostgreSQL 
 I found solved by following the istructions from 
 
@@ -384,11 +387,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg0MzA3NDcsMTI3OTU5ODAwNiwzOT
-c5OTAyMTAsLTE0NTc4MDg1ODYsLTIwNzgyMTk3ODEsMTU1NjQ0
-OTM1MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2OTU0LD
-E1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5
-MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkwODAxLD
-E1Njg1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1
-NzAzMTRdfQ==
+eyJoaXN0b3J5IjpbMTczMDYxNDUsMTI3OTU5ODAwNiwzOTc5OT
+AyMTAsLTE0NTc4MDg1ODYsLTIwNzgyMTk3ODEsMTU1NjQ0OTM1
+MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2OTU0LDE1MD
+k3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAw
+NywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Nj
+g1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAz
+MTRdfQ==
 -->
