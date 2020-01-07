@@ -1,17 +1,6 @@
 
 #  Milestone 4- Django Full Stack Project| Professional Photography (e-commerce) website
 
-About
-UX
-UI
- Wirefrmaes
- Data Schema
-Features
-Technologies
-Deployment
-Future Implementations
-Credits
-
 view Heroku app at
 
 https://henkdeweerdphotography.herokuapp.com/
@@ -327,11 +316,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTc4MjExNSwtNTQzMjU2MTksMTQ5Mj
-IzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3MDAsMTcwMjA5MTY1
-OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMTYxNTA2OTcwLDE0OD
-Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
-NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
-EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
-NF19
+eyJoaXN0b3J5IjpbLTIxMDAxNDI2MzEsMTUwOTc4MjExNSwtNT
+QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
+MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
+YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
+MzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOT
+U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
+MjVdfQ==
 -->
