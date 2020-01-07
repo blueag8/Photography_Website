@@ -261,7 +261,8 @@ expiry (must be after current date)
 ## Bugs
 Solutions included resetting migrations.
 Clear cache/cookies
-Issues mirgating from 
+Issues mirgating from sql to postgresql error in mo
+base 10()
 
 ***Validation***
 [https://travis-ci.com/] current status![build:started](https://travis-ci.com/blueag8/Photography_Website.svg?branch=master)
@@ -309,11 +310,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI0NjcxNzYsLTE2MTUwNjk3MCwxND
-g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
-NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
-cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
-ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
-MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
-MDRdfQ==
+eyJoaXN0b3J5IjpbMTkwNjgwNjA4OSwtMTYxNTA2OTcwLDE0OD
+Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
+NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
+EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
+NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
+AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
+NF19
 -->
