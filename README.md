@@ -216,7 +216,7 @@ Login to Heroku if using the CLI
 
     heroku login
     
-You will need to create or sign into any thset up your config variables in the settings.
+You will need to create or sign into any third-party accounts and access your keys then set up your config variables in the settings.
 
 These will include:
 
@@ -404,11 +404,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTQ0NTYxLDE3MzA2MTQ1LDEyNzk1OT
-gwMDYsMzk3OTkwMjEwLC0xNDU3ODA4NTg2LC0yMDc4MjE5Nzgx
-LDE1NTY0NDkzNTEsMjQ3NTI3NzMxLC01OTA5OTU5NjMsLTE1MT
-Q3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAw
-LDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMz
-U5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5
-OV19
+eyJoaXN0b3J5IjpbLTQ0ODczMDg4OCwxNzMwNjE0NSwxMjc5NT
+k4MDA2LDM5Nzk5MDIxMCwtMTQ1NzgwODU4NiwtMjA3ODIxOTc4
+MSwxNTU2NDQ5MzUxLDI0NzUyNzczMSwtNTkwOTk1OTYzLC0xNT
+E0NzY5NTQsMTUwOTc4MjExNSwtNTQzMjU2MTksMTQ5MjIzODcw
+MCwxNTk5NjkyMDA3LDE0OTIyMzg3MDAsMTcwMjA5MTY1OCw0MT
+M1OTA4MDEsMTU2ODU1NTI0OSwtMTYxNTA2OTcwLDE0ODQ0OTUz
+OTldfQ==
 -->
