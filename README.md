@@ -227,23 +227,23 @@ Mobile
  - Check all links are valid
  - Send email using Backend
  - Shop as authorised user
- - add to cart
- - adjust quantity
- - go to checkout
- - checkout update cart
- -  payment form
- - check required fields are requested
+   - add to cart
+   - adjust quantity
+   - go to checkout
+   - checkout update cart
+   -  payment form
+   - check required fields are requested
  - card error messages -incorrect card details, payment declined, expiry date
  - Shop as unauthoriser user
- - add to cart
- - adjust quantity
- - go to checkout
- - checkout login required
+   - add to cart
+   - adjust quantity
+   - go to checkout
+   - checkout login required
    
- 
  - Reset password 
- - 
- Debug was set to True during this process to receive feedback to the the  
+ -
+Note: Debug was set to True during this process to receive feedback. 
+  
 CRUD 
  - Create a product
  - View a product
@@ -259,8 +259,8 @@ expiry (must be after current date)
 01/2021
 
 ## Bugs
-solutions included resetting migrations.
-clear cache/cookies
+Solutions included resetting migrations.
+Clear cache/cookies
 
 ***Validation***
 [https://travis-ci.com/] current status![build:started](https://travis-ci.com/blueag8/Photography_Website.svg?branch=master)
@@ -308,11 +308,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA5NTgwMTAsLTE2MTUwNjk3MCwxND
-g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
-NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
-cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
-ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
-MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
-MDRdfQ==
+eyJoaXN0b3J5IjpbMzgwOTE5ODUxLC0xNjE1MDY5NzAsMTQ4ND
+Q5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1
+LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MT
+MyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5NjgyNSwtNzM3NDgwNjg0
+LDYxMjQ4MTE0NSwxMjYxNTI5OTk2LC0xODg0NjA5MTAsMzUzMD
+EzMTAzLDE3ODU5NjQzMzUsMjA4MTM4NDgwMiwtNDEyODA2MjA0
+XX0=
 -->
