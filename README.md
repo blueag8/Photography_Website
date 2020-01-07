@@ -71,7 +71,7 @@ Henk would like to take inspiration from this website:
 ## UI
 **Wireframes**
 ![enter image description here][https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png)
-![enter image description here]![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
+![enter image description here][https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Home.png](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Home.png)![enter image description here]([https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/About.png](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/About.png))
 ## Data Schema![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Cart.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)
 
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Payment_Confirmation.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Continue_to_Payment.png)
@@ -320,7 +320,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM2NTc0NjYsMTQ5MjIzODcwMCwxNT
+eyJoaXN0b3J5IjpbLTEyNzY2OTE1OTUsMTQ5MjIzODcwMCwxNT
 k5NjkyMDA3LDE0OTIyMzg3MDAsMTcwMjA5MTY1OCw0MTM1OTA4
 MDEsMTU2ODU1NTI0OSwtMTYxNTA2OTcwLDE0ODQ0OTUzOTksMT
 c2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1NSwxOTY3NzMz
