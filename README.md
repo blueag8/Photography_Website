@@ -232,11 +232,14 @@ Login to Heroku if using the CLI
 11. If the user is not logged in for checkout, after login,u redirect back to the cart rather than to home.
 
 # Testing
-### Manual
-Desktop
-*Chrome* 
-Mobile
 
+### Manual
+Tested multiple devices using Chrome Dev Tools.
+Responsive
+Iphone 6/7/8 
+Ipad 
+
+Manually tested on Iphone 6  
 
 **Scenarios**
 
@@ -354,7 +357,7 @@ fQ==
 Naomi Wickham 2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDAyMzczLC01OTA5OTU5NjMsLTE1MT
+eyJoaXN0b3J5IjpbNDM1MTgyNTc1LC01OTA5OTU5NjMsLTE1MT
 Q3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAw
 LDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMz
 U5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5
