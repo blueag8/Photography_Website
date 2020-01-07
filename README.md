@@ -162,7 +162,9 @@ This project was developed using the
 
 3. To activate the virtual env
 `source <name of virtual env>/bin/activate`
-or
+
+   ( source bin/activate 
+    
 
 4. Once inside the activated virtualenv install Django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install Django ==1.11.24". If using Gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
 5. Create a new project by running command "Django-admin startproject [project_name]. " (the . is used to ensure you are in the root directory).
@@ -331,8 +333,9 @@ YyODc1NywxOTUzNjIyNTcsLTk1MzA4MTgzNiw0ODk2MDEyMzVd
 fQ==
 -->
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyOTc4OTY1LDE1MDk3ODIxMTUsLTU0Mz
+eyJoaXN0b3J5IjpbLTc5Njk2MDI4LDE1MDk3ODIxMTUsLTU0Mz
 I1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAw
 LDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
 UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
