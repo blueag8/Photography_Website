@@ -91,11 +91,6 @@ Henk would like to take inspiration from this website:
 
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Mobile_Mockup_home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Mobile_Mockup4.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_ConfirmationMobile.png)
 
-## Front-end
-Presentation/Layout 
-Ie CSS, HTML, Python, Django, Javascript.
-
-## Back-end
 For testing/development, SQLite was used and for deployment to Heroku, Postgresql was used. 
 
 Data Schema:
@@ -332,7 +327,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODgyMDkxNiwtNTQzMjU2MTksMTQ5Mj
+eyJoaXN0b3J5IjpbMTUwOTc4MjExNSwtNTQzMjU2MTksMTQ5Mj
 IzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3MDAsMTcwMjA5MTY1
 OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMTYxNTA2OTcwLDE0OD
 Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
