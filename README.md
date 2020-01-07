@@ -79,11 +79,11 @@ Henk would like to take inspiration from this website:
 [https://colinprior.co.uk/](https://colinprior.co.uk/)
 ## UI
 **Wireframes**
-![enter image description here][https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png)
-![enter image description here][https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Home.png](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
+![Map](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png)
+![Home Page](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Home.png)![About](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
 
-## Data Schema![enter image description here]([https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Cart.png](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Cart.png)
-![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)
+## Data Schema![Cart](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Cart.png)
+![Contact Us](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)
 
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Payment_Confirmation.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Continue_to_Payment.png)
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_Form.png)
@@ -326,7 +326,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTEyODg5MSwxNTA5NzgyMTE1LC01ND
+eyJoaXN0b3J5IjpbMTMwODk5MTQ0MywxNTA5NzgyMTE1LC01ND
 MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
 MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
 E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
