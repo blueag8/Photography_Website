@@ -308,9 +308,8 @@ Issues migrating from SQL to PostgreSQL
 Solutions included resetting migrations.
 
 
-There is a current Bug in the "Products app" model.py. When making a migration  
-error in model 
-base 10()
+There is a current Bug in the "Products app" model.py. When making a migration an error occurs 
+": invalid literal for int() with base 10:
 
 ***Validation***
 [https://travis-ci.com/] current status![build:started](https://travis-ci.com/blueag8/Photography_Website.svg?branch=master)
@@ -367,11 +366,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODczOTA0NSwxMjc5NTk4MDA2LDM5Nz
-k5MDIxMCwtMTQ1NzgwODU4NiwtMjA3ODIxOTc4MSwxNTU2NDQ5
-MzUxLDI0NzUyNzczMSwtNTkwOTk1OTYzLC0xNTE0NzY5NTQsMT
-UwOTc4MjExNSwtNTQzMjU2MTksMTQ5MjIzODcwMCwxNTk5Njky
-MDA3LDE0OTIyMzg3MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMT
-U2ODU1NTI0OSwtMTYxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3
-MDMxNF19
+eyJoaXN0b3J5IjpbMjg1NzczMzc3LDEyNzk1OTgwMDYsMzk3OT
+kwMjEwLC0xNDU3ODA4NTg2LC0yMDc4MjE5NzgxLDE1NTY0NDkz
+NTEsMjQ3NTI3NzMxLC01OTA5OTU5NjMsLTE1MTQ3Njk1NCwxNT
+A5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIw
+MDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNT
+Y4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcw
+MzE0XX0=
 -->
