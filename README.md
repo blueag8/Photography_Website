@@ -3,7 +3,11 @@
 [UX](https://github.com/blueag8/Photography_Website/blob/master/README.md#ux)
 [UI](https://github.com/blueag8/Photography_Website/blob/master/README.md#ui)
 [Features](https://github.com/blueag8/Photography_Website/blob/master/README.md#features)
-[echnologies-used](https://github.com/blueag8/Photography_Website/blob/master/README.md#technologies-used)
+[Technologies](https://github.com/blueag8/Photography_Website/blob/master/README.md#technologies-used)
+[Local Deployment](https://github.com/blueag8/Photography_Website/blob/master/README.md#requirements-to-run-code-locally)
+[Future Implementations](https://github.com/blueag8/Photography_Website/blob/master/README.md#future-implementations)
+[Testing](https://github.com/blueag8/Photography_Website/blob/master/README.md#future-implementations)
+
 view Heroku app at
 
 https://henkdeweerdphotography.herokuapp.com/
@@ -319,11 +323,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTc2NjIyNCwxNTA5NzgyMTE1LC01ND
-MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
-MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
-E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
-MzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NT
-g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
-NV19
+eyJoaXN0b3J5IjpbODM0OTcyMzYsMTUwOTc4MjExNSwtNTQzMj
+U2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3MDAs
+MTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMTYxNT
+A2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMz
+LDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OT
+c0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjVd
+fQ==
 -->
