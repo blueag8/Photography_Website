@@ -175,10 +175,9 @@ This project was developed using the
  this will initialise the application and create a default database.
 8. CLI installation commands
 
-    pip3 install django-bootstrap-modal-forms
-    pip3 install django-forms-bootstrap
-    pip3 install pillow
-    pip3 install stripe
+    pip3 install 
+
+ 
 
 9. If deploying to Heroku you will need a requirements.txt file so use the command:
 
@@ -339,11 +338,11 @@ fQ==
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI4OTgwOTQsMTUwOTc4MjExNSwtNT
-QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
-MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
-YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
-MzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOT
-U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTI0MzYyOTU1LDE1MDk3ODIxMTUsLTU0Mz
+I1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAw
+LDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
+UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
+MywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
+k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
+XX0=
 -->
