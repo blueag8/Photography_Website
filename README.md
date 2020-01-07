@@ -284,7 +284,8 @@ EXPIRY (must be after current date)
 There is a lot more testing I would like to integrate, including more of the automated testing. 
 I have created a Travis.yml file but am currently having issues passing the build. 
 Due to time constraints and passing a deadline I am happy to submit as is for assessment.  
-Through the manual testing, I am happy that the site is user-friendly and works as expected. 
+
+Through extensive manual testing, I conclude that the site is user-friendly and works as expected. 
 
 I will be forking this project and continuing to work on it for Henk. 
 
@@ -349,11 +350,11 @@ fQ==
 
 Naomi Wickham 2020
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ3Njk1NCwxNTA5NzgyMTE1LC01ND
-MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
-MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
-E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
-MzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NT
-g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
-NV19
+eyJoaXN0b3J5IjpbLTE0NDEzNDcyMzksLTE1MTQ3Njk1NCwxNT
+A5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIw
+MDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNT
+Y4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcw
+MzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMD
+c4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3
+NDk3XX0=
 -->
