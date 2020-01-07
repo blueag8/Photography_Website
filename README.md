@@ -260,7 +260,9 @@ expiry (must be after current date)
 01/2021
 
 There is a lot more testing I would like to integrate including more of the automated testing. I have created a Travis.yml file but am currently having issues passing the build. 
-Due to time constraints and passing a deadline I am happy to submit as is for the purpose of assessment.  Through the manual testing I am happy that the site is user friendly and works as expected.
+Due to time constraints and passing a deadline I am happy to submit as is for the purpose of assessment.  Through the manual testing I am happy that the site is user friendly and works as expected. 
+
+I will be forking this project and continuing to work on it for Henk. 
 
 ## Bugs
 
@@ -297,6 +299,7 @@ The Code Institute Slack Community
 
 Inspiration from 
 https://colinprior.co.uk/
+
 **Images**
 By Henk DeWeerd
 **Logo**
@@ -317,7 +320,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2OTEzMDI0LDE1Njg1NTUyNDksLTE2MT
+eyJoaXN0b3J5IjpbNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
 UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
 MywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
 k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
