@@ -3,13 +3,21 @@
 Quick Links
 
 [UX](https://github.com/blueag8/Photography_Website/blob/master/README.md#ux)
+
 [UI](https://github.com/blueag8/Photography_Website/blob/master/README.md#ui) /Wireframes
+
 [Features](https://github.com/blueag8/Photography_Website/blob/master/README.md#features)
+
 [Technologies](https://github.com/blueag8/Photography_Website/blob/master/README.md#technologies-used)
+
 [Local Deployment](https://github.com/blueag8/Photography_Website/blob/master/README.md#requirements-to-run-code-locally)
+
 [Future Implementations](https://github.com/blueag8/Photography_Website/blob/master/README.md#future-implementations)
+
 [Testing](https://github.com/blueag8/Photography_Website/blob/master/README.md#future-implementations)
+
 [Credits](https://github.com/blueag8/Photography_Website/blob/master/README.md#credits)
+
 
 ## Website
 
