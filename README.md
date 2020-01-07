@@ -197,7 +197,7 @@ web: gunicorn <app_name>
 ## Requirements to run code locally:
 
 1. Clone or download repository from https://github.com/blueag8/Photography_Website.git
-2. Activate a virtual environment.
+2. Create a virtual environment.
 3. Source bin/activate
 4. pip3 install -r requirements.txt
 5. python3 manage.py runserver
@@ -211,6 +211,7 @@ I found that pip3 install was not working as I had hoped for the installation an
 I used the command 
 
     npm install -g heroku --classic 
+rather than pip3 .
 
 Login to Heroku if using the CLI 
 
@@ -232,8 +233,6 @@ These will include:
  - CLOUDINARY_URL
 
  
-
-# Deployment
 
 ## Future Implementations
 
@@ -404,11 +403,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODczMDg4OCwxNzMwNjE0NSwxMjc5NT
-k4MDA2LDM5Nzk5MDIxMCwtMTQ1NzgwODU4NiwtMjA3ODIxOTc4
-MSwxNTU2NDQ5MzUxLDI0NzUyNzczMSwtNTkwOTk1OTYzLC0xNT
-E0NzY5NTQsMTUwOTc4MjExNSwtNTQzMjU2MTksMTQ5MjIzODcw
-MCwxNTk5NjkyMDA3LDE0OTIyMzg3MDAsMTcwMjA5MTY1OCw0MT
-M1OTA4MDEsMTU2ODU1NTI0OSwtMTYxNTA2OTcwLDE0ODQ0OTUz
-OTldfQ==
+eyJoaXN0b3J5IjpbNDgwMzQyNzIsLTQ0ODczMDg4OCwxNzMwNj
+E0NSwxMjc5NTk4MDA2LDM5Nzk5MDIxMCwtMTQ1NzgwODU4Niwt
+MjA3ODIxOTc4MSwxNTU2NDQ5MzUxLDI0NzUyNzczMSwtNTkwOT
+k1OTYzLC0xNTE0NzY5NTQsMTUwOTc4MjExNSwtNTQzMjU2MTks
+MTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3MDAsMTcwMj
+A5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMTYxNTA2OTcw
+XX0=
 -->
