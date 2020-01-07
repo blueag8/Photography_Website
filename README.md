@@ -305,8 +305,11 @@ There were several issues when attempting to deploy to Heroku .
 
 Issues migrating from SQL to PostgreSQL 
 
+
 Solutions included resetting migrations. I referred to this helpful link.
+
 [How to reset migrations](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html)
+Simple is Better than Complex by By **Vitor Freitas**
 
 There is a current Bug in the "Products app" model.py. When making a migration an error report shows the response:
 " invalid literal for int() with base 10:" 
@@ -366,7 +369,7 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NTQ0MDQ4LDEyNzk1OTgwMDYsMzk3OT
+eyJoaXN0b3J5IjpbNjM0MzgwODI3LDEyNzk1OTgwMDYsMzk3OT
 kwMjEwLC0xNDU3ODA4NTg2LC0yMDc4MjE5NzgxLDE1NTY0NDkz
 NTEsMjQ3NTI3NzMxLC01OTA5OTU5NjMsLTE1MTQ3Njk1NCwxNT
 A5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIw
