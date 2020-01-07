@@ -154,12 +154,15 @@ Customer details
 This project was developed using the
 [gitpod.io](https://gitpod.io/workspaces/)
 
-1. Create a virtual environment. This can be achieved this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" or alternatively, I chose to create an env.py file to store my private credentials and to ensure  that is was not published to the public repository, this file was added to gitignore via the command:
+1. Create a virtual environment. This can be achieved this via the CLI by typing 
+`virtualenv -p python3 [name of your virtual env]`
+  Alternatively, I chose to create an env.py file to store my private credentials and to ensure  that is was not published to the public repository, this file was added to gitignore via the command:
 
-    env.py >
+    env.py > .gitignore
 
 3. To activate the virtual env
 `source <name of virtual env>/bin/activate`
+or
 
 4. Once inside the activated virtualenv install Django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install Django ==1.11.24". If using Gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
 5. Create a new project by running command "Django-admin startproject [project_name]. " (the . is used to ensure you are in the root directory).
@@ -329,11 +332,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkzNTQyMzcsMTUwOTc4MjExNSwtNT
-QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
-MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
-YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
-MzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOT
-U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
-MjVdfQ==
+eyJoaXN0b3J5IjpbODMyOTc4OTY1LDE1MDk3ODIxMTUsLTU0Mz
+I1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAw
+LDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
+UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
+MywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
+k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
+XX0=
 -->
