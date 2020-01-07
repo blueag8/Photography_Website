@@ -302,7 +302,12 @@ I will be forking this project and continuing to work on it for Henk.
 
 ## Bugs
 There were several issues when attempting to deploy to Heroku .
+ImproperlyConfigured("You're using the staticfiles app "
 
+       django.core.exceptions.ImproperlyConfigured: You're using the staticfiles app without having set the STATIC_ROOT setting to a filesystem path.
+       
+DISABLE_COLLECTSTATIC=1 added to the 
+ !     Error while running '$ python manage.py collectstatic --noinput'.
 
 Issues migrating from SQL to PostgreSQL 
 I found solved by following the istructions from 
@@ -372,7 +377,7 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDUyMTI0OSwxMjc5NTk4MDA2LDM5Nz
+eyJoaXN0b3J5IjpbMTI1OTg4MDgyNSwxMjc5NTk4MDA2LDM5Nz
 k5MDIxMCwtMTQ1NzgwODU4NiwtMjA3ODIxOTc4MSwxNTU2NDQ5
 MzUxLDI0NzUyNzczMSwtNTkwOTk1OTYzLC0xNTE0NzY5NTQsMT
 UwOTc4MjExNSwtNTQzMjU2MTksMTQ5MjIzODcwMCwxNTk5Njky
