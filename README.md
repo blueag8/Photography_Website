@@ -271,7 +271,7 @@ CRUD
  - Delete a product
  
  STRIPE 
- testing code
+ testing code user
 4242 4242 4242 4242
 CVC (any three numbers)
 111
@@ -302,7 +302,7 @@ https://w3c.github.io/developers/tools/ (CSS, HTML)
     </a>
 </p>
 
-[Image testing via Cloudinary Web Speed ](https://webspeedtest.cloudinary.com/)
+[Image testing via Cloudinary Web Speed Test](https://webspeedtest.cloudinary.com/)
 
  HTML validation still has one outstanding error:
  "*Element “style” not allowed as child of element “body” in this context"*
@@ -318,15 +318,16 @@ Code Institute Tutorials
 
 The Code Institute Slack Community
 
-Inspiration from 
+Inspiration taken from 
 https://colinprior.co.uk/
 
 **Images**
 By Henk DeWeerd
+
 **Logo**
 Designed by Naomi Wickham using Google-fonts.
 
-**Referenced** following documentation, tutorials and code checking sites from:
+**Referenced** following documentation, tutorials and sites:
 
 https://stripe.com (Payment API)
 https://www.w3schools.com
@@ -341,13 +342,13 @@ fQ==
 -->
 
 
-
+Naomi Wickham 2020
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTQ2NjMsMTUwOTc4MjExNSwtNTQzMj
-U2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3MDAs
-MTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMTYxNT
-A2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMz
-LDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OT
-c0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjVd
-fQ==
+eyJoaXN0b3J5IjpbLTYyODI1MTIxNCwxNTA5NzgyMTE1LC01ND
+MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
+MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
+E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
+MzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NT
+g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
+NV19
 -->
