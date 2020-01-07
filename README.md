@@ -171,13 +171,15 @@ This project was developed using the
 4. Create a new project by running command 
 5. `Django-admin startproject [project_name] . `  (the . is used to ensure you are in the root directory).
 6. Next, run the command 
-`python3 manage.py migrate`
- this will initialise the application and create a default database.
+`python3 manage.py migrate` this will initialise the application and create a default database.
 8. CLI installation commands
-
-    pip3 install 
-
+ pip3 install django-bootstrap-modal-forms
  
+ pip3 install django-forms-bootstrap
+
+pip3 install pillow
+
+pip3 install stripe
 
 9. If deploying to Heroku you will need a requirements.txt file so use the command:
 
@@ -338,11 +340,11 @@ fQ==
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzYyOTU1LDE1MDk3ODIxMTUsLTU0Mz
-I1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAw
-LDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
-UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
-MywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
-k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
-XX0=
+eyJoaXN0b3J5IjpbLTM3NzIzNTgzNiwxNTA5NzgyMTE1LC01ND
+MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
+MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
+E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
+MzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NT
+g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
+NV19
 -->
