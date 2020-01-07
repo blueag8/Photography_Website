@@ -265,7 +265,7 @@ Tested multiple devices using both Chrome Dev Tools on desktop and tested on mob
  
 Note: Debug was set to True during this process to receive feedback. 
  
- - Check
+ - Check forms intelligently handle invalid or empty/required fields.
 
  
 CRUD 
@@ -357,7 +357,7 @@ fQ==
 Naomi Wickham 2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1ODc4OTk2LC01OTA5OTU5NjMsLTE1MT
+eyJoaXN0b3J5IjpbMjQ3NTI3NzMxLC01OTA5OTU5NjMsLTE1MT
 Q3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAw
 LDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMz
 U5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5
