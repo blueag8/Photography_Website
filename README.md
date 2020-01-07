@@ -248,29 +248,33 @@ Tested multiple devices using both Chrome Dev Tools on desktop and tested on mob
  - Send email using Backend
  - Adjust price filter and check valid products are filtered/returned.
  - Shop as an authorised user
-   - add to cart
-   - adjust quantity
-   - go to checkout
-   - checkout update cart
-   -  payment form
-   - check required fields are requested
-   - card error messages -incorrect card details, payment declined, expiry date
+ - add to cart
+ - adjust quantity
+ - go to checkout
+ - checkout update cart
+ -  payment form
+ - check required fields are requested
+ - card error messages -incorrect card details, payment declined, expiry date
  - Shop as unauthorised user
-   - add to cart
-   - adjust quantity
-   - go to checkout
-   - checkout login required
+ - add to cart
+ - adjust quantity
+ - go to checkout
+ - checkout login required
    
  - Reset password 
  
 Note: Debug was set to True during this process to receive feedback. 
-  
+ 
+ - Check
+
+ 
 CRUD 
  - Create a product
  - View a product
  - Edit a product
  - Delete a product
  
+
  STRIPE 
  Test card details:
 CARD number
@@ -353,11 +357,11 @@ fQ==
 Naomi Wickham 2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ5NzM0NzcsLTU5MDk5NTk2MywtMT
-UxNDc2OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3
-MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsND
-EzNTkwODAxLDE1Njg1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1
-Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMT
-k2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIx
-MTU5XX0=
+eyJoaXN0b3J5IjpbMzg1ODc4OTk2LC01OTA5OTU5NjMsLTE1MT
+Q3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAw
+LDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMz
+U5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5
+OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Nj
+c3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1
+OV19
 -->
