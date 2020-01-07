@@ -154,8 +154,7 @@ Customer details
 This project was developed using the
 [gitpod.io](https://gitpod.io/workspaces/)
 
-1. create a virtual environment. I achieved this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" 
-2. I chose to create an env.py file and ensured that is was not published to the public repository by using gitignore.
+1. Create a virtual environment. This can be achieved this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" or alternatively, I chose to create an env.py file and ensured that is was not published to the public repository by using gitignore.
 This command was "env.py >. gitignore"
 3. To activate the virtual env use "source bin/activate"
 4. Once inside the activated virtualenv install Django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install Django ==1.11.24". If using Gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
@@ -326,7 +325,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk4NDQ0MzMsMTUwOTc4MjExNSwtNT
+eyJoaXN0b3J5IjpbLTEyMzcwNDA2ODYsMTUwOTc4MjExNSwtNT
 QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
 MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
 YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
