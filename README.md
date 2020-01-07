@@ -6,6 +6,8 @@ Quick Links
 
 [UI](https://github.com/blueag8/Photography_Website/blob/master/README.md#ui) /Wireframes
 
+[Data Schema](https://github.com/blueag8/Photography_Website/blob/master/README.md#data-schema)
+
 [Features](https://github.com/blueag8/Photography_Website/blob/master/README.md#features)
 
 [Technologies](https://github.com/blueag8/Photography_Website/blob/master/README.md#technologies-used)
