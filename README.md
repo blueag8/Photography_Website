@@ -259,7 +259,7 @@ These will include:
 13. Headings and Site Map for marketing
 14. Additional content added to pages ie About/Bio
 15. Offer the choice of sizes and create a function to adjust the price following the selection of size.
-16. Contact Us form, update so that it does not ask for the email of a logged-in user.
+16. Contact Us form, update so that it does not ask for the email/details of a logged-in customer.
 
 # Testing
 
@@ -426,11 +426,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTExOTEzNTAsMTkzNDUwMTM5MiwtMT
-g3NDQ5NTI0NSwxOTAxNDkwODU5LC00NDg3MzA4ODgsMTczMDYx
-NDUsMTI3OTU5ODAwNiwzOTc5OTAyMTAsLTE0NTc4MDg1ODYsLT
-IwNzgyMTk3ODEsMTU1NjQ0OTM1MSwyNDc1Mjc3MzEsLTU5MDk5
-NTk2MywtMTUxNDc2OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LD
-E0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAwLDE3MDIw
-OTE2NThdfQ==
+eyJoaXN0b3J5IjpbNDMyMTY1MjY0LDE5MzQ1MDEzOTIsLTE4Nz
+Q0OTUyNDUsMTkwMTQ5MDg1OSwtNDQ4NzMwODg4LDE3MzA2MTQ1
+LDEyNzk1OTgwMDYsMzk3OTkwMjEwLC0xNDU3ODA4NTg2LC0yMD
+c4MjE5NzgxLDE1NTY0NDkzNTEsMjQ3NTI3NzMxLC01OTA5OTU5
+NjMsLTE1MTQ3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxND
+kyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkx
+NjU4XX0=
 -->
