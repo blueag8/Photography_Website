@@ -296,11 +296,13 @@ Through extensive manual testing, I conclude that the site is user-friendly and 
 I will be forking this project and continuing to work on it for Henk. 
 
 ## Bugs
-Issues deploying to Heroku 
-
+There were several issues when attempting to deploy to Heroku .
+Issues migrating from SQL to PostgreSQL 
 Solutions included resetting migrations.
 Clear cache/cookies
-Issues migrating from SQL to PostgreSQL error in model 
+
+
+error in model 
 base 10()
 
 ***Validation***
@@ -358,11 +360,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgyMTk3ODEsMTU1NjQ0OTM1MSwyND
-c1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2OTU0LDE1MDk3ODIx
-MTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxND
-kyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUy
-NDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLT
-U1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIw
-ODldfQ==
+eyJoaXN0b3J5IjpbLTE0NTc4MDg1ODYsLTIwNzgyMTk3ODEsMT
+U1NjQ0OTM1MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2
+OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMT
+U5OTY5MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkw
+ODAxLDE1Njg1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LD
+E3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2Nzcz
+Mzc5XX0=
 -->
