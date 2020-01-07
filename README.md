@@ -218,9 +218,8 @@ Login to Heroku if using the CLI "heroku login"
 ## Future Implementations
 
  1. Automated message bot.
- 2. Provide an external link to photos enlarged. Ie the Cloudinary link could open in a new tab, or use a model to enlarge the photo for viewing.
- 3. Better presentation of singular product/image page.
- 4. Images need improving.
+ 2. Provide an external link to photos enlarged. Ie the Cloudinary link could open in a new tab, or use a modal to display the  enlarged photo for viewing.
+ 3. Images need resizing and adjustments for  best optimization.
  5. Email copy or order form to the customer. (Perhaps use a modal to show order back to the customer rather than the alert).
  6. Reset password page HTML and CSS also to redirect to home after submission.
  7. Set up an external email account (emails currently only go to Backend testing).
@@ -342,7 +341,7 @@ fQ==
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTgzMjYxOSwxNTA5NzgyMTE1LC01ND
+eyJoaXN0b3J5IjpbMTYzNTc5Njc3OCwxNTA5NzgyMTE1LC01ND
 MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
 MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
 E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
