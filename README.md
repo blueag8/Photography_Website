@@ -271,11 +271,14 @@ CRUD
  - Delete a product
  
  STRIPE 
- testing code user
+ Test card details:
+CARD number
 4242 4242 4242 4242
+NAME
+Any 
 CVC (any three numbers)
 111
-expiry (must be after current date)
+EXPIRY (must be after current date)
 01/2021
 
 There is a lot more testing I would like to integrate including more of the automated testing. I have created a Travis.yml file but am currently having issues passing the build. 
@@ -344,11 +347,11 @@ fQ==
 
 Naomi Wickham 2020
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODI1MTIxNCwxNTA5NzgyMTE1LC01ND
-MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
-MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
-E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
-MzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NT
-g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
-NV19
+eyJoaXN0b3J5IjpbLTE1MjA5NDUxNzAsMTUwOTc4MjExNSwtNT
+QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
+MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
+YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
+MzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOT
+U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
+MjVdfQ==
 -->
