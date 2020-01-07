@@ -155,7 +155,7 @@ This project was developed using the
 [gitpod.io](https://gitpod.io/workspaces/)
 
 1. Create a virtual environment. This can be achieved this via the CLI by typing "virtualenv -p python3 [name of your virtual env]" or alternatively, I chose to create an env.py file to store my private credentials and to ensure  that is was not published to the public repository, this file was added to gitignore via the command:  "env.py >. gitignore"
-3. To activate the virtual env use either "source bin/activate" (if you have created en
+3. To activate the virtual env use either "source <name of virtual env>/bin/activate" (if you have created env.py).  If you have created using
 4. Once inside the activated virtualenv install Django. You may need to use the command "cd .. " to ensure you are in the root directory then use the command "pip3 install Django ==1.11.24". If using Gitpod I found that if in the virtualenv the "pip3" install [command] didn't work, and using the "easy_install"[command] worked.
 5. Create a new project by running command "Django-admin startproject [project_name]. " (the . is used to ensure you are in the root directory).
 6. Next, run the command "python3 manage.py migrate" this will initialise the application and create a default database.
@@ -324,7 +324,7 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjc5NjY2MywxNTA5NzgyMTE1LC01ND
+eyJoaXN0b3J5IjpbLTkxNDA0OTQwMCwxNTA5NzgyMTE1LC01ND
 MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
 MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
 E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
