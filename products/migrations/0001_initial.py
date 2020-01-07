@@ -18,7 +18,7 @@ class Migration(migrations.Migration):
             name='Product',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('price', models.IntegerField(choices=[(100, 'A4 (21 x 29.7cm)'), (150, 'A3 (29 x 42cm)'), (200, 'A3 + (32.9 x 48.3cm)')], default='')),
+                ('price', models.IntegerField()),
                 ('category', models.CharField(default='', max_length=100)),
                 ('name', models.CharField(default='', max_length=200)),
                 ('description', models.TextField()),
