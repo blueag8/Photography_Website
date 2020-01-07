@@ -207,8 +207,7 @@ web: gunicorn <app_name>
 2. Create a virtual environment.
 3. Source bin/activate
 4. pip3 install -r requirements.txt
-5. set up your environment variables ie. SECRET_KEY
-[create your own ](https://miniwebtool.com/django-secret-key-generator/)
+5. set up your environment variables ie. SECRET_KEY [create your own  ](https://miniwebtool.com/django-secret-key-generator/)
 7. python3 manage.py runserver
 8. python3 manage.py makemigrations
 9. python3 manage.py migrate
@@ -425,7 +424,7 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzUwOTc4NiwtMTg3NDQ5NTI0NSwxOT
+eyJoaXN0b3J5IjpbMTkzNDUwMTM5MiwtMTg3NDQ5NTI0NSwxOT
 AxNDkwODU5LC00NDg3MzA4ODgsMTczMDYxNDUsMTI3OTU5ODAw
 NiwzOTc5OTAyMTAsLTE0NTc4MDg1ODYsLTIwNzgyMTk3ODEsMT
 U1NjQ0OTM1MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2
