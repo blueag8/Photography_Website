@@ -229,8 +229,9 @@ Login to Heroku if using the CLI
  8. Admin access pages made more "user-friendly" as Henk will be maintaining it himself.
  9. Filters need to be added for categories as per Henks wishes.
  10. Background images for individual pages need adjusting in the templates which extend from the base.html. 
-11. If the user is not logged in for checkout, then after login, redirect back to the cart rather than to home.
-12. Favicon image for branding 
+11. Update url- If the user is not logged in for checkout, then after login, redirect back to the cart rather than to home.
+12. Add favicon image for branding 
+13. 
 # Testing
 
 ### Manual
@@ -360,7 +361,7 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NzUwNTQ0LC0xNDU3ODA4NTg2LC0yMD
+eyJoaXN0b3J5IjpbMzk3OTkwMjEwLC0xNDU3ODA4NTg2LC0yMD
 c4MjE5NzgxLDE1NTY0NDkzNTEsMjQ3NTI3NzMxLC01OTA5OTU5
 NjMsLTE1MTQ3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxND
 kyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkx
