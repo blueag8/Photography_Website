@@ -80,6 +80,7 @@ Henk would like to take inspiration from this website:
 ![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Mobile_Mockup_home.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Mobile_Mockup4.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_ConfirmationMobile.png)
 
 ## Front-end
+Presentation/Layout 
 
 ## Back-end
 For testing/development Sqlite was used and for deployment to Heroku, Postgresql  was used. 
@@ -318,11 +319,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NjMzMDAxLDQxMzU5MDgwMSwxNTY4NT
-U1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0
-LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4OD
-AyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3
-LDYzMDY5NjgyNSwtNzM3NDgwNjg0LDYxMjQ4MTE0NSwxMjYxNT
-I5OTk2LC0xODg0NjA5MTAsMzUzMDEzMTAzLDE3ODU5NjQzMzVd
-fQ==
+eyJoaXN0b3J5IjpbLTE3NTAyNzU0NjAsNDEzNTkwODAxLDE1Nj
+g1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAz
+MTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNz
+g4MDIwODksLTk1ODk3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0
+OTcsNjMwNjk2ODI1LC03Mzc0ODA2ODQsNjEyNDgxMTQ1LDEyNj
+E1Mjk5OTYsLTE4ODQ2MDkxMCwzNTMwMTMxMDMsMTc4NTk2NDMz
+NV19
 -->
