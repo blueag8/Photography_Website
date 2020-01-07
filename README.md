@@ -1,7 +1,9 @@
 
 #  Milestone 4- Django Full Stack Project| Professional Photography (e-commerce) website
 [UX](https://github.com/blueag8/Photography_Website/blob/master/README.md#ux)
-
+[UI](https://github.com/blueag8/Photography_Website/blob/master/README.md#ui)
+[Features](https://github.com/blueag8/Photography_Website/blob/master/README.md#features)
+[echnologies-used](https://github.com/blueag8/Photography_Website/blob/master/README.md#technologies-used)
 view Heroku app at
 
 https://henkdeweerdphotography.herokuapp.com/
@@ -317,11 +319,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NjI5ODI5LDE1MDk3ODIxMTUsLTU0Mz
-I1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAw
-LDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
-UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
-MywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
-k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
-XX0=
+eyJoaXN0b3J5IjpbMTc5OTc2NjIyNCwxNTA5NzgyMTE1LC01ND
+MyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIwMDcsMTQ5MjIzODcw
+MCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNTY4NTU1MjQ5LC0xNj
+E1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcwMzE0LC01NTAxNzIz
+MzMsMzM5NDQxMDU1LDE5Njc3MzM3OSwyMDc4ODAyMDg5LC05NT
+g5NzQxMTEsMTg3MTMyMTE1OSwxMTM4NDQ3NDk3LDYzMDY5Njgy
+NV19
 -->
