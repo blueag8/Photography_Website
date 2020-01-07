@@ -1,5 +1,6 @@
 
 #  Milestone 4- Django Full Stack Project| Professional Photography (e-commerce) website
+[UX](https://github.com/blueag8/Photography_Website/blob/master/README.md#ux)
 
 view Heroku app at
 
@@ -16,7 +17,7 @@ This is the final Project for the Code Institute Full Stack Web Development Cour
 
 The aim is to design and build a full-stack website around the business logic. We are required to show an authentication mechanism, payment facilities and a locally managed dataset which stores products or services.
 
-This is a Website built using Python+Django, HTML, CSS, JavaScript logic for Frontend and a relational database.
+This is a Website built using Python, Django, HTML, CSS, JavaScript logic for Frontend and a relational database.
 
 Initially, when I began the project, whilst following the Code Institute's Tutorial on developing an E-commerce site ("Putting it all together"), I had a different project in mind. "Toolbox" is an app that I still wish to pursue, but after having spoken with Henk, I decided that building this site for Henk will better meet the requirements for assessment. I had not adjusted the project/app name as I have been limited on time to meet a deadline and was preventing the introduction of any bugs that may have been created as a result of this change.
  
@@ -316,11 +317,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAxNDI2MzEsMTUwOTc4MjExNSwtNT
-QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
-MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
-YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
-MzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOT
-U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
-MjVdfQ==
+eyJoaXN0b3J5IjpbMzE0NjI5ODI5LDE1MDk3ODIxMTUsLTU0Mz
+I1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAw
+LDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
+UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
+MywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
+k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
+XX0=
 -->
