@@ -234,10 +234,7 @@ Login to Heroku if using the CLI
 # Testing
 
 ### Manual
-Tested multiple devices using Chrome Dev Tools.
-Responsive
-Iphone 6/7/8 
-Ipad 
+Tested multiple devices using both Chrome Dev Tools on desktop and tested on mobile phone. Responsive a
 
 Manually tested on Iphone 6  
 
@@ -357,11 +354,11 @@ fQ==
 Naomi Wickham 2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MTgyNTc1LC01OTA5OTU5NjMsLTE1MT
-Q3Njk1NCwxNTA5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAw
-LDE1OTk2OTIwMDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMz
-U5MDgwMSwxNTY4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5
-OSwxNzYzNTcwMzE0LC01NTAxNzIzMzMsMzM5NDQxMDU1LDE5Nj
-c3MzM3OSwyMDc4ODAyMDg5LC05NTg5NzQxMTEsMTg3MTMyMTE1
-OV19
+eyJoaXN0b3J5IjpbLTE2ODAyNjE2MDUsLTU5MDk5NTk2MywtMT
+UxNDc2OTU0LDE1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3
+MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsND
+EzNTkwODAxLDE1Njg1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1
+Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEwNTUsMT
+k2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxODcxMzIx
+MTU5XX0=
 -->
