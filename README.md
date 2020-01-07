@@ -226,6 +226,7 @@ Mobile
  - Click on logo to be taken back to home
  - Check all links are valid
  - Send email using Backend
+ - Adjust price filter and check valid products are filtered/returned.
  - Shop as authorised user
    - add to cart
    - adjust quantity
@@ -259,9 +260,10 @@ expiry (must be after current date)
 01/2021
 
 ## Bugs
+
 Solutions included resetting migrations.
 Clear cache/cookies
-Issues mirgating from sql to postgresql error in mo
+Issues mirgating from sql to postgresql error in model 
 base 10()
 
 ***Validation***
@@ -310,11 +312,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjgwNjA4OSwtMTYxNTA2OTcwLDE0OD
-Q0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcyMzMzLDMzOTQ0MTA1
-NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOTU4OTc0MTExLDE4Nz
-EzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4MjUsLTczNzQ4MDY4
-NCw2MTI0ODExNDUsMTI2MTUyOTk5NiwtMTg4NDYwOTEwLDM1Mz
-AxMzEwMywxNzg1OTY0MzM1LDIwODEzODQ4MDIsLTQxMjgwNjIw
-NF19
+eyJoaXN0b3J5IjpbLTE0NzM2MzAyNDcsLTE2MTUwNjk3MCwxND
+g0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMzMywzMzk0NDEw
+NTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1ODk3NDExMSwxOD
+cxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1LC03Mzc0ODA2
+ODQsNjEyNDgxMTQ1LDEyNjE1Mjk5OTYsLTE4ODQ2MDkxMCwzNT
+MwMTMxMDMsMTc4NTk2NDMzNSwyMDgxMzg0ODAyLC00MTI4MDYy
+MDRdfQ==
 -->
