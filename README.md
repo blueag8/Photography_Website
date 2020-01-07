@@ -305,6 +305,7 @@ There were several issues when attempting to deploy to Heroku .
 
 Issues migrating from SQL to PostgreSQL 
 
+[How to migrate data from sqlite to postgresql in django](https://dev.to/coderasha/how-to-migrate-data-from-sqlite-to-postgresql-in-django-182h) By Coderasha
 
 Solutions included resetting migrations. I referred to this helpful link.
 
@@ -369,11 +370,11 @@ fQ==
 *Naomi Wickham 2020*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0MzgwODI3LDEyNzk1OTgwMDYsMzk3OT
-kwMjEwLC0xNDU3ODA4NTg2LC0yMDc4MjE5NzgxLDE1NTY0NDkz
-NTEsMjQ3NTI3NzMxLC01OTA5OTU5NjMsLTE1MTQ3Njk1NCwxNT
-A5NzgyMTE1LC01NDMyNTYxOSwxNDkyMjM4NzAwLDE1OTk2OTIw
-MDcsMTQ5MjIzODcwMCwxNzAyMDkxNjU4LDQxMzU5MDgwMSwxNT
-Y4NTU1MjQ5LC0xNjE1MDY5NzAsMTQ4NDQ5NTM5OSwxNzYzNTcw
-MzE0XX0=
+eyJoaXN0b3J5IjpbLTE1MDE0NTc0ODksMTI3OTU5ODAwNiwzOT
+c5OTAyMTAsLTE0NTc4MDg1ODYsLTIwNzgyMTk3ODEsMTU1NjQ0
+OTM1MSwyNDc1Mjc3MzEsLTU5MDk5NTk2MywtMTUxNDc2OTU0LD
+E1MDk3ODIxMTUsLTU0MzI1NjE5LDE0OTIyMzg3MDAsMTU5OTY5
+MjAwNywxNDkyMjM4NzAwLDE3MDIwOTE2NTgsNDEzNTkwODAxLD
+E1Njg1NTUyNDksLTE2MTUwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1
+NzAzMTRdfQ==
 -->
