@@ -82,17 +82,17 @@ Henk would like to take inspiration from this website:
 ![Map](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Map.png)
 ![Home Page](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Home.png)![About](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/About.png)
 
-## Data Schema![Cart](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Cart.png)
+![Cart](https://res.cloudinary.com/blueag8/image/upload/v1578415910/photography_website/Cart.png)
 ![Contact Us](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Contact.png)![Portfolio](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Portfolio.png)
 
 ![Shop](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Shop.png)![Payement Confirmation](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Payment_Confirmation.png)![Order Form](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Continue_to_Payment.png)
 ![Payment Form](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_Form.png)
 
-![Mobile r](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Mobile_Mockup_home.png)![Mobile responsive](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Shop.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Mobile_Mockup4.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_ConfirmationMobile.png)
+![Mobile responsive](https://res.cloudinary.com/blueag8/image/upload/v1574999839/Photography%20website/Mobile_Mockup_home.png)![Mobile responsive](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Contact.png)![enter image description here](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Mobile_Shop.png)![Mobile responsive](https://res.cloudinary.com/blueag8/image/upload/v1574999841/Photography%20website/Mobile_Mockup4.png)![Mobile Responsive](https://res.cloudinary.com/blueag8/image/upload/v1574999840/Photography%20website/Payment_ConfirmationMobile.png)
 
 For testing/development, SQLite was used and for deployment to Heroku, Postgresql was used. 
 
-Data Schema:
+## Data Schema
 
 *Product Model*
 Category
@@ -326,11 +326,11 @@ fQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NDk0MjM2LDE1MDk3ODIxMTUsLTU0Mz
-I1NjE5LDE0OTIyMzg3MDAsMTU5OTY5MjAwNywxNDkyMjM4NzAw
-LDE3MDIwOTE2NTgsNDEzNTkwODAxLDE1Njg1NTUyNDksLTE2MT
-UwNjk3MCwxNDg0NDk1Mzk5LDE3NjM1NzAzMTQsLTU1MDE3MjMz
-MywzMzk0NDEwNTUsMTk2NzczMzc5LDIwNzg4MDIwODksLTk1OD
-k3NDExMSwxODcxMzIxMTU5LDExMzg0NDc0OTcsNjMwNjk2ODI1
-XX0=
+eyJoaXN0b3J5IjpbLTE2MTk4NDQ0MzMsMTUwOTc4MjExNSwtNT
+QzMjU2MTksMTQ5MjIzODcwMCwxNTk5NjkyMDA3LDE0OTIyMzg3
+MDAsMTcwMjA5MTY1OCw0MTM1OTA4MDEsMTU2ODU1NTI0OSwtMT
+YxNTA2OTcwLDE0ODQ0OTUzOTksMTc2MzU3MDMxNCwtNTUwMTcy
+MzMzLDMzOTQ0MTA1NSwxOTY3NzMzNzksMjA3ODgwMjA4OSwtOT
+U4OTc0MTExLDE4NzEzMjExNTksMTEzODQ0NzQ5Nyw2MzA2OTY4
+MjVdfQ==
 -->
